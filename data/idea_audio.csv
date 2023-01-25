@@ -1,0 +1,104 @@
+﻿speaker_id,file_name,sample_name,birth_place,native_langs,other_langs,age,sex,age_of_english_onset,english_learning_method,english_residence,years_of_english_residence,class_labels
+1,algeria1,algeria1,"algiers, algeria",arabic,french,26,female,,,"uk, usa",0.75,7
+2,angola1,angola1,"luanda, angola",portuguese,none,24,male,,,usa,6,158
+3,angola2,angola2,"luanda, angola",portuguese,lingala,40,male,,naturalistic,south africa,0.5,158
+4,benin1,benin1,"porto novo, benin",french,"fang, nago yoruba",54,male,,academic,usa,3,54
+5,egypt1,egypt1,switzerland,arabic,none,55,male,,,,,7
+6,egypt2,egypt2,egypt,arabic,none,22,male,,,,,7
+7,egypt3,egypt3,egypt,arabic,none ,21,female,,,,,7
+8,egypt4,egypt4,"cairo, egypt",arabic,none,64,male,,,"canada, usa",0.5,7
+9,egypt5,egypt5,"cairo, egypt",arabic,french,37,male,,,,,7
+10,egypt6,egypt6,"giza, egypt",arabic,"french, german",46,female,,,,,7
+11,egypt7,egypt7,"cairo, egypt",arabic,none,29,male,,,usa,4,7
+12,italy1,italy1,"venice, italy",italian,french,25,male,,,,,87
+13,italy2,italy2,"rimini, italy",italian,none,28,male,,,usa,0.5,87
+14,italy3,italy3,"venice, italy",italian,none,34,female,,academic,"uk, usa",0.5,87
+15,italy4,italy4,"possagno, italy",italian,none,28,female,,,usa,0.5,87
+16,italy5,italy5,"lecco, italy",italian,"french, german",25,female,11,,usa,0.5,87
+17,italy6,italy6,"milan, italy",italian,none,25,male,,,usa,0.5,87
+18,italy7,italy7,"agrigento, sicily",italian,none,65,male,,,usa,0.5,87
+19,italy8,italy8,"bologna, italy",italian,none,35,male,,academic,usa,0.5,87
+20,italy9,italy9,"treviso, italy",italian,none,33,male,,,,,87
+21,italy10,italy10,"florence, italy",italian,none,36,female,,,,,87
+22,philippines1,philippines1,"manila, philippines",filipino,none,31,male,,academic,,,333
+23,philippines2,philippines2,"manila, philippines",filipino,none,23,male,,,,,333
+24,philippines3,philippines3,"imus, philippines",filipino,tagalog,27,male,,,,,333
+25,philippines4,philippines4,"imus, philippines",filipino,tagalog,26,female,,,,,333
+26,philippines5,philippines5,"quezon city, philippines",filipino,none,25,male,,,,,333
+27,philippines6,philippines6,"iloilo city, philippines",filipino,spanish,51,female,,academic,,,333
+28,philippines7,philippines7,"cavite city, philippines",filipino,none,29,female,,,,,333
+29,philippines8,philippines8,"vigan city, philippines",filipino,"spanish, ilocano, tagalog",89,female,,,,,333
+30,philippines9,philippines9,"manila, philippines",filipino,chinese,29,male,,,,,333
+31,philippines10,philippines10,"pasay city, philippines",filipino,"tagalog, chavacano",31,male,,,usa,13,333
+32,russia1,russia1,"st. petersburg, russia",russian,none,55,female,,,usa,0.5,165
+33,russia2,russia2,"moscow, russia",russian,none,59,male,,,,,165
+34,russia3,russia3,"moscow, russia",russian,none,34,female,,,usa,0.5,165
+35,russia8,russia8,"baku, azerbaijan",russian,none,20,female,,,,,165
+36,russia9,russia9,"st. petersburg, russia",russian,none,29,male,4,,,,165
+37,russia10,russia10,"moscow, russia",russian,none,24,female,,,,,165
+38,russia12,russia12,"kholmsk, russia",russian,none,24,male,,,australia,7,165
+39,russia13,russia13,"st. petersburg, russia",russian,none,64,female,,,usa,8,165
+40,russia14,russia14,"voskresensk, russia",russian,none,23,male,,,,,165
+41,russia15,russia15,"moscow, russia",russian,none,20,male,,,usa,10,165
+42,russia16,russia16,"kemerovo, siberia",russian,none,34,female,,,,,165
+43,india1,india1,"lucknow, india",hindi,none,20,female,,,,,76
+44,india2,india2,"chennai, india",hindi,"french, german",24,female,,academic,,,76
+45,india3,india3,"madurai, india",hindi,tamil,23,male,,,usa,0.5,76
+46,india5,india5,"trivandrum, india",hindi,"none, malayalam",30,female,,,usa,0.5,76
+47,india6,india6,"kanyakumari, india",hindi,"tamil, malayalam",21,male,,,,,76
+48,india8,india8,"hyderabad, india",hindi,telugu,27,female,,,usa,4,76
+49,india9,india9,"nasik, india",hindi,marathi,29,male,5,academic,usa,4,76
+50,india10,india10,"hyderabad, india",hindi,"french, bengali",31,male,,,"uk, usa",10,76
+51,india11,india11,"jamnagar, india",hindi,"tamil, gurajati",25,female,,naturalistic,usa,3,76
+52,india13,india13,"mangalore, india",hindi,none,24,male,,,usa,1,76
+53,india14,india14,"kerala, india",hindi,none,23,female,,,,,76
+54,india15,india15,"kerala, india",hindi,"tamil, malayalam",69,male,,,,,76
+55,newzealand1,newzealand1,"christchurch, new zealand",english,none,25,male,,,"uk, usa",0.5,43
+56,newzealand2,newzealand2,"auckland, new zealand",english,none,25,female,,,"australia, uk, usa",0.5,43
+57,newzealand5,newzealand5,"russel, new zealand",english,none,40,male,,,,,43
+58,newzealand6,newzealand6,"christchurch, new zealand",english,none,27,male,,,"south africa, usa",0.5,43
+59,newzealand7,newzealand7,"christchurch, new zealand",english,none,46,female,,,,,43
+60,newzealand8,newzealand8,"darfield, new zealand",english,none,36,male,,,"uk, australia, canada",0.5,43
+61,newzealand10,newzealand10,"christchurch, new zealand",english,none,19,male,,,,,43
+62,newzealand11,newzealand11,"gisborne, new zealand",english,none,32,male,,,australia,0.5,43
+63,newzealand12,newzealand12,"auckland, new zealand",english,none,18,female,,,,,43
+64,newzealand13,newzealand13,"pukekohe, new zealand",english,none,17,female,,,,,43
+65,japan3,japan3,"nagoya, japan",japanese,none,25,male,,,usa,0.3,89
+66,japan4,japan4,"iwakuni, japan",japanese,none,26,female,,,usa,3,89
+67,japan5,japan5,"shiki, japan",japanese,none,20,female,,,usa,0.5,89
+68,japan6,japan6,"nagano, japan",japanese ,none,29,female,,academic,usa,0.5,89
+69,japan7,japan7,"hamamatsu, japan",japanese,none,25,female,,,usa,5,89
+70,japan8,japan8,"nagoya, japan",japanese,none,24,female,,academic,"australia, usa",7,89
+71,japan9,japan9,"oitashi, japan",japanese,none,24,male,,,"australia, usa ",3,89
+72,japan10,japan10,"yumanashi, japan",japanese,none,23,female,,,uk,0.75,89
+73,japan11,japan11,"tokyo, japan",japanese,none,38,female,,,"new zealand, uk",2,89
+74,japan12,japan12,"aichi, japan",japanese,none,32,male,,,usa,6,89
+75,japan13,japan13,"aichi, japan",japanese,none,31,female,,,usa,1,89
+76,brazil1,brazil1,"resende, brazil",portuguese,none,22,female,6,academic,usa,3.5,158
+77,brazil2,brazil2,"brasilia, brazil",portuguese,none,21,male,17,,usa,2,158
+78,brazil3,brazil3,"rio de janeiro, brazil",portuguese,spanish,60,male,,,usa,1,158
+79,brazil4,brazil4,"minas gerais, brazil",portuguese,none,36,male,,,usa,12,158
+80,brazil5,brazil5,"sao paulo, brazil",portuguese,none,33,female,,,usa,9,158
+81,brazil6,brazil6,"sao paulo, brazil",portuguese,none,30,female,,,usa,3,158
+82,brazil7,brazil7,"sao paulo, brazil",portuguese,none,23,male,,,,,158
+83,brazil8,brazil8,"bahia, brazil",portuguese,none,20,female,,,usa,0.4,158
+84,brazil9,brazil9,"belo horizonte, brazil",portuguese,none,23,female,,,,,158
+85,brazil10,brazil10,"brasilia, brazil",portuguese,none,44,male,,,uk,4,158
+86,brazil11,brazil11,"parana, brazil",portuguese,none,22,male,,,,,158
+87,brazil12,brazil12,"sao paulo, brazil",portuguese,none,56,female,,,usa,30,158
+88,france2,france2,"paris, france",french,none,23,female,,,"usa, uk",0.5,54
+89,france4,france4,"aubenas, france",french,none,22,female,,,"usa, uk",0.5,54
+90,france5,france5,"besancon, france",french,none,23,female,,,usa,1,54
+91,france6,france6,"alsace, france",french,german,57,male,,,"canada, uk, usa",2,54
+92,france7,france7,"alsace, france",french,german,55,female,,,"canada, uk, usa",2,54
+93,france8,france8,"paris, france",french,none,22,female,,,usa,1,54
+94,france9,france9,"evreux, france",french,none,25,male,,,"usa, uk",0.5,54
+95,france10,france10,"saint-nazaire, france",french,none,44,male,,,uk,0.5,54
+96,france12,france12,"versailles, france",french,none,49,female,,,,,54
+97,france14,france14,"versailles, france",french,none,20,male,,,usa,5,54
+98,saudiarabia1,saudiarabia1,"riyadh, saudi arabia",arabic,none,20,male,,,usa,0.5,7
+99,saudiarabia2,saudiarabia2,"naijran, saudi arabia",arabic,none,25,male,,,usa,0.5,7
+100,saudiarabia3,saudiarabia3,"riyadh, saudi arabia",arabic,none,20,male,,,,,7
+101,saudiarabia4,saudiarabia4,"dhahran, saudi arabia",arabic,none,19,female,18,academic,usa,0.6,7
+102,saudiarabia7,saudiarabia7,"jeddah, saudi arabia",arabic,none,25,female,,,usa,0.8,7
+103,saudiarabia8,saudiarabia8,"dhahran, saudi arabia",arabic,none,18,female,,,,,7

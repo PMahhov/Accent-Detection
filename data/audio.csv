@@ -261,12 +261,12 @@
 1505;armenian7;armenian7;tehran, iran;armenian;farsi;31;male;10;academic;usa;3;8;not selected;not selected;0;0
 1710;armenian8;armenian8;yerevan, armenia;armenian;russian;50;female;35;naturalistic;usa;15;8;not selected;not selected;0;0
 1977;ashanti1;ashanti1;accra, ghana;ashanti;french fanti;42;female;1;naturalistic;ghana, usa;42;9;not selected;not selected;0;0
-25;azerbaijani1;azerbaijani1;naxcivan, azerbaijan;azerbaijani;russian;24;male;14;academic;usa;1;10;Turkic;Southern Turkic;13;1301
-434;azerbaijani2;azerbaijani2;baku, azerbaijan;azerbaijani;turkish russian farsi;42;female;40;naturalistic;usa;2;10;Turkic;Southern Turkic;13;1301
-1791;azerbaijani3;azerbaijani3;baku, azerbaijan;azerbaijani;turkish arabic;31;male;16;academic;usa;2;10;Turkic;Southern Turkic;13;1301
-2341;azerbaijani4;azerbaijani4;urmia, iran;azerbaijani;farsi turkish arabic;32;female;9;academic;usa;3;10;Turkic;Southern Turkic;13;1301
-2342;azerbaijani5;azerbaijani5;urmia, iran;azerbaijani;farsi;37;male;14;academic;usa;3;10;Turkic;Southern Turkic;13;1301
-3002;azerbaijani6;azerbaijani6;julfa, azerbaijan;azerbaijani;none;21;male;16;academic;usa;4;10;Turkic;Southern Turkic;13;1301
+25;azerbaijani1;azerbaijani1;naxcivan, azerbaijan;azerbaijani;russian;24;male;14;academic;usa;1;10;not selected;not selected;0;0
+434;azerbaijani2;azerbaijani2;baku, azerbaijan;azerbaijani;turkish russian farsi;42;female;40;naturalistic;usa;2;10;not selected;not selected;0;0
+1791;azerbaijani3;azerbaijani3;baku, azerbaijan;azerbaijani;turkish arabic;31;male;16;academic;usa;2;10;not selected;not selected;0;0
+2341;azerbaijani4;azerbaijani4;urmia, iran;azerbaijani;farsi turkish arabic;32;female;9;academic;usa;3;10;not selected;not selected;0;0
+2342;azerbaijani5;azerbaijani5;urmia, iran;azerbaijani;farsi;37;male;14;academic;usa;3;10;not selected;not selected;0;0
+3002;azerbaijani6;azerbaijani6;julfa, azerbaijan;azerbaijani;none;21;male;16;academic;usa;4;10;not selected;not selected;0;0
 26;bafang1;bafang1;douala, cameroon;bafang;french;40;male;30;academic;usa;10;11;not selected;not selected;0;0
 992;bafang2;bafang2;douala, cameroon;bafang;french;38;male;6;academic;usa;5;11;not selected;not selected;0;0
 27;baga1;baga1;conakry, guinea;baga;susu mandingo french;31;male;29;academic;usa;2;12;not selected;not selected;0;0
@@ -284,9 +284,9 @@
 33;basque2;basque2;guernica, spain;basque;spanish;50;male;19;naturalistic;usa;30;18;not selected;not selected;0;0
 687;bavarian1;bavarian1;erding, bavaria, germany;bavarian;italian french;54;female;10;academic;usa, uk;17;19;not selected;not selected;0;0
 1045;bavarian2;bavarian2;berchtesgaden, germany;bavarian;french dutch;52;female;10;academic;usa;15;19;not selected;not selected;0;0
-417;belarusan1;belarusan1;chamiancy, vilejka, belarus;belarusan;russian;25;male;11;academic;;0;20;Indo-European;Balto-Slavic;5;502
-650;belarusan2;belarusan2;minsk, belarus;belarusan;russian polish;43;female;12;academic;usa;5;20;Indo-European;Balto-Slavic;5;502
-2166;belarusan3;belarusan3;gomel, belarus;belarusan;russian;18;male;6;academic;;0;20;Indo-European;Balto-Slavic;5;502
+417;belarusan1;belarusan1;chamiancy, vilejka, belarus;belarusan;russian;25;male;11;academic;;0;20;not selected;not selected;0;0
+650;belarusan2;belarusan2;minsk, belarus;belarusan;russian polish;43;female;12;academic;usa;5;20;not selected;not selected;0;0
+2166;belarusan3;belarusan3;gomel, belarus;belarusan;russian;18;male;6;academic;;0;20;not selected;not selected;0;0
 34;bengali1;bengali1;dhaka, bangladesh;bengali;hindi-urdu;23;male;16;academic;usa;1;21;Indo-European;Indo-Iranian;5;505
 35;bengali2;bengali2;lusaka, zambia;bengali;french;25;female;2;naturalistic;usa;21;21;Indo-European;Indo-Iranian;5;505
 36;bengali3;bengali3;dhaka, bangladesh;bengali;urdu hindi-urdu spanish;19;female;5;academic;usa;6;21;Indo-European;Indo-Iranian;5;505
@@ -380,12 +380,12 @@
 2710;cantonese34;cantonese34;hong kong, china;cantonese;mandarin;19;male;6;academic;usa;2;26;Sino-Tibetan;Chinese;12;1201
 2854;cantonese35;cantonese35;foshan, guangdong, china;cantonese;mandarin;21;male;9;academic;usa;4;26;Sino-Tibetan;Chinese;12;1201
 50;carolinian1;carolinian1;saipan, saipan, northern mariana islands;carolinian;chamorro chuukese;32;female;6;academic;usa;10;27;not selected;not selected;0;0
-51;catalan1;catalan1;tarragona, spain;catalan;spanish french;39;male;13;academic;uk;0.2;28;Indo-European;Italic;5;506
-598;catalan2;catalan2;mataro, catalonia, spain;catalan;japanese;24;male;21;naturalistic;uk;3;28;Indo-European;Italic;5;506
-1186;catalan3;catalan3;santiago, chile;catalan;spanish french german;51;female;11;naturalistic;usa;40;28;Indo-European;Italic;5;506
-1414;catalan4;catalan4;barcelona, spain;catalan;spanish french;21;female;11;academic;finland;0.5;28;Indo-European;Italic;5;506
-2535;catalan5;catalan5;barcelona, spain;catalan;spanish french;20;female;6;academic;usa;3;28;Indo-European;Italic;5;506
-2947;catalan6;catalan6;valencia, spain;catalan;spanish french;55;female;35;academic;ireland;0.1;28;Indo-European;Italic;5;506
+51;catalan1;catalan1;tarragona, spain;catalan;spanish french;39;male;13;academic;uk;0.2;28;not selected;not selected;0;0
+598;catalan2;catalan2;mataro, catalonia, spain;catalan;japanese;24;male;21;naturalistic;uk;3;28;not selected;not selected;0;0
+1186;catalan3;catalan3;santiago, chile;catalan;spanish french german;51;female;11;naturalistic;usa;40;28;not selected;not selected;0;0
+1414;catalan4;catalan4;barcelona, spain;catalan;spanish french;21;female;11;academic;finland;0.5;28;not selected;not selected;0;0
+2535;catalan5;catalan5;barcelona, spain;catalan;spanish french;20;female;6;academic;usa;3;28;not selected;not selected;0;0
+2947;catalan6;catalan6;valencia, spain;catalan;spanish french;55;female;35;academic;ireland;0.1;28;not selected;not selected;0;0
 565;cebuano1;cebuano1;cebu, philippines;cebuano;none;21;female;1;naturalistic;philippines;21;29;not selected;not selected;0;0
 2841;cebuano2;cebuano2;gingoog city, philippines;cebuano;tagalog;24;female;6;academic;usa;0.6;29;not selected;not selected;0;0
 1251;chaldean1;chaldean1;baghdad, iraq;chaldean;french spanish japanese;41;male;5;naturalistic;usa;31;30;not selected;not selected;0;0
@@ -394,32 +394,32 @@
 2775;charapa-spanish1;charapa-spanish1;lima, peru;charapa-spanish;korean;35;male;15;academic;usa;18.8;32;not selected;not selected;0;0
 1020;chichewa1;chichewa1;mulanje, malawi;chichewa;yao tumbuka;42;male;7;academic;malawi, usa;42;33;not selected;not selected;0;0
 708;chittagonian1;chittagonian1;chittagong, bangladesh;chittagonian;bengali hindi french arabic polish;39;male;12;academic;usa;9;34;not selected;not selected;0;0
-477;croatian1;croatian1;unije, croatia;croatian;italian german;81;female;16;academic;usa;66;35;Indo-European;Balto-Slavic;5;502
-561;croatian2;croatian2;mostar, bosnia and herzegovina;croatian;italian spanish;35;female;10;academic;;0;35;Indo-European;Balto-Slavic;5;502
-661;croatian3;croatian3;split, croatia;croatian;italian;44;female;10;academic;new zealand, usa;0;35;Indo-European;Balto-Slavic;5;502
-950;croatian4;croatian4;rijeka, croatia;croatian;italian;38;male;11;academic;usa;1;35;Indo-European;Balto-Slavic;5;502
-1063;croatian5;croatian5;tomislavgrad, bosnia and herzegovina;croatian;german;26;female;11;academic;usa;0.2;35;Indo-European;Balto-Slavic;5;502
-1083;croatian6;croatian6;doboj, bosnia and herzegovina;croatian;german;23;female;14;academic;usa;0.75;35;Indo-European;Balto-Slavic;5;502
-1556;croatian7;croatian7;rijeka, croatia;croatian;hungarian;21;female;7;academic;uk;0.1;35;Indo-European;Balto-Slavic;5;502
-1983;croatian8;croatian8;gospic, croatia;croatian;russian german;39;male;22;naturalistic;usa;17;35;Indo-European;Balto-Slavic;5;502
-53;czech1;czech1;prague, czech republic;czech;russian spanish;27;female;10.5;academic;usa;1.5;36;Indo-European;Balto-Slavic;5;502
-560;czech2;czech2;velky osek, czech republic;czech;german;60;male;45;naturalistic;;0;36;Indo-European;Balto-Slavic;5;502
-653;czech3;czech3;nachod, czech republic;czech;german;35;male;14;academic;usa;5.75;36;Indo-European;Balto-Slavic;5;502
-879;czech4;czech4;prague, czech republic;czech;serbian russian german slovak;57;female;15;academic;usa;16;36;Indo-European;Balto-Slavic;5;502
-1066;czech5;czech5;klando, czech republic;czech;german slovak polish croatian;26;female;16;academic;uk, usa;0.8;36;Indo-European;Balto-Slavic;5;502
-1248;czech6;czech6;ostrava, czech republic;czech;french spanish latin japanese;20;male;7;academic;;0;36;Indo-European;Balto-Slavic;5;502
-1501;czech7;czech7;ostrava, czech republic;czech;none;22;female;11;academic;usa;0.5;36;Indo-European;Balto-Slavic;5;502
-1822;czech8;czech8;pizen, czech republic;czech;none;21;female;7;naturalistic;usa;14;36;Indo-European;Balto-Slavic;5;502
-2140;czech9;czech9;prague, czech republic;czech;russian;38;male;23;academic;usa;4;36;Indo-European;Balto-Slavic;5;502
-54;danish1;danish1;horsens, denmark;danish;kiswahili;45;female;11;academic;usa;8;37;Indo-European;Germanic;5;503
-55;danish2;danish2;haslev, denmark;danish;french italian;37;female;8;academic;usa;4;37;Indo-European;Germanic;5;503
-1367;danish3;danish3;copenhagen, denmark;danish;german swedish;53;female;12;academic;usa;26;37;Indo-European;Germanic;5;503
-1434;danish4;danish4;aarhus, denmark;danish;french;21;female;11;academic;usa;0.25;37;Indo-European;Germanic;5;503
-1573;danish5;danish5;egvad, denmark;danish;german swedish;49;female;8;academic;usa;24;37;Indo-European;Germanic;5;503
-1577;danish6;danish6;alborg, denmark;danish;french;19;male;8;academic;;0;37;Indo-European;Germanic;5;503
-1717;danish7;danish7;copenhagen, denmark;danish;hebrew german;22;male;8;naturalistic;;0;37;Indo-European;Germanic;5;503
-1746;danish8;danish8;sunds, denmark;danish;german swedish norwegian;28;female;11;academic;usa;3.5;37;Indo-European;Germanic;5;503
-2198;danish9;danish9;aarhus, denmark;danish;norwegian swedish german thai japanese;44;male;10;academic;;0;37;Indo-European;Germanic;5;503
+477;croatian1;croatian1;unije, croatia;croatian;italian german;81;female;16;academic;usa;66;35;not selected;not selected;0;0
+561;croatian2;croatian2;mostar, bosnia and herzegovina;croatian;italian spanish;35;female;10;academic;;0;35;not selected;not selected;0;0
+661;croatian3;croatian3;split, croatia;croatian;italian;44;female;10;academic;new zealand, usa;0;35;not selected;not selected;0;0
+950;croatian4;croatian4;rijeka, croatia;croatian;italian;38;male;11;academic;usa;1;35;not selected;not selected;0;0
+1063;croatian5;croatian5;tomislavgrad, bosnia and herzegovina;croatian;german;26;female;11;academic;usa;0.2;35;not selected;not selected;0;0
+1083;croatian6;croatian6;doboj, bosnia and herzegovina;croatian;german;23;female;14;academic;usa;0.75;35;not selected;not selected;0;0
+1556;croatian7;croatian7;rijeka, croatia;croatian;hungarian;21;female;7;academic;uk;0.1;35;not selected;not selected;0;0
+1983;croatian8;croatian8;gospic, croatia;croatian;russian german;39;male;22;naturalistic;usa;17;35;not selected;not selected;0;0
+53;czech1;czech1;prague, czech republic;czech;russian spanish;27;female;10.5;academic;usa;1.5;36;not selected;not selected;0;0
+560;czech2;czech2;velky osek, czech republic;czech;german;60;male;45;naturalistic;;0;36;not selected;not selected;0;0
+653;czech3;czech3;nachod, czech republic;czech;german;35;male;14;academic;usa;5.75;36;not selected;not selected;0;0
+879;czech4;czech4;prague, czech republic;czech;serbian russian german slovak;57;female;15;academic;usa;16;36;not selected;not selected;0;0
+1066;czech5;czech5;klando, czech republic;czech;german slovak polish croatian;26;female;16;academic;uk, usa;0.8;36;not selected;not selected;0;0
+1248;czech6;czech6;ostrava, czech republic;czech;french spanish latin japanese;20;male;7;academic;;0;36;not selected;not selected;0;0
+1501;czech7;czech7;ostrava, czech republic;czech;none;22;female;11;academic;usa;0.5;36;not selected;not selected;0;0
+1822;czech8;czech8;pizen, czech republic;czech;none;21;female;7;naturalistic;usa;14;36;not selected;not selected;0;0
+2140;czech9;czech9;prague, czech republic;czech;russian;38;male;23;academic;usa;4;36;not selected;not selected;0;0
+54;danish1;danish1;horsens, denmark;danish;kiswahili;45;female;11;academic;usa;8;37;not selected;not selected;0;0
+55;danish2;danish2;haslev, denmark;danish;french italian;37;female;8;academic;usa;4;37;not selected;not selected;0;0
+1367;danish3;danish3;copenhagen, denmark;danish;german swedish;53;female;12;academic;usa;26;37;not selected;not selected;0;0
+1434;danish4;danish4;aarhus, denmark;danish;french;21;female;11;academic;usa;0.25;37;not selected;not selected;0;0
+1573;danish5;danish5;egvad, denmark;danish;german swedish;49;female;8;academic;usa;24;37;not selected;not selected;0;0
+1577;danish6;danish6;alborg, denmark;danish;french;19;male;8;academic;;0;37;not selected;not selected;0;0
+1717;danish7;danish7;copenhagen, denmark;danish;hebrew german;22;male;8;naturalistic;;0;37;not selected;not selected;0;0
+1746;danish8;danish8;sunds, denmark;danish;german swedish norwegian;28;female;11;academic;usa;3.5;37;not selected;not selected;0;0
+2198;danish9;danish9;aarhus, denmark;danish;norwegian swedish german thai japanese;44;male;10;academic;;0;37;not selected;not selected;0;0
 56;dari1;dari1;kabul, zoroastrian, afghanistan;dari;farsi urdu hindi-urdu;25;female;13;academic;usa;5;38;Indo-European;Indo-Iranian;5;505
 642;dari2;dari2;kabul, afghanistan;dari;pashto;55;male;12;academic;usa;35;38;Indo-European;Indo-Iranian;5;505
 968;dari3;dari3;kabul, afghanistan;dari;pashto urdu;20;male;12;academic;usa;8;38;Indo-European;Indo-Iranian;5;505
@@ -1788,20 +1788,20 @@
 248;lao1;lao1;savannakhet, laos;lao;none;19;female;12;academic;usa;1;111;not selected;not selected;0;0
 249;lao2;lao2;vientiane, laos;lao;thai;25;female;21;academic;usa;3;111;not selected;not selected;0;0
 2007;lao3;lao3;pakxe, laos;lao;none;52;male;20;naturalistic;usa;33;111;not selected;not selected;0;0
-250;latvian1;latvian1;riga, latvia;latvian;russian;24;female;13;academic;usa;0.2;112;Indo-European;Balto-Slavic;5;502
-964;latvian2;latvian2;riga, latvia;latvian;hindi;70;female;11;naturalistic;india, usa;57;112;Indo-European;Balto-Slavic;5;502
-1845;latvian3;latvian3;riga, latvia;latvian;none;19;female;5;academic;usa;5;112;Indo-European;Balto-Slavic;5;502
+250;latvian1;latvian1;riga, latvia;latvian;russian;24;female;13;academic;usa;0.2;112;not selected;not selected;0;0
+964;latvian2;latvian2;riga, latvia;latvian;hindi;70;female;11;naturalistic;india, usa;57;112;not selected;not selected;0;0
+1845;latvian3;latvian3;riga, latvia;latvian;none;19;female;5;academic;usa;5;112;not selected;not selected;0;0
 1771;liberianpidginenglish1;liberian pidgin english1;monrovia, liberia;liberian pidgin english;none;28;female;14;naturalistic;liberia, usa;28;113;not selected;not selected;0;0
 2141;liberian_pidgin_english2;liberian pidgin english2;monrovia, liberia;liberian pidgin english;igbo;38;female;5;academic;usa;23;113;not selected;not selected;0;0
 1158;lingala1;lingala1;kinshasa, democratic republic of congo;lingala;french kikongo mbala kiswahili tshiluba;37;male;30;naturalistic;usa;7;114;not selected;not selected;0;0
-251;lithuanian1;lithuanian1;klaipeda, lithuania;lithuanian;russian german;27;female;24;naturalistic;usa;3;115;Indo-European;Balto-Slavic;5;502
-459;lithuanian2;lithuanian2;vilnius, lithuania;lithuanian;russian;34;female;32;academic;usa;2;115;Indo-European;Balto-Slavic;5;502
-596;lithuanian3;lithuanian3;kaunas, lithuania;lithuanian;russian;22;female;8;academic;usa;1.2;115;Indo-European;Balto-Slavic;5;502
-816;lithuanian4;lithuanian4;klaipeda, lithuania;lithuanian;russian;23;female;12;academic;;0;115;Indo-European;Balto-Slavic;5;502
-1267;lithuanian5;lithuanian5;klaipeda, lithuania;lithuanian;russian italian spanish german;24;female;9;academic;ireland;0.75;115;Indo-European;Balto-Slavic;5;502
-1465;lithuanian6;lithuanian6;visaginas, lithuania;lithuanian;russian spanish;21;female;10;academic;;0;115;Indo-European;Balto-Slavic;5;502
-2486;lithuanian7;lithuanian7;panevezys, lithuania;lithuanian;french russian;41;female;25;naturalistic;usa;13;115;Indo-European;Balto-Slavic;5;502
-2732;lithuanian8;lithuanian8;kaunas, lithuania;lithuanian;russian;40;male;13;academic;usa;18;115;Indo-European;Balto-Slavic;5;502
+251;lithuanian1;lithuanian1;klaipeda, lithuania;lithuanian;russian german;27;female;24;naturalistic;usa;3;115;not selected;not selected;0;0
+459;lithuanian2;lithuanian2;vilnius, lithuania;lithuanian;russian;34;female;32;academic;usa;2;115;not selected;not selected;0;0
+596;lithuanian3;lithuanian3;kaunas, lithuania;lithuanian;russian;22;female;8;academic;usa;1.2;115;not selected;not selected;0;0
+816;lithuanian4;lithuanian4;klaipeda, lithuania;lithuanian;russian;23;female;12;academic;;0;115;not selected;not selected;0;0
+1267;lithuanian5;lithuanian5;klaipeda, lithuania;lithuanian;russian italian spanish german;24;female;9;academic;ireland;0.75;115;not selected;not selected;0;0
+1465;lithuanian6;lithuanian6;visaginas, lithuania;lithuanian;russian spanish;21;female;10;academic;;0;115;not selected;not selected;0;0
+2486;lithuanian7;lithuanian7;panevezys, lithuania;lithuanian;french russian;41;female;25;naturalistic;usa;13;115;not selected;not selected;0;0
+2732;lithuanian8;lithuanian8;kaunas, lithuania;lithuanian;russian;40;male;13;academic;usa;18;115;not selected;not selected;0;0
 2233;luba-kasai1;luba-kasai1;mbuji-mayi, democratic republic of the congo;luba-kasai;french lingala;19;male;18;academic;usa;0.8;116;not selected;not selected;0;0
 252;luo1;luo1;siaya, kenya;luo;swahili giriama;42;male;12;academic;uk, usa;2;117;not selected;not selected;0;0
 484;luo2;luo2;maseno, kenya;luo;swahili french;33;female;5;academic;usa, uk, kenya;4;117;not selected;not selected;0;0
@@ -2391,14 +2391,14 @@
 2688;sinhala8;sinhala8;wattala, sri lanka;sinhala;hindi;28;female;12;academic;usa;6.5;179;Indo-European;Indo-Iranian;5;505
 2689;sinhala9;sinhala9;wattala, sri lanka;sinhala;none;39;male;5;academic;usa;14.8;179;Indo-European;Indo-Iranian;5;505
 2825;sinhala10;sinhala10;colombo, sri lanka;sinhala;tamil;20;male;12;academic;usa;5;179;Indo-European;Indo-Iranian;5;505
-319;slovak1;slovak1;kosice, slovak republic;slovak;russian;25;female;14;academic;usa;0.3;180;Indo-European;Balto-Slavic;5;502
-320;slovak2;slovak2;piestany, slovak republic;slovak;german russian;23;female;17;academic;usa;0.6;180;Indo-European;Balto-Slavic;5;502
-321;slovak3;slovak3;nitra, slovak republic;slovak;russian;51;female;16;academic;usa;20;180;Indo-European;Balto-Slavic;5;502
-1178;slovak4;slovak4;bratislava, slovakia;slovak;german;20;female;15;academic;usa;1;180;Indo-European;Balto-Slavic;5;502
-1366;slovak5;slovak5;povazska bystrika, slovakia;slovak;none;32;female;11;academic;australia;10;180;Indo-European;Balto-Slavic;5;502
-2327;slovak6;slovak6;trencin, slovakia;slovak;german;36;female;22;naturalistic;uk, usa;14;180;Indo-European;Balto-Slavic;5;502
-645;slovenian1;slovenian1;slovenj gradec, slovenia;slovenian;german italian croatian;25;female;6;academic;usa;1.5;181;Indo-European;Balto-Slavic;5;502
-1053;slovenian2;slovenian2;ljubljana, slovenia;slovenian;german spanish serbian croatian;20;male;4;academic;usa;7;181;Indo-European;Balto-Slavic;5;502
+319;slovak1;slovak1;kosice, slovak republic;slovak;russian;25;female;14;academic;usa;0.3;180;not selected;not selected;0;0
+320;slovak2;slovak2;piestany, slovak republic;slovak;german russian;23;female;17;academic;usa;0.6;180;not selected;not selected;0;0
+321;slovak3;slovak3;nitra, slovak republic;slovak;russian;51;female;16;academic;usa;20;180;not selected;not selected;0;0
+1178;slovak4;slovak4;bratislava, slovakia;slovak;german;20;female;15;academic;usa;1;180;not selected;not selected;0;0
+1366;slovak5;slovak5;povazska bystrika, slovakia;slovak;none;32;female;11;academic;australia;10;180;not selected;not selected;0;0
+2327;slovak6;slovak6;trencin, slovakia;slovak;german;36;female;22;naturalistic;uk, usa;14;180;not selected;not selected;0;0
+645;slovenian1;slovenian1;slovenj gradec, slovenia;slovenian;german italian croatian;25;female;6;academic;usa;1.5;181;not selected;not selected;0;0
+1053;slovenian2;slovenian2;ljubljana, slovenia;slovenian;german spanish serbian croatian;20;male;4;academic;usa;7;181;not selected;not selected;0;0
 322;somali1;somali1;mogadishu, somalia;somali;arabic;26;female;24;academic;usa;4;182;not selected;not selected;0;0
 577;somali2;somali2;erigavo, somalia;somali;arabic;59;male;8;academic;usa;22;182;not selected;not selected;0;0
 600;somali3;somali3;borama, somalia;somali;arabic;50;female;10;academic;usa;5;182;not selected;not selected;0;0
@@ -2851,8 +2851,8 @@
 2820;turkish40;turkish40;izmir, turkey;turkish;none;40;female;13;academic;uk, usa;7;207;Turkic;Southern Turkic;13;1301
 2849;turkish41;turkish41;sanliurfa, turkey;turkish;none;25;male;24;academic;usa;1;207;Turkic;Southern Turkic;13;1301
 2999;turkish42;turkish42;kayseri, turkey;turkish;german azerbaijani;20;male;4;academic;usa;1;207;Turkic;Southern Turkic;13;1301
-1755;turkmen1;turkmen1;balkanabat, turkmenistan;turkmen;turkish russian;24;male;10;academic;usa;0.4;208;Turkic;Southern Turkic;13;1301
-2618;turkmen2;turkmen2;turkmenabat, turkmenistan;turkmen;uzbek russian;29;female;9;academic;usa;1;208;Turkic;Southern Turkic;13;1301
+1755;turkmen1;turkmen1;balkanabat, turkmenistan;turkmen;turkish russian;24;male;10;academic;usa;0.4;208;not selected;not selected;0;0
+2618;turkmen2;turkmen2;turkmenabat, turkmenistan;turkmen;uzbek russian;29;female;9;academic;usa;1;208;not selected;not selected;0;0
 388;twi1;twi1;kumasi, ghana;twi;none;25;female;12;academic;usa;12;209;not selected;not selected;0;0
 389;twi2;twi2;ajumako, ghana;twi;french;33;male;6;academic;usa;2;209;not selected;not selected;0;0
 1779;twi4;twi4;tema, ghana;twi;french;22;female;6;academic;usa;6;209;not selected;not selected;0;0
@@ -2983,12 +2983,12 @@
 2709;xiang6;xiang6;changsha, hunan, china;xiang;mandarin;28;female;6;academic;usa;2;221;not selected;not selected;0;0
 1252;yakut1;yakut1;yakutsk, russia;yakut;russian spanish;19;female;13;academic;;0;222;not selected;not selected;0;0
 433;yapese1;yapese1;yap island, federated states of micronesia;yapese;spanish;34;female;14;academic;usa;10;223;not selected;not selected;0;0
-404;yiddish1;yiddish1;st. etienne, france;yiddish;french hebrew;60;male;8;academic;canada,uk;57;224;Indo-European;Germanic;5;503
-405;yiddish2;yiddish2;winnipeg, manitoba, canada;yiddish;hebrew;78;female;6;academic;canada,usa;71;224;Indo-European;Germanic;5;503
-1161;yiddish3;yiddish3;brooklyn, new york, usa;yiddish;french spanish;52;male;5;academic;usa;52;224;Indo-European;Germanic;5;503
-1164;yiddish4;yiddish4;vienna, austria;yiddish;german romanian;89;female;20;academic;usa;59;224;Indo-European;Germanic;5;503
-1170;yiddish5;yiddish5;vilnius, lithuania;yiddish;russian polish german;86;female;26;naturalistic;usa;60;224;Indo-European;Germanic;5;503
-2698;yiddish6;yiddish6;montreal, quebec, canada;yiddish;hebrew;64;male;3;naturalistic;canada, usa;64;224;Indo-European;Germanic;5;503
+404;yiddish1;yiddish1;st. etienne, france;yiddish;french hebrew;60;male;8;academic;canada,uk;57;224;not selected;not selected;0;0
+405;yiddish2;yiddish2;winnipeg, manitoba, canada;yiddish;hebrew;78;female;6;academic;canada,usa;71;224;not selected;not selected;0;0
+1161;yiddish3;yiddish3;brooklyn, new york, usa;yiddish;french spanish;52;male;5;academic;usa;52;224;not selected;not selected;0;0
+1164;yiddish4;yiddish4;vienna, austria;yiddish;german romanian;89;female;20;academic;usa;59;224;not selected;not selected;0;0
+1170;yiddish5;yiddish5;vilnius, lithuania;yiddish;russian polish german;86;female;26;naturalistic;usa;60;224;not selected;not selected;0;0
+2698;yiddish6;yiddish6;montreal, quebec, canada;yiddish;hebrew;64;male;3;naturalistic;canada, usa;64;224;not selected;not selected;0;0
 414;yoruba1;yoruba1;cotonou, benin;yoruba;french german;20;male;20;academic;usa;0.25;225;not selected;not selected;0;0
 756;yoruba2;yoruba2;ibadan, oyo, nigeria;yoruba;french portuguese italian;40;female;2;academic;usa, uk;8.5;225;not selected;not selected;0;0
 766;yoruba3;yoruba3;lagos, nigeria;yoruba;none;46;female;5;academic;usa;34;225;not selected;not selected;0;0

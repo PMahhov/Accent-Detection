@@ -2,8 +2,13 @@
 
 from itertools import groupby
 from sys import argv
+from pathlib import Path
 
 augments = ["white noise", "time stretch", "pitch scale", "random gain"]
+
+def with_suffix(path, suffix):
+  p = Path(path)
+  return str(p.with_stem(p.stem + suffix))
 
 def add_augmented(path, header, rows):
   with open(path, "w") as f:
@@ -20,28 +25,32 @@ def add_augmented(path, header, rows):
         f.write(";".join(row))
 
 def main():
-  if len(argv) < 2:
-    print("Usage: split-data.py <test_percent>")
+  if len(argv) < 3:
+    print("Usage: split-data.py <csv_file> <test_percent>")
     return
 
-  test_percent = float(argv[1])
+  csv_file = argv[1]
+  test_percent = float(argv[2])
 
-  with open("data/audio10.csv", "r") as f:
+  with open(csv_file, "r") as f:
     header = f.readline()
     rows = [row.split(";") for row in f.readlines()]
 
-  test = []
   train = []
+  test = []
+  val = []
 
   for _, g in groupby(rows, lambda row: row[-1]):
     rows = list(g)
     test_count = int(len(rows) * test_percent)
 
     test.extend(rows[:test_count])
-    train.extend(rows[test_count:])
+    val.extend(rows[test_count:test_count * 2])
+    train.extend(rows[test_count * 2:])
 
-  add_augmented("data/audio10-aug-test.csv", header, test)
-  add_augmented("data/audio10-aug-train.csv", header, train)
+  add_augmented(with_suffix(csv_file, "-aug-train"), header, train)
+  add_augmented(with_suffix(csv_file, "-aug-test"), header, test)
+  add_augmented(with_suffix(csv_file, "-aug-val"), header, val)
 
 if __name__ == "__main__":
   main()

@@ -1,15 +1,15 @@
-#!/usr/bin/python3
-
+#!/Users/georgioschristopoulos/PycharmProjects/CNNAudio/venv/bin/python
 # Reference:
 # https://www.youtube.com/watch?v=umAXGVzVvwQ
 
+
+import sys
 import librosa as lb
 import numpy as np
-from os import sys
+
 import random
 from shutil import copyfile
 import soundfile as sf
-
 def white_noise(signal, noise_factor):
   return signal + noise_factor * np.random.normal(0, signal.std(), signal.size)
 

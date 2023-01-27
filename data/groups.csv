@@ -1138,23 +1138,23 @@
 1137;english649;english649;houston, texas, usa;english;french russian;18;female;0;naturalistic;usa;18;43;Indo-European;Germanic;5;503
 1138;english650;english650;mesa, arizona, usa;english;none;75;male;0;naturalistic;usa;75;43;Indo-European;Germanic;5;503
 1139;english651;english651;brooklyn, New York;english;german ancient greek latin yiddish;87;female;0;naturalistic;usa;87;43;Indo-European;Germanic;5;503
-1140;estonian1;estonian1;tallinn, estonia;estonian;finnish russian welsh;26;male;7;naturalistic;canada;1.1;44;Uralic;Finnic;14;FALSE
-1141;estonian2;estonian2;viljandi, estonia;estonian;german russian;27;male;12;academic;;0;44;Uralic;Finnic;14;FALSE
-1142;estonian3;estonian3;tallinn, estonia;estonian;russian;22;male;9;academic;usa;2;44;Uralic;Finnic;14;FALSE
-1143;estonian4;estonian4;paide, estonia;estonian;french spanish german;28;female;9;academic;uk, usa;6;44;Uralic;Finnic;14;FALSE
-1144;estonian5;estonian5;tallinn, estonia;estonian;russian;19;female;9;academic;;0;44;Uralic;Finnic;14;FALSE
-1145;estonian6;estonian6;viljandi, estonia;estonian;german;32;female;9;academic;;0;44;Uralic;Finnic;14;FALSE
-1146;estonian7;estonian7;tartu, estonia;estonian;none;27;female;9;academic;;0;44;Uralic;Finnic;14;FALSE
-1147;estonian8;estonian8;parnu, estonia;estonian;russian;37;female;13;academic;usa, uk;0.4;44;Uralic;Finnic;14;FALSE
-1148;estonian9;estonian9;tartu, estonia;estonian;russian;43;female;9;academic;;0;44;Uralic;Finnic;14;FALSE
-1149;estonian10;estonian10;parnu, estonia;estonian;russian german;43;male;9;academic;usa;0.1;44;Uralic;Finnic;14;FALSE
-1150;estonian11;estonian11;tallinn, estonia;estonian;russian spanish;21;female;11;academic;;0;44;Uralic;Finnic;14;FALSE
-1151;estonian12;estonian12;polva, estonia;estonian;voro;25;female;9;academic;;0;44;Uralic;Finnic;14;FALSE
-1152;estonian13;estonian13;tallinn, estonia;estonian;finnish german latvian hungarian;32;female;9;academic;usa;0.1;44;Uralic;Finnic;14;FALSE
-1153;estonian14;estonian14;tartu, estonia;estonian;german;25;male;9;academic;;0;44;Uralic;Finnic;14;FALSE
-1154;estonian15;estonian15;tallinn, estonia;estonian;russian german;26;female;9;naturalistic;usa;1;44;Uralic;Finnic;14;FALSE
-1155;estonian16;estonian16;viljandi, estonia;estonian;russian;58;female;12;academic;uk;0.1;44;Uralic;Finnic;14;FALSE
-1156;estonian17;estonian17;kohtla-jarve, estonia;estonian;russian mandarin;44;female;20;academic;uk, usa;0.2;44;Uralic;Finnic;14;FALSE
+1140;estonian1;estonian1;tallinn, estonia;estonian;finnish russian welsh;26;male;7;naturalistic;canada;1.1;44;Uralic;Finnic;14;1401
+1141;estonian2;estonian2;viljandi, estonia;estonian;german russian;27;male;12;academic;;0;44;Uralic;Finnic;14;1401
+1142;estonian3;estonian3;tallinn, estonia;estonian;russian;22;male;9;academic;usa;2;44;Uralic;Finnic;14;1401
+1143;estonian4;estonian4;paide, estonia;estonian;french spanish german;28;female;9;academic;uk, usa;6;44;Uralic;Finnic;14;1401
+1144;estonian5;estonian5;tallinn, estonia;estonian;russian;19;female;9;academic;;0;44;Uralic;Finnic;14;1401
+1145;estonian6;estonian6;viljandi, estonia;estonian;german;32;female;9;academic;;0;44;Uralic;Finnic;14;1401
+1146;estonian7;estonian7;tartu, estonia;estonian;none;27;female;9;academic;;0;44;Uralic;Finnic;14;1401
+1147;estonian8;estonian8;parnu, estonia;estonian;russian;37;female;13;academic;usa, uk;0.4;44;Uralic;Finnic;14;1401
+1148;estonian9;estonian9;tartu, estonia;estonian;russian;43;female;9;academic;;0;44;Uralic;Finnic;14;1401
+1149;estonian10;estonian10;parnu, estonia;estonian;russian german;43;male;9;academic;usa;0.1;44;Uralic;Finnic;14;1401
+1150;estonian11;estonian11;tallinn, estonia;estonian;russian spanish;21;female;11;academic;;0;44;Uralic;Finnic;14;1401
+1151;estonian12;estonian12;polva, estonia;estonian;voro;25;female;9;academic;;0;44;Uralic;Finnic;14;1401
+1152;estonian13;estonian13;tallinn, estonia;estonian;finnish german latvian hungarian;32;female;9;academic;usa;0.1;44;Uralic;Finnic;14;1401
+1153;estonian14;estonian14;tartu, estonia;estonian;german;25;male;9;academic;;0;44;Uralic;Finnic;14;1401
+1154;estonian15;estonian15;tallinn, estonia;estonian;russian german;26;female;9;naturalistic;usa;1;44;Uralic;Finnic;14;1401
+1155;estonian16;estonian16;viljandi, estonia;estonian;russian;58;female;12;academic;uk;0.1;44;Uralic;Finnic;14;1401
+1156;estonian17;estonian17;kohtla-jarve, estonia;estonian;russian mandarin;44;female;20;academic;uk, usa;0.2;44;Uralic;Finnic;14;1401
 1157;ewe1;ewe1;accra, ghana;ewe;twi ga;25;male;9;academic;usa;12;45;not selected;not selected;0;0
 1158;ewe2;ewe2;accra, ghana;ewe;ga twi;37;female;5;academic;usa;12;45;not selected;not selected;0;0
 1159;ewe3;ewe3;edubiase, ghana;ewe;twi;33;male;5;academic;ghana, usa;33;45;not selected;not selected;0;0

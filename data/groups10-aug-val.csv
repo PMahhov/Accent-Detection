@@ -1,0 +1,1176 @@
+﻿speaker_id;file_name;sample_name;birth_place;native_langs;other_langs;age;sex;age_of_english_onset;english_learning_method;english_residence;years_of_english_residence;class_labels;primary_lang_group;secondary_lang_group;primary_lang_group_id;secondary_lang_group_id9;albanian1;albanian1;prishtina, kosovo;albanian;serbian macedonian bosnian;19;male;6;naturalistic;usa;3;0;Indo-European;Albanian;4;6
+11;albanian3;albanian3;tirana, albania;albanian;italian french russian greek spanish;44;male;35;naturalistic;usa;9;0;Indo-European;Albanian;4;6
+11;albanian3 white noise;albanian3 white noise;tirana, albania;albanian;italian french russian greek spanish;44;male;35;naturalistic;usa;9;0;Indo-European;Albanian;4;6
+11;albanian3 time stretch;albanian3 time stretch;tirana, albania;albanian;italian french russian greek spanish;44;male;35;naturalistic;usa;9;0;Indo-European;Albanian;4;6
+11;albanian3 pitch scale;albanian3 pitch scale;tirana, albania;albanian;italian french russian greek spanish;44;male;35;naturalistic;usa;9;0;Indo-European;Albanian;4;6
+11;albanian3 random gain;albanian3 random gain;tirana, albania;albanian;italian french russian greek spanish;44;male;35;naturalistic;usa;9;0;Indo-European;Albanian;4;6
+49;amharic23;amharic23;addis ababa, ethiopia;amharic;none;32;male;10;academic;usa;3;1;Afro-Asiatic;Semitic;0;1
+49;amharic23 white noise;amharic23 white noise;addis ababa, ethiopia;amharic;none;32;male;10;academic;usa;3;1;Afro-Asiatic;Semitic;0;1
+49;amharic23 time stretch;amharic23 time stretch;addis ababa, ethiopia;amharic;none;32;male;10;academic;usa;3;1;Afro-Asiatic;Semitic;0;1
+49;amharic23 pitch scale;amharic23 pitch scale;addis ababa, ethiopia;amharic;none;32;male;10;academic;usa;3;1;Afro-Asiatic;Semitic;0;1
+49;amharic23 random gain;amharic23 random gain;addis ababa, ethiopia;amharic;none;32;male;10;academic;usa;3;1;Afro-Asiatic;Semitic;0;1
+50;amharic24;amharic24;addis ababa, ethiopia;amharic;arabic spanish;19;male;11;naturalistic;usa;8;1;Afro-Asiatic;Semitic;0;1
+50;amharic24 white noise;amharic24 white noise;addis ababa, ethiopia;amharic;arabic spanish;19;male;11;naturalistic;usa;8;1;Afro-Asiatic;Semitic;0;1
+50;amharic24 time stretch;amharic24 time stretch;addis ababa, ethiopia;amharic;arabic spanish;19;male;11;naturalistic;usa;8;1;Afro-Asiatic;Semitic;0;1
+50;amharic24 pitch scale;amharic24 pitch scale;addis ababa, ethiopia;amharic;arabic spanish;19;male;11;naturalistic;usa;8;1;Afro-Asiatic;Semitic;0;1
+50;amharic24 random gain;amharic24 random gain;addis ababa, ethiopia;amharic;arabic spanish;19;male;11;naturalistic;usa;8;1;Afro-Asiatic;Semitic;0;1
+51;amharic25;amharic25;addis ababa, ethiopia;amharic;arabic;24;female;21;academic;usa;3;1;Afro-Asiatic;Semitic;0;1
+51;amharic25 white noise;amharic25 white noise;addis ababa, ethiopia;amharic;arabic;24;female;21;academic;usa;3;1;Afro-Asiatic;Semitic;0;1
+51;amharic25 time stretch;amharic25 time stretch;addis ababa, ethiopia;amharic;arabic;24;female;21;academic;usa;3;1;Afro-Asiatic;Semitic;0;1
+51;amharic25 pitch scale;amharic25 pitch scale;addis ababa, ethiopia;amharic;arabic;24;female;21;academic;usa;3;1;Afro-Asiatic;Semitic;0;1
+51;amharic25 random gain;amharic25 random gain;addis ababa, ethiopia;amharic;arabic;24;female;21;academic;usa;3;1;Afro-Asiatic;Semitic;0;1
+52;amharic26;amharic26;addis ababa, ethiopia;amharic;tigrigna;30;female;23;naturalistic;usa;7;1;Afro-Asiatic;Semitic;0;1
+52;amharic26 white noise;amharic26 white noise;addis ababa, ethiopia;amharic;tigrigna;30;female;23;naturalistic;usa;7;1;Afro-Asiatic;Semitic;0;1
+52;amharic26 time stretch;amharic26 time stretch;addis ababa, ethiopia;amharic;tigrigna;30;female;23;naturalistic;usa;7;1;Afro-Asiatic;Semitic;0;1
+52;amharic26 pitch scale;amharic26 pitch scale;addis ababa, ethiopia;amharic;tigrigna;30;female;23;naturalistic;usa;7;1;Afro-Asiatic;Semitic;0;1
+52;amharic26 random gain;amharic26 random gain;addis ababa, ethiopia;amharic;tigrigna;30;female;23;naturalistic;usa;7;1;Afro-Asiatic;Semitic;0;1
+53;amharic27;amharic27;addis ababa, ethiopia;amharic;none;18;female;5;naturalistic;usa;11;1;Afro-Asiatic;Semitic;0;1
+53;amharic27 white noise;amharic27 white noise;addis ababa, ethiopia;amharic;none;18;female;5;naturalistic;usa;11;1;Afro-Asiatic;Semitic;0;1
+53;amharic27 time stretch;amharic27 time stretch;addis ababa, ethiopia;amharic;none;18;female;5;naturalistic;usa;11;1;Afro-Asiatic;Semitic;0;1
+53;amharic27 pitch scale;amharic27 pitch scale;addis ababa, ethiopia;amharic;none;18;female;5;naturalistic;usa;11;1;Afro-Asiatic;Semitic;0;1
+53;amharic27 random gain;amharic27 random gain;addis ababa, ethiopia;amharic;none;18;female;5;naturalistic;usa;11;1;Afro-Asiatic;Semitic;0;1
+54;arabic1;arabic1;riyadh, saudi arabia;arabic;none;38;female;12;academic;usa;4;2;Afro-Asiatic;Semitic;0;1
+54;arabic1 white noise;arabic1 white noise;riyadh, saudi arabia;arabic;none;38;female;12;academic;usa;4;2;Afro-Asiatic;Semitic;0;1
+54;arabic1 time stretch;arabic1 time stretch;riyadh, saudi arabia;arabic;none;38;female;12;academic;usa;4;2;Afro-Asiatic;Semitic;0;1
+54;arabic1 pitch scale;arabic1 pitch scale;riyadh, saudi arabia;arabic;none;38;female;12;academic;usa;4;2;Afro-Asiatic;Semitic;0;1
+54;arabic1 random gain;arabic1 random gain;riyadh, saudi arabia;arabic;none;38;female;12;academic;usa;4;2;Afro-Asiatic;Semitic;0;1
+55;arabic10;arabic10;cairo, egypt;arabic;french german;26;male;5;academic;usa;2;2;Afro-Asiatic;Semitic;0;1
+55;arabic10 white noise;arabic10 white noise;cairo, egypt;arabic;french german;26;male;5;academic;usa;2;2;Afro-Asiatic;Semitic;0;1
+55;arabic10 time stretch;arabic10 time stretch;cairo, egypt;arabic;french german;26;male;5;academic;usa;2;2;Afro-Asiatic;Semitic;0;1
+55;arabic10 pitch scale;arabic10 pitch scale;cairo, egypt;arabic;french german;26;male;5;academic;usa;2;2;Afro-Asiatic;Semitic;0;1
+55;arabic10 random gain;arabic10 random gain;cairo, egypt;arabic;french german;26;male;5;academic;usa;2;2;Afro-Asiatic;Semitic;0;1
+56;arabic11;arabic11;monastir, tunisia;arabic;french;30;female;14;academic;usa;4;2;Afro-Asiatic;Semitic;0;1
+56;arabic11 white noise;arabic11 white noise;monastir, tunisia;arabic;french;30;female;14;academic;usa;4;2;Afro-Asiatic;Semitic;0;1
+56;arabic11 time stretch;arabic11 time stretch;monastir, tunisia;arabic;french;30;female;14;academic;usa;4;2;Afro-Asiatic;Semitic;0;1
+56;arabic11 pitch scale;arabic11 pitch scale;monastir, tunisia;arabic;french;30;female;14;academic;usa;4;2;Afro-Asiatic;Semitic;0;1
+56;arabic11 random gain;arabic11 random gain;monastir, tunisia;arabic;french;30;female;14;academic;usa;4;2;Afro-Asiatic;Semitic;0;1
+57;arabic12;arabic12;baghdad, iraq;arabic;none;32;male;11;academic;usa;8;2;Afro-Asiatic;Semitic;0;1
+57;arabic12 white noise;arabic12 white noise;baghdad, iraq;arabic;none;32;male;11;academic;usa;8;2;Afro-Asiatic;Semitic;0;1
+57;arabic12 time stretch;arabic12 time stretch;baghdad, iraq;arabic;none;32;male;11;academic;usa;8;2;Afro-Asiatic;Semitic;0;1
+57;arabic12 pitch scale;arabic12 pitch scale;baghdad, iraq;arabic;none;32;male;11;academic;usa;8;2;Afro-Asiatic;Semitic;0;1
+57;arabic12 random gain;arabic12 random gain;baghdad, iraq;arabic;none;32;male;11;academic;usa;8;2;Afro-Asiatic;Semitic;0;1
+58;arabic13;arabic13;zabbougha, lebanon;arabic;french swedish;25;male;15;academic;usa;1;2;Afro-Asiatic;Semitic;0;1
+58;arabic13 white noise;arabic13 white noise;zabbougha, lebanon;arabic;french swedish;25;male;15;academic;usa;1;2;Afro-Asiatic;Semitic;0;1
+58;arabic13 time stretch;arabic13 time stretch;zabbougha, lebanon;arabic;french swedish;25;male;15;academic;usa;1;2;Afro-Asiatic;Semitic;0;1
+58;arabic13 pitch scale;arabic13 pitch scale;zabbougha, lebanon;arabic;french swedish;25;male;15;academic;usa;1;2;Afro-Asiatic;Semitic;0;1
+58;arabic13 random gain;arabic13 random gain;zabbougha, lebanon;arabic;french swedish;25;male;15;academic;usa;1;2;Afro-Asiatic;Semitic;0;1
+59;arabic2;arabic2;damascus, syria;arabic;none;18;male;2.5;naturalistic;usa;3;2;Afro-Asiatic;Semitic;0;1
+59;arabic2 white noise;arabic2 white noise;damascus, syria;arabic;none;18;male;2.5;naturalistic;usa;3;2;Afro-Asiatic;Semitic;0;1
+59;arabic2 time stretch;arabic2 time stretch;damascus, syria;arabic;none;18;male;2.5;naturalistic;usa;3;2;Afro-Asiatic;Semitic;0;1
+59;arabic2 pitch scale;arabic2 pitch scale;damascus, syria;arabic;none;18;male;2.5;naturalistic;usa;3;2;Afro-Asiatic;Semitic;0;1
+59;arabic2 random gain;arabic2 random gain;damascus, syria;arabic;none;18;male;2.5;naturalistic;usa;3;2;Afro-Asiatic;Semitic;0;1
+60;arabic3;arabic3;doha, qatar;arabic;none;24;male;9;academic;usa;1;2;Afro-Asiatic;Semitic;0;1
+60;arabic3 white noise;arabic3 white noise;doha, qatar;arabic;none;24;male;9;academic;usa;1;2;Afro-Asiatic;Semitic;0;1
+60;arabic3 time stretch;arabic3 time stretch;doha, qatar;arabic;none;24;male;9;academic;usa;1;2;Afro-Asiatic;Semitic;0;1
+60;arabic3 pitch scale;arabic3 pitch scale;doha, qatar;arabic;none;24;male;9;academic;usa;1;2;Afro-Asiatic;Semitic;0;1
+60;arabic3 random gain;arabic3 random gain;doha, qatar;arabic;none;24;male;9;academic;usa;1;2;Afro-Asiatic;Semitic;0;1
+61;arabic4;arabic4;sharjah, united arab emirates;arabic;french;19;male;6;academic;usa;0.6;2;Afro-Asiatic;Semitic;0;1
+61;arabic4 white noise;arabic4 white noise;sharjah, united arab emirates;arabic;french;19;male;6;academic;usa;0.6;2;Afro-Asiatic;Semitic;0;1
+61;arabic4 time stretch;arabic4 time stretch;sharjah, united arab emirates;arabic;french;19;male;6;academic;usa;0.6;2;Afro-Asiatic;Semitic;0;1
+61;arabic4 pitch scale;arabic4 pitch scale;sharjah, united arab emirates;arabic;french;19;male;6;academic;usa;0.6;2;Afro-Asiatic;Semitic;0;1
+61;arabic4 random gain;arabic4 random gain;sharjah, united arab emirates;arabic;french;19;male;6;academic;usa;0.6;2;Afro-Asiatic;Semitic;0;1
+62;arabic5;arabic5;casablanca, morocco;arabic;french;19;female;15;academic;usa;0.6;2;Afro-Asiatic;Semitic;0;1
+62;arabic5 white noise;arabic5 white noise;casablanca, morocco;arabic;french;19;female;15;academic;usa;0.6;2;Afro-Asiatic;Semitic;0;1
+62;arabic5 time stretch;arabic5 time stretch;casablanca, morocco;arabic;french;19;female;15;academic;usa;0.6;2;Afro-Asiatic;Semitic;0;1
+62;arabic5 pitch scale;arabic5 pitch scale;casablanca, morocco;arabic;french;19;female;15;academic;usa;0.6;2;Afro-Asiatic;Semitic;0;1
+62;arabic5 random gain;arabic5 random gain;casablanca, morocco;arabic;french;19;female;15;academic;usa;0.6;2;Afro-Asiatic;Semitic;0;1
+63;arabic6;arabic6;sanaa, yemen;arabic;none;21;male;14.5;academic;uk,usa;2;2;Afro-Asiatic;Semitic;0;1
+63;arabic6 white noise;arabic6 white noise;sanaa, yemen;arabic;none;21;male;14.5;academic;uk,usa;2;2;Afro-Asiatic;Semitic;0;1
+63;arabic6 time stretch;arabic6 time stretch;sanaa, yemen;arabic;none;21;male;14.5;academic;uk,usa;2;2;Afro-Asiatic;Semitic;0;1
+63;arabic6 pitch scale;arabic6 pitch scale;sanaa, yemen;arabic;none;21;male;14.5;academic;uk,usa;2;2;Afro-Asiatic;Semitic;0;1
+63;arabic6 random gain;arabic6 random gain;sanaa, yemen;arabic;none;21;male;14.5;academic;uk,usa;2;2;Afro-Asiatic;Semitic;0;1
+64;arabic7;arabic7;casablanca, morocco;arabic;french;18;female;15;academic;usa;0.1;2;Afro-Asiatic;Semitic;0;1
+64;arabic7 white noise;arabic7 white noise;casablanca, morocco;arabic;french;18;female;15;academic;usa;0.1;2;Afro-Asiatic;Semitic;0;1
+64;arabic7 time stretch;arabic7 time stretch;casablanca, morocco;arabic;french;18;female;15;academic;usa;0.1;2;Afro-Asiatic;Semitic;0;1
+64;arabic7 pitch scale;arabic7 pitch scale;casablanca, morocco;arabic;french;18;female;15;academic;usa;0.1;2;Afro-Asiatic;Semitic;0;1
+64;arabic7 random gain;arabic7 random gain;casablanca, morocco;arabic;french;18;female;15;academic;usa;0.1;2;Afro-Asiatic;Semitic;0;1
+65;arabic8;arabic8;casablanca, morocco;arabic;french;21;male;17;academic;usa;0.7;2;Afro-Asiatic;Semitic;0;1
+65;arabic8 white noise;arabic8 white noise;casablanca, morocco;arabic;french;21;male;17;academic;usa;0.7;2;Afro-Asiatic;Semitic;0;1
+65;arabic8 time stretch;arabic8 time stretch;casablanca, morocco;arabic;french;21;male;17;academic;usa;0.7;2;Afro-Asiatic;Semitic;0;1
+65;arabic8 pitch scale;arabic8 pitch scale;casablanca, morocco;arabic;french;21;male;17;academic;usa;0.7;2;Afro-Asiatic;Semitic;0;1
+65;arabic8 random gain;arabic8 random gain;casablanca, morocco;arabic;french;21;male;17;academic;usa;0.7;2;Afro-Asiatic;Semitic;0;1
+66;arabic9;arabic9;jerusalem, israel;arabic;none;28;female;4;academic;usa;12;2;Afro-Asiatic;Semitic;0;1
+66;arabic9 white noise;arabic9 white noise;jerusalem, israel;arabic;none;28;female;4;academic;usa;12;2;Afro-Asiatic;Semitic;0;1
+66;arabic9 time stretch;arabic9 time stretch;jerusalem, israel;arabic;none;28;female;4;academic;usa;12;2;Afro-Asiatic;Semitic;0;1
+66;arabic9 pitch scale;arabic9 pitch scale;jerusalem, israel;arabic;none;28;female;4;academic;usa;12;2;Afro-Asiatic;Semitic;0;1
+66;arabic9 random gain;arabic9 random gain;jerusalem, israel;arabic;none;28;female;4;academic;usa;12;2;Afro-Asiatic;Semitic;0;1
+67;arabic14;arabic14;amman, jordan;arabic;hebrew;47;male;11;naturalistic;usa;25;2;Afro-Asiatic;Semitic;0;1
+67;arabic14 white noise;arabic14 white noise;amman, jordan;arabic;hebrew;47;male;11;naturalistic;usa;25;2;Afro-Asiatic;Semitic;0;1
+67;arabic14 time stretch;arabic14 time stretch;amman, jordan;arabic;hebrew;47;male;11;naturalistic;usa;25;2;Afro-Asiatic;Semitic;0;1
+67;arabic14 pitch scale;arabic14 pitch scale;amman, jordan;arabic;hebrew;47;male;11;naturalistic;usa;25;2;Afro-Asiatic;Semitic;0;1
+67;arabic14 random gain;arabic14 random gain;amman, jordan;arabic;hebrew;47;male;11;naturalistic;usa;25;2;Afro-Asiatic;Semitic;0;1
+68;arabic15;arabic15;qayrawan, tunisia;arabic;french;40;male;33;naturalistic;usa;7;2;Afro-Asiatic;Semitic;0;1
+68;arabic15 white noise;arabic15 white noise;qayrawan, tunisia;arabic;french;40;male;33;naturalistic;usa;7;2;Afro-Asiatic;Semitic;0;1
+68;arabic15 time stretch;arabic15 time stretch;qayrawan, tunisia;arabic;french;40;male;33;naturalistic;usa;7;2;Afro-Asiatic;Semitic;0;1
+68;arabic15 pitch scale;arabic15 pitch scale;qayrawan, tunisia;arabic;french;40;male;33;naturalistic;usa;7;2;Afro-Asiatic;Semitic;0;1
+68;arabic15 random gain;arabic15 random gain;qayrawan, tunisia;arabic;french;40;male;33;naturalistic;usa;7;2;Afro-Asiatic;Semitic;0;1
+69;arabic16;arabic16;meknes, morocco;arabic;french spanish;22;male;16;academic;;0;2;Afro-Asiatic;Semitic;0;1
+69;arabic16 white noise;arabic16 white noise;meknes, morocco;arabic;french spanish;22;male;16;academic;;0;2;Afro-Asiatic;Semitic;0;1
+69;arabic16 time stretch;arabic16 time stretch;meknes, morocco;arabic;french spanish;22;male;16;academic;;0;2;Afro-Asiatic;Semitic;0;1
+69;arabic16 pitch scale;arabic16 pitch scale;meknes, morocco;arabic;french spanish;22;male;16;academic;;0;2;Afro-Asiatic;Semitic;0;1
+69;arabic16 random gain;arabic16 random gain;meknes, morocco;arabic;french spanish;22;male;16;academic;;0;2;Afro-Asiatic;Semitic;0;1
+70;arabic17;arabic17;settat, morocco;arabic;french;35;male;15;academic;;0;2;Afro-Asiatic;Semitic;0;1
+70;arabic17 white noise;arabic17 white noise;settat, morocco;arabic;french;35;male;15;academic;;0;2;Afro-Asiatic;Semitic;0;1
+70;arabic17 time stretch;arabic17 time stretch;settat, morocco;arabic;french;35;male;15;academic;;0;2;Afro-Asiatic;Semitic;0;1
+70;arabic17 pitch scale;arabic17 pitch scale;settat, morocco;arabic;french;35;male;15;academic;;0;2;Afro-Asiatic;Semitic;0;1
+70;arabic17 random gain;arabic17 random gain;settat, morocco;arabic;french;35;male;15;academic;;0;2;Afro-Asiatic;Semitic;0;1
+294;bengali6;bengali6;jamshedpur, jharkhand, india;bengali;hindi;29;male;4;naturalistic;uk;2;3;Indo-European;Indo-Iranian;4;10
+294;bengali6 white noise;bengali6 white noise;jamshedpur, jharkhand, india;bengali;hindi;29;male;4;naturalistic;uk;2;3;Indo-European;Indo-Iranian;4;10
+294;bengali6 time stretch;bengali6 time stretch;jamshedpur, jharkhand, india;bengali;hindi;29;male;4;naturalistic;uk;2;3;Indo-European;Indo-Iranian;4;10
+294;bengali6 pitch scale;bengali6 pitch scale;jamshedpur, jharkhand, india;bengali;hindi;29;male;4;naturalistic;uk;2;3;Indo-European;Indo-Iranian;4;10
+294;bengali6 random gain;bengali6 random gain;jamshedpur, jharkhand, india;bengali;hindi;29;male;4;naturalistic;uk;2;3;Indo-European;Indo-Iranian;4;10
+295;bengali8;bengali8;noakhali, bangladesh;bengali;urdu hindi;54;male;5;academic;usa;9;3;Indo-European;Indo-Iranian;4;10
+295;bengali8 white noise;bengali8 white noise;noakhali, bangladesh;bengali;urdu hindi;54;male;5;academic;usa;9;3;Indo-European;Indo-Iranian;4;10
+295;bengali8 time stretch;bengali8 time stretch;noakhali, bangladesh;bengali;urdu hindi;54;male;5;academic;usa;9;3;Indo-European;Indo-Iranian;4;10
+295;bengali8 pitch scale;bengali8 pitch scale;noakhali, bangladesh;bengali;urdu hindi;54;male;5;academic;usa;9;3;Indo-European;Indo-Iranian;4;10
+295;bengali8 random gain;bengali8 random gain;noakhali, bangladesh;bengali;urdu hindi;54;male;5;academic;usa;9;3;Indo-European;Indo-Iranian;4;10
+296;bengali7;bengali7;mymensingh, bangladesh;bengali;hindi urdu;49;male;6;academic;usa;5.5;3;Indo-European;Indo-Iranian;4;10
+296;bengali7 white noise;bengali7 white noise;mymensingh, bangladesh;bengali;hindi urdu;49;male;6;academic;usa;5.5;3;Indo-European;Indo-Iranian;4;10
+296;bengali7 time stretch;bengali7 time stretch;mymensingh, bangladesh;bengali;hindi urdu;49;male;6;academic;usa;5.5;3;Indo-European;Indo-Iranian;4;10
+296;bengali7 pitch scale;bengali7 pitch scale;mymensingh, bangladesh;bengali;hindi urdu;49;male;6;academic;usa;5.5;3;Indo-European;Indo-Iranian;4;10
+296;bengali7 random gain;bengali7 random gain;mymensingh, bangladesh;bengali;hindi urdu;49;male;6;academic;usa;5.5;3;Indo-European;Indo-Iranian;4;10
+297;bengali9;bengali9;kolkata, india;bengali;hindi;61;female;12;academic;usa;0.5;3;Indo-European;Indo-Iranian;4;10
+297;bengali9 white noise;bengali9 white noise;kolkata, india;bengali;hindi;61;female;12;academic;usa;0.5;3;Indo-European;Indo-Iranian;4;10
+297;bengali9 time stretch;bengali9 time stretch;kolkata, india;bengali;hindi;61;female;12;academic;usa;0.5;3;Indo-European;Indo-Iranian;4;10
+297;bengali9 pitch scale;bengali9 pitch scale;kolkata, india;bengali;hindi;61;female;12;academic;usa;0.5;3;Indo-European;Indo-Iranian;4;10
+297;bengali9 random gain;bengali9 random gain;kolkata, india;bengali;hindi;61;female;12;academic;usa;0.5;3;Indo-European;Indo-Iranian;4;10
+298;bengali10;bengali10;dhaka, bangladesh;bengali;none;18;female;3;academic;usa;6;3;Indo-European;Indo-Iranian;4;10
+298;bengali10 white noise;bengali10 white noise;dhaka, bangladesh;bengali;none;18;female;3;academic;usa;6;3;Indo-European;Indo-Iranian;4;10
+298;bengali10 time stretch;bengali10 time stretch;dhaka, bangladesh;bengali;none;18;female;3;academic;usa;6;3;Indo-European;Indo-Iranian;4;10
+298;bengali10 pitch scale;bengali10 pitch scale;dhaka, bangladesh;bengali;none;18;female;3;academic;usa;6;3;Indo-European;Indo-Iranian;4;10
+298;bengali10 random gain;bengali10 random gain;dhaka, bangladesh;bengali;none;18;female;3;academic;usa;6;3;Indo-European;Indo-Iranian;4;10
+349;cantonese4;cantonese4;fuzhou, fujian, china;cantonese;mandarin;29;female;13;academic;usa;4;6;Sino-Tibetan;Chinese;11;18
+349;cantonese4 white noise;cantonese4 white noise;fuzhou, fujian, china;cantonese;mandarin;29;female;13;academic;usa;4;6;Sino-Tibetan;Chinese;11;18
+349;cantonese4 time stretch;cantonese4 time stretch;fuzhou, fujian, china;cantonese;mandarin;29;female;13;academic;usa;4;6;Sino-Tibetan;Chinese;11;18
+349;cantonese4 pitch scale;cantonese4 pitch scale;fuzhou, fujian, china;cantonese;mandarin;29;female;13;academic;usa;4;6;Sino-Tibetan;Chinese;11;18
+349;cantonese4 random gain;cantonese4 random gain;fuzhou, fujian, china;cantonese;mandarin;29;female;13;academic;usa;4;6;Sino-Tibetan;Chinese;11;18
+350;cantonese5;cantonese5;hong kong, china;cantonese;mandarin;18;male;14;academic;new zealand;0.7;6;Sino-Tibetan;Chinese;11;18
+350;cantonese5 white noise;cantonese5 white noise;hong kong, china;cantonese;mandarin;18;male;14;academic;new zealand;0.7;6;Sino-Tibetan;Chinese;11;18
+350;cantonese5 time stretch;cantonese5 time stretch;hong kong, china;cantonese;mandarin;18;male;14;academic;new zealand;0.7;6;Sino-Tibetan;Chinese;11;18
+350;cantonese5 pitch scale;cantonese5 pitch scale;hong kong, china;cantonese;mandarin;18;male;14;academic;new zealand;0.7;6;Sino-Tibetan;Chinese;11;18
+350;cantonese5 random gain;cantonese5 random gain;hong kong, china;cantonese;mandarin;18;male;14;academic;new zealand;0.7;6;Sino-Tibetan;Chinese;11;18
+351;cantonese6;cantonese6;hong kong, china;cantonese;mandarin japanese;25;male;5;academic;;0;6;Sino-Tibetan;Chinese;11;18
+351;cantonese6 white noise;cantonese6 white noise;hong kong, china;cantonese;mandarin japanese;25;male;5;academic;;0;6;Sino-Tibetan;Chinese;11;18
+351;cantonese6 time stretch;cantonese6 time stretch;hong kong, china;cantonese;mandarin japanese;25;male;5;academic;;0;6;Sino-Tibetan;Chinese;11;18
+351;cantonese6 pitch scale;cantonese6 pitch scale;hong kong, china;cantonese;mandarin japanese;25;male;5;academic;;0;6;Sino-Tibetan;Chinese;11;18
+351;cantonese6 random gain;cantonese6 random gain;hong kong, china;cantonese;mandarin japanese;25;male;5;academic;;0;6;Sino-Tibetan;Chinese;11;18
+423;dari2;dari2;kabul, afghanistan;dari;pashto;55;male;12;academic;usa;35;7;Indo-European;Indo-Iranian;4;10
+423;dari2 white noise;dari2 white noise;kabul, afghanistan;dari;pashto;55;male;12;academic;usa;35;7;Indo-European;Indo-Iranian;4;10
+423;dari2 time stretch;dari2 time stretch;kabul, afghanistan;dari;pashto;55;male;12;academic;usa;35;7;Indo-European;Indo-Iranian;4;10
+423;dari2 pitch scale;dari2 pitch scale;kabul, afghanistan;dari;pashto;55;male;12;academic;usa;35;7;Indo-European;Indo-Iranian;4;10
+423;dari2 random gain;dari2 random gain;kabul, afghanistan;dari;pashto;55;male;12;academic;usa;35;7;Indo-European;Indo-Iranian;4;10
+505;english2;english2;birmingham, uk;english;german mandarin;30;female;0;naturalistic;uk;30;9;Indo-European;Germanic;4;8
+505;english2 white noise;english2 white noise;birmingham, uk;english;german mandarin;30;female;0;naturalistic;uk;30;9;Indo-European;Germanic;4;8
+505;english2 time stretch;english2 time stretch;birmingham, uk;english;german mandarin;30;female;0;naturalistic;uk;30;9;Indo-European;Germanic;4;8
+505;english2 pitch scale;english2 pitch scale;birmingham, uk;english;german mandarin;30;female;0;naturalistic;uk;30;9;Indo-European;Germanic;4;8
+505;english2 random gain;english2 random gain;birmingham, uk;english;german mandarin;30;female;0;naturalistic;uk;30;9;Indo-European;Germanic;4;8
+506;english20;english20;mt. holly, north carolina, usa;english;none;27;female;0;naturalistic;usa;27;9;Indo-European;Germanic;4;8
+506;english20 white noise;english20 white noise;mt. holly, north carolina, usa;english;none;27;female;0;naturalistic;usa;27;9;Indo-European;Germanic;4;8
+506;english20 time stretch;english20 time stretch;mt. holly, north carolina, usa;english;none;27;female;0;naturalistic;usa;27;9;Indo-European;Germanic;4;8
+506;english20 pitch scale;english20 pitch scale;mt. holly, north carolina, usa;english;none;27;female;0;naturalistic;usa;27;9;Indo-European;Germanic;4;8
+506;english20 random gain;english20 random gain;mt. holly, north carolina, usa;english;none;27;female;0;naturalistic;usa;27;9;Indo-European;Germanic;4;8
+507;english21;english21;boston, massachusetts, usa;english;italian;37;female;0;naturalistic;usa;37;9;Indo-European;Germanic;4;8
+507;english21 white noise;english21 white noise;boston, massachusetts, usa;english;italian;37;female;0;naturalistic;usa;37;9;Indo-European;Germanic;4;8
+507;english21 time stretch;english21 time stretch;boston, massachusetts, usa;english;italian;37;female;0;naturalistic;usa;37;9;Indo-European;Germanic;4;8
+507;english21 pitch scale;english21 pitch scale;boston, massachusetts, usa;english;italian;37;female;0;naturalistic;usa;37;9;Indo-European;Germanic;4;8
+507;english21 random gain;english21 random gain;boston, massachusetts, usa;english;italian;37;female;0;naturalistic;usa;37;9;Indo-European;Germanic;4;8
+508;english22;english22;panama city, panama;english;spanish;25;female;0;naturalistic;usa;5;9;Indo-European;Germanic;4;8
+508;english22 white noise;english22 white noise;panama city, panama;english;spanish;25;female;0;naturalistic;usa;5;9;Indo-European;Germanic;4;8
+508;english22 time stretch;english22 time stretch;panama city, panama;english;spanish;25;female;0;naturalistic;usa;5;9;Indo-European;Germanic;4;8
+508;english22 pitch scale;english22 pitch scale;panama city, panama;english;spanish;25;female;0;naturalistic;usa;5;9;Indo-European;Germanic;4;8
+508;english22 random gain;english22 random gain;panama city, panama;english;spanish;25;female;0;naturalistic;usa;5;9;Indo-European;Germanic;4;8
+509;english23;english23;englewood, tennessee, usa;english;none;43;male;0;naturalistic;usa;43;9;Indo-European;Germanic;4;8
+509;english23 white noise;english23 white noise;englewood, tennessee, usa;english;none;43;male;0;naturalistic;usa;43;9;Indo-European;Germanic;4;8
+509;english23 time stretch;english23 time stretch;englewood, tennessee, usa;english;none;43;male;0;naturalistic;usa;43;9;Indo-European;Germanic;4;8
+509;english23 pitch scale;english23 pitch scale;englewood, tennessee, usa;english;none;43;male;0;naturalistic;usa;43;9;Indo-European;Germanic;4;8
+509;english23 random gain;english23 random gain;englewood, tennessee, usa;english;none;43;male;0;naturalistic;usa;43;9;Indo-European;Germanic;4;8
+510;english24;english24;glasgow, scotland, uk;english;french;37;male;0;naturalistic;uk,usa;37;9;Indo-European;Germanic;4;8
+510;english24 white noise;english24 white noise;glasgow, scotland, uk;english;french;37;male;0;naturalistic;uk,usa;37;9;Indo-European;Germanic;4;8
+510;english24 time stretch;english24 time stretch;glasgow, scotland, uk;english;french;37;male;0;naturalistic;uk,usa;37;9;Indo-European;Germanic;4;8
+510;english24 pitch scale;english24 pitch scale;glasgow, scotland, uk;english;french;37;male;0;naturalistic;uk,usa;37;9;Indo-European;Germanic;4;8
+510;english24 random gain;english24 random gain;glasgow, scotland, uk;english;french;37;male;0;naturalistic;uk,usa;37;9;Indo-European;Germanic;4;8
+511;english25;english25;atlanta, georgia, usa;english;none;57;male;0;naturalistic;usa;57;9;Indo-European;Germanic;4;8
+511;english25 white noise;english25 white noise;atlanta, georgia, usa;english;none;57;male;0;naturalistic;usa;57;9;Indo-European;Germanic;4;8
+511;english25 time stretch;english25 time stretch;atlanta, georgia, usa;english;none;57;male;0;naturalistic;usa;57;9;Indo-European;Germanic;4;8
+511;english25 pitch scale;english25 pitch scale;atlanta, georgia, usa;english;none;57;male;0;naturalistic;usa;57;9;Indo-European;Germanic;4;8
+511;english25 random gain;english25 random gain;atlanta, georgia, usa;english;none;57;male;0;naturalistic;usa;57;9;Indo-European;Germanic;4;8
+512;english26;english26;smith island, maryland, usa;english;none;71;male;0;naturalistic;usa;71;9;Indo-European;Germanic;4;8
+512;english26 white noise;english26 white noise;smith island, maryland, usa;english;none;71;male;0;naturalistic;usa;71;9;Indo-European;Germanic;4;8
+512;english26 time stretch;english26 time stretch;smith island, maryland, usa;english;none;71;male;0;naturalistic;usa;71;9;Indo-European;Germanic;4;8
+512;english26 pitch scale;english26 pitch scale;smith island, maryland, usa;english;none;71;male;0;naturalistic;usa;71;9;Indo-European;Germanic;4;8
+512;english26 random gain;english26 random gain;smith island, maryland, usa;english;none;71;male;0;naturalistic;usa;71;9;Indo-European;Germanic;4;8
+513;english27;english27;smith island, maryland, usa;english;none;37;female;0;naturalistic;usa;37;9;Indo-European;Germanic;4;8
+513;english27 white noise;english27 white noise;smith island, maryland, usa;english;none;37;female;0;naturalistic;usa;37;9;Indo-European;Germanic;4;8
+513;english27 time stretch;english27 time stretch;smith island, maryland, usa;english;none;37;female;0;naturalistic;usa;37;9;Indo-European;Germanic;4;8
+513;english27 pitch scale;english27 pitch scale;smith island, maryland, usa;english;none;37;female;0;naturalistic;usa;37;9;Indo-European;Germanic;4;8
+513;english27 random gain;english27 random gain;smith island, maryland, usa;english;none;37;female;0;naturalistic;usa;37;9;Indo-European;Germanic;4;8
+514;english28;english28;toronto, ontario, canada;english;french russian;54;male;0;naturalistic;canada;54;9;Indo-European;Germanic;4;8
+514;english28 white noise;english28 white noise;toronto, ontario, canada;english;french russian;54;male;0;naturalistic;canada;54;9;Indo-European;Germanic;4;8
+514;english28 time stretch;english28 time stretch;toronto, ontario, canada;english;french russian;54;male;0;naturalistic;canada;54;9;Indo-European;Germanic;4;8
+514;english28 pitch scale;english28 pitch scale;toronto, ontario, canada;english;french russian;54;male;0;naturalistic;canada;54;9;Indo-European;Germanic;4;8
+514;english28 random gain;english28 random gain;toronto, ontario, canada;english;french russian;54;male;0;naturalistic;canada;54;9;Indo-European;Germanic;4;8
+515;english29;english29;lindsay, ontario, canada;english;none;54;female;0;naturalistic;canada;54;9;Indo-European;Germanic;4;8
+515;english29 white noise;english29 white noise;lindsay, ontario, canada;english;none;54;female;0;naturalistic;canada;54;9;Indo-European;Germanic;4;8
+515;english29 time stretch;english29 time stretch;lindsay, ontario, canada;english;none;54;female;0;naturalistic;canada;54;9;Indo-European;Germanic;4;8
+515;english29 pitch scale;english29 pitch scale;lindsay, ontario, canada;english;none;54;female;0;naturalistic;canada;54;9;Indo-European;Germanic;4;8
+515;english29 random gain;english29 random gain;lindsay, ontario, canada;english;none;54;female;0;naturalistic;canada;54;9;Indo-European;Germanic;4;8
+516;english3;english3;brisbane, australia;english;none;26;female;0;naturalistic;australia;26;9;Indo-European;Germanic;4;8
+516;english3 white noise;english3 white noise;brisbane, australia;english;none;26;female;0;naturalistic;australia;26;9;Indo-European;Germanic;4;8
+516;english3 time stretch;english3 time stretch;brisbane, australia;english;none;26;female;0;naturalistic;australia;26;9;Indo-European;Germanic;4;8
+516;english3 pitch scale;english3 pitch scale;brisbane, australia;english;none;26;female;0;naturalistic;australia;26;9;Indo-European;Germanic;4;8
+516;english3 random gain;english3 random gain;brisbane, australia;english;none;26;female;0;naturalistic;australia;26;9;Indo-European;Germanic;4;8
+517;english30;english30;st. marys, ontario, canada;english;french swedish;30;female;0;naturalistic;canada;30;9;Indo-European;Germanic;4;8
+517;english30 white noise;english30 white noise;st. marys, ontario, canada;english;french swedish;30;female;0;naturalistic;canada;30;9;Indo-European;Germanic;4;8
+517;english30 time stretch;english30 time stretch;st. marys, ontario, canada;english;french swedish;30;female;0;naturalistic;canada;30;9;Indo-European;Germanic;4;8
+517;english30 pitch scale;english30 pitch scale;st. marys, ontario, canada;english;french swedish;30;female;0;naturalistic;canada;30;9;Indo-European;Germanic;4;8
+517;english30 random gain;english30 random gain;st. marys, ontario, canada;english;french swedish;30;female;0;naturalistic;canada;30;9;Indo-European;Germanic;4;8
+518;english31;english31;st. augustine, trinidad;english;none;31;female;0;naturalistic;trinidad,usa;31;9;Indo-European;Germanic;4;8
+518;english31 white noise;english31 white noise;st. augustine, trinidad;english;none;31;female;0;naturalistic;trinidad,usa;31;9;Indo-European;Germanic;4;8
+518;english31 time stretch;english31 time stretch;st. augustine, trinidad;english;none;31;female;0;naturalistic;trinidad,usa;31;9;Indo-European;Germanic;4;8
+518;english31 pitch scale;english31 pitch scale;st. augustine, trinidad;english;none;31;female;0;naturalistic;trinidad,usa;31;9;Indo-European;Germanic;4;8
+518;english31 random gain;english31 random gain;st. augustine, trinidad;english;none;31;female;0;naturalistic;trinidad,usa;31;9;Indo-European;Germanic;4;8
+519;english32;english32;fresno, california, usa;english;none;50;female;0;naturalistic;usa;50;9;Indo-European;Germanic;4;8
+519;english32 white noise;english32 white noise;fresno, california, usa;english;none;50;female;0;naturalistic;usa;50;9;Indo-European;Germanic;4;8
+519;english32 time stretch;english32 time stretch;fresno, california, usa;english;none;50;female;0;naturalistic;usa;50;9;Indo-European;Germanic;4;8
+519;english32 pitch scale;english32 pitch scale;fresno, california, usa;english;none;50;female;0;naturalistic;usa;50;9;Indo-European;Germanic;4;8
+519;english32 random gain;english32 random gain;fresno, california, usa;english;none;50;female;0;naturalistic;usa;50;9;Indo-European;Germanic;4;8
+520;english33;english33;san diego, california, usa;english;none;21;male;0;naturalistic;usa;21;9;Indo-European;Germanic;4;8
+520;english33 white noise;english33 white noise;san diego, california, usa;english;none;21;male;0;naturalistic;usa;21;9;Indo-European;Germanic;4;8
+520;english33 time stretch;english33 time stretch;san diego, california, usa;english;none;21;male;0;naturalistic;usa;21;9;Indo-European;Germanic;4;8
+520;english33 pitch scale;english33 pitch scale;san diego, california, usa;english;none;21;male;0;naturalistic;usa;21;9;Indo-European;Germanic;4;8
+520;english33 random gain;english33 random gain;san diego, california, usa;english;none;21;male;0;naturalistic;usa;21;9;Indo-European;Germanic;4;8
+521;english34;english34;ronkonkoma, new york, usa;english;french;18;female;0;naturalistic;usa;18;9;Indo-European;Germanic;4;8
+521;english34 white noise;english34 white noise;ronkonkoma, new york, usa;english;french;18;female;0;naturalistic;usa;18;9;Indo-European;Germanic;4;8
+521;english34 time stretch;english34 time stretch;ronkonkoma, new york, usa;english;french;18;female;0;naturalistic;usa;18;9;Indo-European;Germanic;4;8
+521;english34 pitch scale;english34 pitch scale;ronkonkoma, new york, usa;english;french;18;female;0;naturalistic;usa;18;9;Indo-European;Germanic;4;8
+521;english34 random gain;english34 random gain;ronkonkoma, new york, usa;english;french;18;female;0;naturalistic;usa;18;9;Indo-European;Germanic;4;8
+522;english35;english35;milwaukee, wisconsin, usa;english;spanish;60;female;0;naturalistic;usa;60;9;Indo-European;Germanic;4;8
+522;english35 white noise;english35 white noise;milwaukee, wisconsin, usa;english;spanish;60;female;0;naturalistic;usa;60;9;Indo-European;Germanic;4;8
+522;english35 time stretch;english35 time stretch;milwaukee, wisconsin, usa;english;spanish;60;female;0;naturalistic;usa;60;9;Indo-European;Germanic;4;8
+522;english35 pitch scale;english35 pitch scale;milwaukee, wisconsin, usa;english;spanish;60;female;0;naturalistic;usa;60;9;Indo-European;Germanic;4;8
+522;english35 random gain;english35 random gain;milwaukee, wisconsin, usa;english;spanish;60;female;0;naturalistic;usa;60;9;Indo-European;Germanic;4;8
+523;english36;english36;arcadia, wisconsin, usa;english;none;60;male;0;naturalistic;usa;60;9;Indo-European;Germanic;4;8
+523;english36 white noise;english36 white noise;arcadia, wisconsin, usa;english;none;60;male;0;naturalistic;usa;60;9;Indo-European;Germanic;4;8
+523;english36 time stretch;english36 time stretch;arcadia, wisconsin, usa;english;none;60;male;0;naturalistic;usa;60;9;Indo-European;Germanic;4;8
+523;english36 pitch scale;english36 pitch scale;arcadia, wisconsin, usa;english;none;60;male;0;naturalistic;usa;60;9;Indo-European;Germanic;4;8
+523;english36 random gain;english36 random gain;arcadia, wisconsin, usa;english;none;60;male;0;naturalistic;usa;60;9;Indo-European;Germanic;4;8
+524;english37;english37;yole, india;english;hindi-urdu french;28;female;0;naturalistic;usa;7;9;Indo-European;Germanic;4;8
+524;english37 white noise;english37 white noise;yole, india;english;hindi-urdu french;28;female;0;naturalistic;usa;7;9;Indo-European;Germanic;4;8
+524;english37 time stretch;english37 time stretch;yole, india;english;hindi-urdu french;28;female;0;naturalistic;usa;7;9;Indo-European;Germanic;4;8
+524;english37 pitch scale;english37 pitch scale;yole, india;english;hindi-urdu french;28;female;0;naturalistic;usa;7;9;Indo-European;Germanic;4;8
+524;english37 random gain;english37 random gain;yole, india;english;hindi-urdu french;28;female;0;naturalistic;usa;7;9;Indo-European;Germanic;4;8
+525;english38;english38;littlehampton, uk;english;none;27;male;0;naturalistic;uk;27;9;Indo-European;Germanic;4;8
+525;english38 white noise;english38 white noise;littlehampton, uk;english;none;27;male;0;naturalistic;uk;27;9;Indo-European;Germanic;4;8
+525;english38 time stretch;english38 time stretch;littlehampton, uk;english;none;27;male;0;naturalistic;uk;27;9;Indo-European;Germanic;4;8
+525;english38 pitch scale;english38 pitch scale;littlehampton, uk;english;none;27;male;0;naturalistic;uk;27;9;Indo-European;Germanic;4;8
+525;english38 random gain;english38 random gain;littlehampton, uk;english;none;27;male;0;naturalistic;uk;27;9;Indo-European;Germanic;4;8
+526;english39;english39;new orleans, louisiana, usa;english;none;59;female;0;naturalistic;usa;59;9;Indo-European;Germanic;4;8
+526;english39 white noise;english39 white noise;new orleans, louisiana, usa;english;none;59;female;0;naturalistic;usa;59;9;Indo-European;Germanic;4;8
+526;english39 time stretch;english39 time stretch;new orleans, louisiana, usa;english;none;59;female;0;naturalistic;usa;59;9;Indo-European;Germanic;4;8
+526;english39 pitch scale;english39 pitch scale;new orleans, louisiana, usa;english;none;59;female;0;naturalistic;usa;59;9;Indo-European;Germanic;4;8
+526;english39 random gain;english39 random gain;new orleans, louisiana, usa;english;none;59;female;0;naturalistic;usa;59;9;Indo-European;Germanic;4;8
+527;english4;english4;saint annes bay, jamaica;english;spanish french;53;female;0;naturalistic;jamaica,usa;53;9;Indo-European;Germanic;4;8
+527;english4 white noise;english4 white noise;saint annes bay, jamaica;english;spanish french;53;female;0;naturalistic;jamaica,usa;53;9;Indo-European;Germanic;4;8
+527;english4 time stretch;english4 time stretch;saint annes bay, jamaica;english;spanish french;53;female;0;naturalistic;jamaica,usa;53;9;Indo-European;Germanic;4;8
+527;english4 pitch scale;english4 pitch scale;saint annes bay, jamaica;english;spanish french;53;female;0;naturalistic;jamaica,usa;53;9;Indo-European;Germanic;4;8
+527;english4 random gain;english4 random gain;saint annes bay, jamaica;english;spanish french;53;female;0;naturalistic;jamaica,usa;53;9;Indo-European;Germanic;4;8
+528;english40;english40;dudley, uk;english;none;53;male;0;naturalistic;uk;53;9;Indo-European;Germanic;4;8
+528;english40 white noise;english40 white noise;dudley, uk;english;none;53;male;0;naturalistic;uk;53;9;Indo-European;Germanic;4;8
+528;english40 time stretch;english40 time stretch;dudley, uk;english;none;53;male;0;naturalistic;uk;53;9;Indo-European;Germanic;4;8
+528;english40 pitch scale;english40 pitch scale;dudley, uk;english;none;53;male;0;naturalistic;uk;53;9;Indo-European;Germanic;4;8
+528;english40 random gain;english40 random gain;dudley, uk;english;none;53;male;0;naturalistic;uk;53;9;Indo-European;Germanic;4;8
+529;english41;english41;wellington, new zealand;english;hebrew french;44;male;0;naturalistic;new zealand;21;9;Indo-European;Germanic;4;8
+529;english41 white noise;english41 white noise;wellington, new zealand;english;hebrew french;44;male;0;naturalistic;new zealand;21;9;Indo-European;Germanic;4;8
+529;english41 time stretch;english41 time stretch;wellington, new zealand;english;hebrew french;44;male;0;naturalistic;new zealand;21;9;Indo-European;Germanic;4;8
+529;english41 pitch scale;english41 pitch scale;wellington, new zealand;english;hebrew french;44;male;0;naturalistic;new zealand;21;9;Indo-European;Germanic;4;8
+529;english41 random gain;english41 random gain;wellington, new zealand;english;hebrew french;44;male;0;naturalistic;new zealand;21;9;Indo-European;Germanic;4;8
+530;english42;english42;nigel, south africa;english;afrikaans zulu;65;male;0;naturalistic;south africa;60;9;Indo-European;Germanic;4;8
+530;english42 white noise;english42 white noise;nigel, south africa;english;afrikaans zulu;65;male;0;naturalistic;south africa;60;9;Indo-European;Germanic;4;8
+530;english42 time stretch;english42 time stretch;nigel, south africa;english;afrikaans zulu;65;male;0;naturalistic;south africa;60;9;Indo-European;Germanic;4;8
+530;english42 pitch scale;english42 pitch scale;nigel, south africa;english;afrikaans zulu;65;male;0;naturalistic;south africa;60;9;Indo-European;Germanic;4;8
+530;english42 random gain;english42 random gain;nigel, south africa;english;afrikaans zulu;65;male;0;naturalistic;south africa;60;9;Indo-European;Germanic;4;8
+531;english43;english43;vancouver, british columbia, canada;english;none;47;male;0;naturalistic;canada;47;9;Indo-European;Germanic;4;8
+531;english43 white noise;english43 white noise;vancouver, british columbia, canada;english;none;47;male;0;naturalistic;canada;47;9;Indo-European;Germanic;4;8
+531;english43 time stretch;english43 time stretch;vancouver, british columbia, canada;english;none;47;male;0;naturalistic;canada;47;9;Indo-European;Germanic;4;8
+531;english43 pitch scale;english43 pitch scale;vancouver, british columbia, canada;english;none;47;male;0;naturalistic;canada;47;9;Indo-European;Germanic;4;8
+531;english43 random gain;english43 random gain;vancouver, british columbia, canada;english;none;47;male;0;naturalistic;canada;47;9;Indo-European;Germanic;4;8
+532;english44;english44;winston salem, north carolina, usa;english;spanish french;63;female;0;naturalistic;usa;63;9;Indo-European;Germanic;4;8
+532;english44 white noise;english44 white noise;winston salem, north carolina, usa;english;spanish french;63;female;0;naturalistic;usa;63;9;Indo-European;Germanic;4;8
+532;english44 time stretch;english44 time stretch;winston salem, north carolina, usa;english;spanish french;63;female;0;naturalistic;usa;63;9;Indo-European;Germanic;4;8
+532;english44 pitch scale;english44 pitch scale;winston salem, north carolina, usa;english;spanish french;63;female;0;naturalistic;usa;63;9;Indo-European;Germanic;4;8
+532;english44 random gain;english44 random gain;winston salem, north carolina, usa;english;spanish french;63;female;0;naturalistic;usa;63;9;Indo-European;Germanic;4;8
+533;english45;english45;pine bluff, arkansas, usa;english;none;52;male;0;naturalistic;usa;52;9;Indo-European;Germanic;4;8
+533;english45 white noise;english45 white noise;pine bluff, arkansas, usa;english;none;52;male;0;naturalistic;usa;52;9;Indo-European;Germanic;4;8
+533;english45 time stretch;english45 time stretch;pine bluff, arkansas, usa;english;none;52;male;0;naturalistic;usa;52;9;Indo-European;Germanic;4;8
+533;english45 pitch scale;english45 pitch scale;pine bluff, arkansas, usa;english;none;52;male;0;naturalistic;usa;52;9;Indo-European;Germanic;4;8
+533;english45 random gain;english45 random gain;pine bluff, arkansas, usa;english;none;52;male;0;naturalistic;usa;52;9;Indo-European;Germanic;4;8
+534;english46;english46;creswell, north carolina, usa;english;none;73;male;0;naturalistic;usa;73;9;Indo-European;Germanic;4;8
+534;english46 white noise;english46 white noise;creswell, north carolina, usa;english;none;73;male;0;naturalistic;usa;73;9;Indo-European;Germanic;4;8
+534;english46 time stretch;english46 time stretch;creswell, north carolina, usa;english;none;73;male;0;naturalistic;usa;73;9;Indo-European;Germanic;4;8
+534;english46 pitch scale;english46 pitch scale;creswell, north carolina, usa;english;none;73;male;0;naturalistic;usa;73;9;Indo-European;Germanic;4;8
+534;english46 random gain;english46 random gain;creswell, north carolina, usa;english;none;73;male;0;naturalistic;usa;73;9;Indo-European;Germanic;4;8
+535;english47;english47;plantersville, arkansas, usa;english;none;76;female;0;naturalistic;usa;76;9;Indo-European;Germanic;4;8
+535;english47 white noise;english47 white noise;plantersville, arkansas, usa;english;none;76;female;0;naturalistic;usa;76;9;Indo-European;Germanic;4;8
+535;english47 time stretch;english47 time stretch;plantersville, arkansas, usa;english;none;76;female;0;naturalistic;usa;76;9;Indo-European;Germanic;4;8
+535;english47 pitch scale;english47 pitch scale;plantersville, arkansas, usa;english;none;76;female;0;naturalistic;usa;76;9;Indo-European;Germanic;4;8
+535;english47 random gain;english47 random gain;plantersville, arkansas, usa;english;none;76;female;0;naturalistic;usa;76;9;Indo-European;Germanic;4;8
+536;english48;english48;port moresby, national capital district, papua new guinea;english;tok pisin igbo;26;male;0;naturalistic;papua new guinea,uk,usa;26;9;Indo-European;Germanic;4;8
+536;english48 white noise;english48 white noise;port moresby, national capital district, papua new guinea;english;tok pisin igbo;26;male;0;naturalistic;papua new guinea,uk,usa;26;9;Indo-European;Germanic;4;8
+536;english48 time stretch;english48 time stretch;port moresby, national capital district, papua new guinea;english;tok pisin igbo;26;male;0;naturalistic;papua new guinea,uk,usa;26;9;Indo-European;Germanic;4;8
+536;english48 pitch scale;english48 pitch scale;port moresby, national capital district, papua new guinea;english;tok pisin igbo;26;male;0;naturalistic;papua new guinea,uk,usa;26;9;Indo-European;Germanic;4;8
+536;english48 random gain;english48 random gain;port moresby, national capital district, papua new guinea;english;tok pisin igbo;26;male;0;naturalistic;papua new guinea,uk,usa;26;9;Indo-European;Germanic;4;8
+537;english49;english49;castro valley, california, usa;english;none;43;male;0;naturalistic;usa;43;9;Indo-European;Germanic;4;8
+537;english49 white noise;english49 white noise;castro valley, california, usa;english;none;43;male;0;naturalistic;usa;43;9;Indo-European;Germanic;4;8
+537;english49 time stretch;english49 time stretch;castro valley, california, usa;english;none;43;male;0;naturalistic;usa;43;9;Indo-European;Germanic;4;8
+537;english49 pitch scale;english49 pitch scale;castro valley, california, usa;english;none;43;male;0;naturalistic;usa;43;9;Indo-European;Germanic;4;8
+537;english49 random gain;english49 random gain;castro valley, california, usa;english;none;43;male;0;naturalistic;usa;43;9;Indo-European;Germanic;4;8
+538;english5;english5;fairfax, virginia, usa;english;none;62;male;0;naturalistic;usa;62;9;Indo-European;Germanic;4;8
+538;english5 white noise;english5 white noise;fairfax, virginia, usa;english;none;62;male;0;naturalistic;usa;62;9;Indo-European;Germanic;4;8
+538;english5 time stretch;english5 time stretch;fairfax, virginia, usa;english;none;62;male;0;naturalistic;usa;62;9;Indo-European;Germanic;4;8
+538;english5 pitch scale;english5 pitch scale;fairfax, virginia, usa;english;none;62;male;0;naturalistic;usa;62;9;Indo-European;Germanic;4;8
+538;english5 random gain;english5 random gain;fairfax, virginia, usa;english;none;62;male;0;naturalistic;usa;62;9;Indo-European;Germanic;4;8
+539;english50;english50;baltic, south dakota, usa;english;french;29;female;0;naturalistic;usa;29;9;Indo-European;Germanic;4;8
+539;english50 white noise;english50 white noise;baltic, south dakota, usa;english;french;29;female;0;naturalistic;usa;29;9;Indo-European;Germanic;4;8
+539;english50 time stretch;english50 time stretch;baltic, south dakota, usa;english;french;29;female;0;naturalistic;usa;29;9;Indo-European;Germanic;4;8
+539;english50 pitch scale;english50 pitch scale;baltic, south dakota, usa;english;french;29;female;0;naturalistic;usa;29;9;Indo-European;Germanic;4;8
+539;english50 random gain;english50 random gain;baltic, south dakota, usa;english;french;29;female;0;naturalistic;usa;29;9;Indo-European;Germanic;4;8
+540;english51;english51;detroit, michigan, usa;english;italian;67;male;0;naturalistic;usa;67;9;Indo-European;Germanic;4;8
+540;english51 white noise;english51 white noise;detroit, michigan, usa;english;italian;67;male;0;naturalistic;usa;67;9;Indo-European;Germanic;4;8
+540;english51 time stretch;english51 time stretch;detroit, michigan, usa;english;italian;67;male;0;naturalistic;usa;67;9;Indo-European;Germanic;4;8
+540;english51 pitch scale;english51 pitch scale;detroit, michigan, usa;english;italian;67;male;0;naturalistic;usa;67;9;Indo-European;Germanic;4;8
+540;english51 random gain;english51 random gain;detroit, michigan, usa;english;italian;67;male;0;naturalistic;usa;67;9;Indo-European;Germanic;4;8
+541;english52;english52;calgary, alberta, canada;english;none;20;male;0;naturalistic;canada, usa;20;9;Indo-European;Germanic;4;8
+541;english52 white noise;english52 white noise;calgary, alberta, canada;english;none;20;male;0;naturalistic;canada, usa;20;9;Indo-European;Germanic;4;8
+541;english52 time stretch;english52 time stretch;calgary, alberta, canada;english;none;20;male;0;naturalistic;canada, usa;20;9;Indo-European;Germanic;4;8
+541;english52 pitch scale;english52 pitch scale;calgary, alberta, canada;english;none;20;male;0;naturalistic;canada, usa;20;9;Indo-European;Germanic;4;8
+541;english52 random gain;english52 random gain;calgary, alberta, canada;english;none;20;male;0;naturalistic;canada, usa;20;9;Indo-European;Germanic;4;8
+542;english53;english53;syracuse, new york, usa;english;none;63;male;0;naturalistic;usa;63;9;Indo-European;Germanic;4;8
+542;english53 white noise;english53 white noise;syracuse, new york, usa;english;none;63;male;0;naturalistic;usa;63;9;Indo-European;Germanic;4;8
+542;english53 time stretch;english53 time stretch;syracuse, new york, usa;english;none;63;male;0;naturalistic;usa;63;9;Indo-European;Germanic;4;8
+542;english53 pitch scale;english53 pitch scale;syracuse, new york, usa;english;none;63;male;0;naturalistic;usa;63;9;Indo-European;Germanic;4;8
+542;english53 random gain;english53 random gain;syracuse, new york, usa;english;none;63;male;0;naturalistic;usa;63;9;Indo-European;Germanic;4;8
+543;english54;english54;new albany, indiana, usa;english;none;40;female;0;naturalistic;usa;40;9;Indo-European;Germanic;4;8
+543;english54 white noise;english54 white noise;new albany, indiana, usa;english;none;40;female;0;naturalistic;usa;40;9;Indo-European;Germanic;4;8
+543;english54 time stretch;english54 time stretch;new albany, indiana, usa;english;none;40;female;0;naturalistic;usa;40;9;Indo-European;Germanic;4;8
+543;english54 pitch scale;english54 pitch scale;new albany, indiana, usa;english;none;40;female;0;naturalistic;usa;40;9;Indo-European;Germanic;4;8
+543;english54 random gain;english54 random gain;new albany, indiana, usa;english;none;40;female;0;naturalistic;usa;40;9;Indo-European;Germanic;4;8
+544;english55;english55;st. louis, missouri, usa;english;none;53;female;0;naturalistic;usa;53;9;Indo-European;Germanic;4;8
+544;english55 white noise;english55 white noise;st. louis, missouri, usa;english;none;53;female;0;naturalistic;usa;53;9;Indo-European;Germanic;4;8
+544;english55 time stretch;english55 time stretch;st. louis, missouri, usa;english;none;53;female;0;naturalistic;usa;53;9;Indo-European;Germanic;4;8
+544;english55 pitch scale;english55 pitch scale;st. louis, missouri, usa;english;none;53;female;0;naturalistic;usa;53;9;Indo-European;Germanic;4;8
+544;english55 random gain;english55 random gain;st. louis, missouri, usa;english;none;53;female;0;naturalistic;usa;53;9;Indo-European;Germanic;4;8
+545;english56;english56;londonderry, northern ireland, uk;english;ulster scots;20;male;0;naturalistic;northern ireland;20;9;Indo-European;Germanic;4;8
+545;english56 white noise;english56 white noise;londonderry, northern ireland, uk;english;ulster scots;20;male;0;naturalistic;northern ireland;20;9;Indo-European;Germanic;4;8
+545;english56 time stretch;english56 time stretch;londonderry, northern ireland, uk;english;ulster scots;20;male;0;naturalistic;northern ireland;20;9;Indo-European;Germanic;4;8
+545;english56 pitch scale;english56 pitch scale;londonderry, northern ireland, uk;english;ulster scots;20;male;0;naturalistic;northern ireland;20;9;Indo-European;Germanic;4;8
+545;english56 random gain;english56 random gain;londonderry, northern ireland, uk;english;ulster scots;20;male;0;naturalistic;northern ireland;20;9;Indo-European;Germanic;4;8
+546;english57;english57;birmingham 1,uk;english;french spanish;34;male;0;naturalistic;uk,canada;34;9;Indo-European;Germanic;4;8
+546;english57 white noise;english57 white noise;birmingham 1,uk;english;french spanish;34;male;0;naturalistic;uk,canada;34;9;Indo-European;Germanic;4;8
+546;english57 time stretch;english57 time stretch;birmingham 1,uk;english;french spanish;34;male;0;naturalistic;uk,canada;34;9;Indo-European;Germanic;4;8
+546;english57 pitch scale;english57 pitch scale;birmingham 1,uk;english;french spanish;34;male;0;naturalistic;uk,canada;34;9;Indo-European;Germanic;4;8
+546;english57 random gain;english57 random gain;birmingham 1,uk;english;french spanish;34;male;0;naturalistic;uk,canada;34;9;Indo-European;Germanic;4;8
+547;english58;english58;southhampton, uk;english;none;46;female;0;naturalistic;uk,usa;16;9;Indo-European;Germanic;4;8
+547;english58 white noise;english58 white noise;southhampton, uk;english;none;46;female;0;naturalistic;uk,usa;16;9;Indo-European;Germanic;4;8
+547;english58 time stretch;english58 time stretch;southhampton, uk;english;none;46;female;0;naturalistic;uk,usa;16;9;Indo-European;Germanic;4;8
+547;english58 pitch scale;english58 pitch scale;southhampton, uk;english;none;46;female;0;naturalistic;uk,usa;16;9;Indo-European;Germanic;4;8
+547;english58 random gain;english58 random gain;southhampton, uk;english;none;46;female;0;naturalistic;uk,usa;16;9;Indo-European;Germanic;4;8
+548;english59;english59;columbus, ohio, usa;english;greek german;30;male;0;naturalistic;usa;30;9;Indo-European;Germanic;4;8
+548;english59 white noise;english59 white noise;columbus, ohio, usa;english;greek german;30;male;0;naturalistic;usa;30;9;Indo-European;Germanic;4;8
+548;english59 time stretch;english59 time stretch;columbus, ohio, usa;english;greek german;30;male;0;naturalistic;usa;30;9;Indo-European;Germanic;4;8
+548;english59 pitch scale;english59 pitch scale;columbus, ohio, usa;english;greek german;30;male;0;naturalistic;usa;30;9;Indo-European;Germanic;4;8
+548;english59 random gain;english59 random gain;columbus, ohio, usa;english;greek german;30;male;0;naturalistic;usa;30;9;Indo-European;Germanic;4;8
+549;english6;english6;brooklyn, new york, usa;english;french spanish;45;female;0;naturalistic;usa;45;9;Indo-European;Germanic;4;8
+549;english6 white noise;english6 white noise;brooklyn, new york, usa;english;french spanish;45;female;0;naturalistic;usa;45;9;Indo-European;Germanic;4;8
+549;english6 time stretch;english6 time stretch;brooklyn, new york, usa;english;french spanish;45;female;0;naturalistic;usa;45;9;Indo-European;Germanic;4;8
+549;english6 pitch scale;english6 pitch scale;brooklyn, new york, usa;english;french spanish;45;female;0;naturalistic;usa;45;9;Indo-European;Germanic;4;8
+549;english6 random gain;english6 random gain;brooklyn, new york, usa;english;french spanish;45;female;0;naturalistic;usa;45;9;Indo-European;Germanic;4;8
+550;english60;english60;chesapeake, virginia, usa;english;none;18;male;0;naturalistic;usa;18;9;Indo-European;Germanic;4;8
+550;english60 white noise;english60 white noise;chesapeake, virginia, usa;english;none;18;male;0;naturalistic;usa;18;9;Indo-European;Germanic;4;8
+550;english60 time stretch;english60 time stretch;chesapeake, virginia, usa;english;none;18;male;0;naturalistic;usa;18;9;Indo-European;Germanic;4;8
+550;english60 pitch scale;english60 pitch scale;chesapeake, virginia, usa;english;none;18;male;0;naturalistic;usa;18;9;Indo-European;Germanic;4;8
+550;english60 random gain;english60 random gain;chesapeake, virginia, usa;english;none;18;male;0;naturalistic;usa;18;9;Indo-European;Germanic;4;8
+551;english61;english61;toronto, ontario, canada;english;none;19;male;0;naturalistic;canada;19;9;Indo-European;Germanic;4;8
+551;english61 white noise;english61 white noise;toronto, ontario, canada;english;none;19;male;0;naturalistic;canada;19;9;Indo-European;Germanic;4;8
+551;english61 time stretch;english61 time stretch;toronto, ontario, canada;english;none;19;male;0;naturalistic;canada;19;9;Indo-European;Germanic;4;8
+551;english61 pitch scale;english61 pitch scale;toronto, ontario, canada;english;none;19;male;0;naturalistic;canada;19;9;Indo-European;Germanic;4;8
+551;english61 random gain;english61 random gain;toronto, ontario, canada;english;none;19;male;0;naturalistic;canada;19;9;Indo-European;Germanic;4;8
+552;english62;english62;west jordan, utah, usa;english;none;30;male;0;naturalistic;usa;30;9;Indo-European;Germanic;4;8
+552;english62 white noise;english62 white noise;west jordan, utah, usa;english;none;30;male;0;naturalistic;usa;30;9;Indo-European;Germanic;4;8
+552;english62 time stretch;english62 time stretch;west jordan, utah, usa;english;none;30;male;0;naturalistic;usa;30;9;Indo-European;Germanic;4;8
+552;english62 pitch scale;english62 pitch scale;west jordan, utah, usa;english;none;30;male;0;naturalistic;usa;30;9;Indo-European;Germanic;4;8
+552;english62 random gain;english62 random gain;west jordan, utah, usa;english;none;30;male;0;naturalistic;usa;30;9;Indo-European;Germanic;4;8
+553;english63;english63;lewisville, texas, usa;english;spanish;21;male;0;naturalistic;usa;21;9;Indo-European;Germanic;4;8
+553;english63 white noise;english63 white noise;lewisville, texas, usa;english;spanish;21;male;0;naturalistic;usa;21;9;Indo-European;Germanic;4;8
+553;english63 time stretch;english63 time stretch;lewisville, texas, usa;english;spanish;21;male;0;naturalistic;usa;21;9;Indo-European;Germanic;4;8
+553;english63 pitch scale;english63 pitch scale;lewisville, texas, usa;english;spanish;21;male;0;naturalistic;usa;21;9;Indo-European;Germanic;4;8
+553;english63 random gain;english63 random gain;lewisville, texas, usa;english;spanish;21;male;0;naturalistic;usa;21;9;Indo-European;Germanic;4;8
+554;english64;english64;montreal, quebec, canada;english;french;25;female;0;naturalistic;canada;25;9;Indo-European;Germanic;4;8
+554;english64 white noise;english64 white noise;montreal, quebec, canada;english;french;25;female;0;naturalistic;canada;25;9;Indo-European;Germanic;4;8
+554;english64 time stretch;english64 time stretch;montreal, quebec, canada;english;french;25;female;0;naturalistic;canada;25;9;Indo-European;Germanic;4;8
+554;english64 pitch scale;english64 pitch scale;montreal, quebec, canada;english;french;25;female;0;naturalistic;canada;25;9;Indo-European;Germanic;4;8
+554;english64 random gain;english64 random gain;montreal, quebec, canada;english;french;25;female;0;naturalistic;canada;25;9;Indo-European;Germanic;4;8
+555;english65;english65;lewistown, pennsylvania, usa;english;none;47;male;0;naturalistic;usa;47;9;Indo-European;Germanic;4;8
+555;english65 white noise;english65 white noise;lewistown, pennsylvania, usa;english;none;47;male;0;naturalistic;usa;47;9;Indo-European;Germanic;4;8
+555;english65 time stretch;english65 time stretch;lewistown, pennsylvania, usa;english;none;47;male;0;naturalistic;usa;47;9;Indo-European;Germanic;4;8
+555;english65 pitch scale;english65 pitch scale;lewistown, pennsylvania, usa;english;none;47;male;0;naturalistic;usa;47;9;Indo-European;Germanic;4;8
+555;english65 random gain;english65 random gain;lewistown, pennsylvania, usa;english;none;47;male;0;naturalistic;usa;47;9;Indo-European;Germanic;4;8
+556;english66;english66;baltimore, maryland, usa;english;none;19;male;0;naturalistic;usa;19;9;Indo-European;Germanic;4;8
+556;english66 white noise;english66 white noise;baltimore, maryland, usa;english;none;19;male;0;naturalistic;usa;19;9;Indo-European;Germanic;4;8
+556;english66 time stretch;english66 time stretch;baltimore, maryland, usa;english;none;19;male;0;naturalistic;usa;19;9;Indo-European;Germanic;4;8
+556;english66 pitch scale;english66 pitch scale;baltimore, maryland, usa;english;none;19;male;0;naturalistic;usa;19;9;Indo-European;Germanic;4;8
+556;english66 random gain;english66 random gain;baltimore, maryland, usa;english;none;19;male;0;naturalistic;usa;19;9;Indo-European;Germanic;4;8
+557;english67;english67;princeton, indiana, usa;english;french;37;male;0;naturalistic;usa;37;9;Indo-European;Germanic;4;8
+557;english67 white noise;english67 white noise;princeton, indiana, usa;english;french;37;male;0;naturalistic;usa;37;9;Indo-European;Germanic;4;8
+557;english67 time stretch;english67 time stretch;princeton, indiana, usa;english;french;37;male;0;naturalistic;usa;37;9;Indo-European;Germanic;4;8
+557;english67 pitch scale;english67 pitch scale;princeton, indiana, usa;english;french;37;male;0;naturalistic;usa;37;9;Indo-European;Germanic;4;8
+557;english67 random gain;english67 random gain;princeton, indiana, usa;english;french;37;male;0;naturalistic;usa;37;9;Indo-European;Germanic;4;8
+558;english68;english68;new york, new york, usa;english;none;52;male;0;naturalistic;usa;52;9;Indo-European;Germanic;4;8
+558;english68 white noise;english68 white noise;new york, new york, usa;english;none;52;male;0;naturalistic;usa;52;9;Indo-European;Germanic;4;8
+558;english68 time stretch;english68 time stretch;new york, new york, usa;english;none;52;male;0;naturalistic;usa;52;9;Indo-European;Germanic;4;8
+558;english68 pitch scale;english68 pitch scale;new york, new york, usa;english;none;52;male;0;naturalistic;usa;52;9;Indo-European;Germanic;4;8
+558;english68 random gain;english68 random gain;new york, new york, usa;english;none;52;male;0;naturalistic;usa;52;9;Indo-European;Germanic;4;8
+559;english69;english69;adelaide, australia;english;korean;23;male;0;naturalistic;australia;23;9;Indo-European;Germanic;4;8
+559;english69 white noise;english69 white noise;adelaide, australia;english;korean;23;male;0;naturalistic;australia;23;9;Indo-European;Germanic;4;8
+559;english69 time stretch;english69 time stretch;adelaide, australia;english;korean;23;male;0;naturalistic;australia;23;9;Indo-European;Germanic;4;8
+559;english69 pitch scale;english69 pitch scale;adelaide, australia;english;korean;23;male;0;naturalistic;australia;23;9;Indo-European;Germanic;4;8
+559;english69 random gain;english69 random gain;adelaide, australia;english;korean;23;male;0;naturalistic;australia;23;9;Indo-European;Germanic;4;8
+560;english7;english7;macon, mississippi, usa;english;spanish french;52;male;0;naturalistic;usa;52;9;Indo-European;Germanic;4;8
+560;english7 white noise;english7 white noise;macon, mississippi, usa;english;spanish french;52;male;0;naturalistic;usa;52;9;Indo-European;Germanic;4;8
+560;english7 time stretch;english7 time stretch;macon, mississippi, usa;english;spanish french;52;male;0;naturalistic;usa;52;9;Indo-European;Germanic;4;8
+560;english7 pitch scale;english7 pitch scale;macon, mississippi, usa;english;spanish french;52;male;0;naturalistic;usa;52;9;Indo-European;Germanic;4;8
+560;english7 random gain;english7 random gain;macon, mississippi, usa;english;spanish french;52;male;0;naturalistic;usa;52;9;Indo-European;Germanic;4;8
+561;english70;english70;beaumont, texas, usa;english;none;21;male;0;naturalistic;usa;21;9;Indo-European;Germanic;4;8
+561;english70 white noise;english70 white noise;beaumont, texas, usa;english;none;21;male;0;naturalistic;usa;21;9;Indo-European;Germanic;4;8
+561;english70 time stretch;english70 time stretch;beaumont, texas, usa;english;none;21;male;0;naturalistic;usa;21;9;Indo-European;Germanic;4;8
+561;english70 pitch scale;english70 pitch scale;beaumont, texas, usa;english;none;21;male;0;naturalistic;usa;21;9;Indo-European;Germanic;4;8
+561;english70 random gain;english70 random gain;beaumont, texas, usa;english;none;21;male;0;naturalistic;usa;21;9;Indo-European;Germanic;4;8
+562;english71;english71;west covina, california, usa;english;none;20;male;0;naturalistic;usa;20;9;Indo-European;Germanic;4;8
+562;english71 white noise;english71 white noise;west covina, california, usa;english;none;20;male;0;naturalistic;usa;20;9;Indo-European;Germanic;4;8
+562;english71 time stretch;english71 time stretch;west covina, california, usa;english;none;20;male;0;naturalistic;usa;20;9;Indo-European;Germanic;4;8
+562;english71 pitch scale;english71 pitch scale;west covina, california, usa;english;none;20;male;0;naturalistic;usa;20;9;Indo-European;Germanic;4;8
+562;english71 random gain;english71 random gain;west covina, california, usa;english;none;20;male;0;naturalistic;usa;20;9;Indo-European;Germanic;4;8
+563;english72;english72;kilkenny, ireland;english;irish;31;male;0;naturalistic;ireland;31;9;Indo-European;Germanic;4;8
+563;english72 white noise;english72 white noise;kilkenny, ireland;english;irish;31;male;0;naturalistic;ireland;31;9;Indo-European;Germanic;4;8
+563;english72 time stretch;english72 time stretch;kilkenny, ireland;english;irish;31;male;0;naturalistic;ireland;31;9;Indo-European;Germanic;4;8
+563;english72 pitch scale;english72 pitch scale;kilkenny, ireland;english;irish;31;male;0;naturalistic;ireland;31;9;Indo-European;Germanic;4;8
+563;english72 random gain;english72 random gain;kilkenny, ireland;english;irish;31;male;0;naturalistic;ireland;31;9;Indo-European;Germanic;4;8
+564;english73;english73;darwin, australia;english;none;24;male;0;naturalistic;australia;24;9;Indo-European;Germanic;4;8
+564;english73 white noise;english73 white noise;darwin, australia;english;none;24;male;0;naturalistic;australia;24;9;Indo-European;Germanic;4;8
+564;english73 time stretch;english73 time stretch;darwin, australia;english;none;24;male;0;naturalistic;australia;24;9;Indo-European;Germanic;4;8
+564;english73 pitch scale;english73 pitch scale;darwin, australia;english;none;24;male;0;naturalistic;australia;24;9;Indo-European;Germanic;4;8
+564;english73 random gain;english73 random gain;darwin, australia;english;none;24;male;0;naturalistic;australia;24;9;Indo-European;Germanic;4;8
+565;english74;english74;wichita, kansas, usa;english;spanish;21;male;0;naturalistic;usa;21;9;Indo-European;Germanic;4;8
+565;english74 white noise;english74 white noise;wichita, kansas, usa;english;spanish;21;male;0;naturalistic;usa;21;9;Indo-European;Germanic;4;8
+565;english74 time stretch;english74 time stretch;wichita, kansas, usa;english;spanish;21;male;0;naturalistic;usa;21;9;Indo-European;Germanic;4;8
+565;english74 pitch scale;english74 pitch scale;wichita, kansas, usa;english;spanish;21;male;0;naturalistic;usa;21;9;Indo-European;Germanic;4;8
+565;english74 random gain;english74 random gain;wichita, kansas, usa;english;spanish;21;male;0;naturalistic;usa;21;9;Indo-European;Germanic;4;8
+566;english75;english75;idaho falls, idaho, usa;english;none;32;male;0;naturalistic;usa;32;9;Indo-European;Germanic;4;8
+566;english75 white noise;english75 white noise;idaho falls, idaho, usa;english;none;32;male;0;naturalistic;usa;32;9;Indo-European;Germanic;4;8
+566;english75 time stretch;english75 time stretch;idaho falls, idaho, usa;english;none;32;male;0;naturalistic;usa;32;9;Indo-European;Germanic;4;8
+566;english75 pitch scale;english75 pitch scale;idaho falls, idaho, usa;english;none;32;male;0;naturalistic;usa;32;9;Indo-European;Germanic;4;8
+566;english75 random gain;english75 random gain;idaho falls, idaho, usa;english;none;32;male;0;naturalistic;usa;32;9;Indo-European;Germanic;4;8
+567;english76;english76;boston, massachusetts, usa;english;french spanish hebrew;18;female;0;naturalistic;usa;18;9;Indo-European;Germanic;4;8
+567;english76 white noise;english76 white noise;boston, massachusetts, usa;english;french spanish hebrew;18;female;0;naturalistic;usa;18;9;Indo-European;Germanic;4;8
+567;english76 time stretch;english76 time stretch;boston, massachusetts, usa;english;french spanish hebrew;18;female;0;naturalistic;usa;18;9;Indo-European;Germanic;4;8
+567;english76 pitch scale;english76 pitch scale;boston, massachusetts, usa;english;french spanish hebrew;18;female;0;naturalistic;usa;18;9;Indo-European;Germanic;4;8
+567;english76 random gain;english76 random gain;boston, massachusetts, usa;english;french spanish hebrew;18;female;0;naturalistic;usa;18;9;Indo-European;Germanic;4;8
+568;english77;english77;melbourne, australia;english;japanese;26;male;0;naturalistic;australia;26;9;Indo-European;Germanic;4;8
+568;english77 white noise;english77 white noise;melbourne, australia;english;japanese;26;male;0;naturalistic;australia;26;9;Indo-European;Germanic;4;8
+568;english77 time stretch;english77 time stretch;melbourne, australia;english;japanese;26;male;0;naturalistic;australia;26;9;Indo-European;Germanic;4;8
+568;english77 pitch scale;english77 pitch scale;melbourne, australia;english;japanese;26;male;0;naturalistic;australia;26;9;Indo-European;Germanic;4;8
+568;english77 random gain;english77 random gain;melbourne, australia;english;japanese;26;male;0;naturalistic;australia;26;9;Indo-European;Germanic;4;8
+569;english78;english78;caribou, maine, usa;english;french;20;female;0;naturalistic;usa;20;9;Indo-European;Germanic;4;8
+569;english78 white noise;english78 white noise;caribou, maine, usa;english;french;20;female;0;naturalistic;usa;20;9;Indo-European;Germanic;4;8
+569;english78 time stretch;english78 time stretch;caribou, maine, usa;english;french;20;female;0;naturalistic;usa;20;9;Indo-European;Germanic;4;8
+569;english78 pitch scale;english78 pitch scale;caribou, maine, usa;english;french;20;female;0;naturalistic;usa;20;9;Indo-European;Germanic;4;8
+569;english78 random gain;english78 random gain;caribou, maine, usa;english;french;20;female;0;naturalistic;usa;20;9;Indo-European;Germanic;4;8
+570;english79;english79;boston, massachusetts, usa;english;none;73;male;0;naturalistic;usa;73;9;Indo-European;Germanic;4;8
+570;english79 white noise;english79 white noise;boston, massachusetts, usa;english;none;73;male;0;naturalistic;usa;73;9;Indo-European;Germanic;4;8
+570;english79 time stretch;english79 time stretch;boston, massachusetts, usa;english;none;73;male;0;naturalistic;usa;73;9;Indo-European;Germanic;4;8
+570;english79 pitch scale;english79 pitch scale;boston, massachusetts, usa;english;none;73;male;0;naturalistic;usa;73;9;Indo-European;Germanic;4;8
+570;english79 random gain;english79 random gain;boston, massachusetts, usa;english;none;73;male;0;naturalistic;usa;73;9;Indo-European;Germanic;4;8
+571;english8;english8;perth, australia;english;french;21;female;0;naturalistic;australia,usa;4;9;Indo-European;Germanic;4;8
+571;english8 white noise;english8 white noise;perth, australia;english;french;21;female;0;naturalistic;australia,usa;4;9;Indo-European;Germanic;4;8
+571;english8 time stretch;english8 time stretch;perth, australia;english;french;21;female;0;naturalistic;australia,usa;4;9;Indo-European;Germanic;4;8
+571;english8 pitch scale;english8 pitch scale;perth, australia;english;french;21;female;0;naturalistic;australia,usa;4;9;Indo-European;Germanic;4;8
+571;english8 random gain;english8 random gain;perth, australia;english;french;21;female;0;naturalistic;australia,usa;4;9;Indo-European;Germanic;4;8
+572;english80;english80;glasgow, scotland, uk;english;none;34;male;0;naturalistic;uk, canada;34;9;Indo-European;Germanic;4;8
+572;english80 white noise;english80 white noise;glasgow, scotland, uk;english;none;34;male;0;naturalistic;uk, canada;34;9;Indo-European;Germanic;4;8
+572;english80 time stretch;english80 time stretch;glasgow, scotland, uk;english;none;34;male;0;naturalistic;uk, canada;34;9;Indo-European;Germanic;4;8
+572;english80 pitch scale;english80 pitch scale;glasgow, scotland, uk;english;none;34;male;0;naturalistic;uk, canada;34;9;Indo-European;Germanic;4;8
+572;english80 random gain;english80 random gain;glasgow, scotland, uk;english;none;34;male;0;naturalistic;uk, canada;34;9;Indo-European;Germanic;4;8
+573;english81;english81;st. paul, minnesota, usa;english;spanish;30;male;0;naturalistic;usa;30;9;Indo-European;Germanic;4;8
+573;english81 white noise;english81 white noise;st. paul, minnesota, usa;english;spanish;30;male;0;naturalistic;usa;30;9;Indo-European;Germanic;4;8
+573;english81 time stretch;english81 time stretch;st. paul, minnesota, usa;english;spanish;30;male;0;naturalistic;usa;30;9;Indo-European;Germanic;4;8
+573;english81 pitch scale;english81 pitch scale;st. paul, minnesota, usa;english;spanish;30;male;0;naturalistic;usa;30;9;Indo-European;Germanic;4;8
+573;english81 random gain;english81 random gain;st. paul, minnesota, usa;english;spanish;30;male;0;naturalistic;usa;30;9;Indo-European;Germanic;4;8
+574;english82;english82;chicago, illinois, usa;english;none;50;female;0;naturalistic;usa;50;9;Indo-European;Germanic;4;8
+574;english82 white noise;english82 white noise;chicago, illinois, usa;english;none;50;female;0;naturalistic;usa;50;9;Indo-European;Germanic;4;8
+574;english82 time stretch;english82 time stretch;chicago, illinois, usa;english;none;50;female;0;naturalistic;usa;50;9;Indo-European;Germanic;4;8
+574;english82 pitch scale;english82 pitch scale;chicago, illinois, usa;english;none;50;female;0;naturalistic;usa;50;9;Indo-European;Germanic;4;8
+574;english82 random gain;english82 random gain;chicago, illinois, usa;english;none;50;female;0;naturalistic;usa;50;9;Indo-European;Germanic;4;8
+1141;estonian2;estonian2;viljandi, estonia;estonian;german russian;27;male;12;academic;;0;10;Uralic;Finnic;13;20
+1141;estonian2 white noise;estonian2 white noise;viljandi, estonia;estonian;german russian;27;male;12;academic;;0;10;Uralic;Finnic;13;20
+1141;estonian2 time stretch;estonian2 time stretch;viljandi, estonia;estonian;german russian;27;male;12;academic;;0;10;Uralic;Finnic;13;20
+1141;estonian2 pitch scale;estonian2 pitch scale;viljandi, estonia;estonian;german russian;27;male;12;academic;;0;10;Uralic;Finnic;13;20
+1141;estonian2 random gain;estonian2 random gain;viljandi, estonia;estonian;german russian;27;male;12;academic;;0;10;Uralic;Finnic;13;20
+1168;farsi4;farsi4;mazandran, iran;farsi;arabic;21;female;15;academic;usa;1.5;11;Indo-European;Indo-Iranian;4;10
+1168;farsi4 white noise;farsi4 white noise;mazandran, iran;farsi;arabic;21;female;15;academic;usa;1.5;11;Indo-European;Indo-Iranian;4;10
+1168;farsi4 time stretch;farsi4 time stretch;mazandran, iran;farsi;arabic;21;female;15;academic;usa;1.5;11;Indo-European;Indo-Iranian;4;10
+1168;farsi4 pitch scale;farsi4 pitch scale;mazandran, iran;farsi;arabic;21;female;15;academic;usa;1.5;11;Indo-European;Indo-Iranian;4;10
+1168;farsi4 random gain;farsi4 random gain;mazandran, iran;farsi;arabic;21;female;15;academic;usa;1.5;11;Indo-European;Indo-Iranian;4;10
+1169;farsi5;farsi5;tehran, iran;farsi;turkish;43;male;14;academic;usa;22;11;Indo-European;Indo-Iranian;4;10
+1169;farsi5 white noise;farsi5 white noise;tehran, iran;farsi;turkish;43;male;14;academic;usa;22;11;Indo-European;Indo-Iranian;4;10
+1169;farsi5 time stretch;farsi5 time stretch;tehran, iran;farsi;turkish;43;male;14;academic;usa;22;11;Indo-European;Indo-Iranian;4;10
+1169;farsi5 pitch scale;farsi5 pitch scale;tehran, iran;farsi;turkish;43;male;14;academic;usa;22;11;Indo-European;Indo-Iranian;4;10
+1169;farsi5 random gain;farsi5 random gain;tehran, iran;farsi;turkish;43;male;14;academic;usa;22;11;Indo-European;Indo-Iranian;4;10
+1170;farsi6;farsi6;tehran, iran;farsi;arabic;27;male;9;naturalistic;usa;6;11;Indo-European;Indo-Iranian;4;10
+1170;farsi6 white noise;farsi6 white noise;tehran, iran;farsi;arabic;27;male;9;naturalistic;usa;6;11;Indo-European;Indo-Iranian;4;10
+1170;farsi6 time stretch;farsi6 time stretch;tehran, iran;farsi;arabic;27;male;9;naturalistic;usa;6;11;Indo-European;Indo-Iranian;4;10
+1170;farsi6 pitch scale;farsi6 pitch scale;tehran, iran;farsi;arabic;27;male;9;naturalistic;usa;6;11;Indo-European;Indo-Iranian;4;10
+1170;farsi6 random gain;farsi6 random gain;tehran, iran;farsi;arabic;27;male;9;naturalistic;usa;6;11;Indo-European;Indo-Iranian;4;10
+1211;finnish2;finnish2;helsinki, finland;finnish;swedish;20;male;7;academic;;0;12;Uralic;Finnic;13;20
+1211;finnish2 white noise;finnish2 white noise;helsinki, finland;finnish;swedish;20;male;7;academic;;0;12;Uralic;Finnic;13;20
+1211;finnish2 time stretch;finnish2 time stretch;helsinki, finland;finnish;swedish;20;male;7;academic;;0;12;Uralic;Finnic;13;20
+1211;finnish2 pitch scale;finnish2 pitch scale;helsinki, finland;finnish;swedish;20;male;7;academic;;0;12;Uralic;Finnic;13;20
+1211;finnish2 random gain;finnish2 random gain;helsinki, finland;finnish;swedish;20;male;7;academic;;0;12;Uralic;Finnic;13;20
+1233;french9;french9;lamentin, martinique;french;spanish creole;21;male;11;academic;;0;13;Indo-European;Italic;4;11
+1233;french9 white noise;french9 white noise;lamentin, martinique;french;spanish creole;21;male;11;academic;;0;13;Indo-European;Italic;4;11
+1233;french9 time stretch;french9 time stretch;lamentin, martinique;french;spanish creole;21;male;11;academic;;0;13;Indo-European;Italic;4;11
+1233;french9 pitch scale;french9 pitch scale;lamentin, martinique;french;spanish creole;21;male;11;academic;;0;13;Indo-European;Italic;4;11
+1233;french9 random gain;french9 random gain;lamentin, martinique;french;spanish creole;21;male;11;academic;;0;13;Indo-European;Italic;4;11
+1234;french10;french10;bordeaux, france;french;spanish german;31;male;10;academic;ireland;1;13;Indo-European;Italic;4;11
+1234;french10 white noise;french10 white noise;bordeaux, france;french;spanish german;31;male;10;academic;ireland;1;13;Indo-European;Italic;4;11
+1234;french10 time stretch;french10 time stretch;bordeaux, france;french;spanish german;31;male;10;academic;ireland;1;13;Indo-European;Italic;4;11
+1234;french10 pitch scale;french10 pitch scale;bordeaux, france;french;spanish german;31;male;10;academic;ireland;1;13;Indo-European;Italic;4;11
+1234;french10 random gain;french10 random gain;bordeaux, france;french;spanish german;31;male;10;academic;ireland;1;13;Indo-European;Italic;4;11
+1235;french11;french11;limoges, france;french;spanish;31;male;11;academic;usa;8;13;Indo-European;Italic;4;11
+1235;french11 white noise;french11 white noise;limoges, france;french;spanish;31;male;11;academic;usa;8;13;Indo-European;Italic;4;11
+1235;french11 time stretch;french11 time stretch;limoges, france;french;spanish;31;male;11;academic;usa;8;13;Indo-European;Italic;4;11
+1235;french11 pitch scale;french11 pitch scale;limoges, france;french;spanish;31;male;11;academic;usa;8;13;Indo-European;Italic;4;11
+1235;french11 random gain;french11 random gain;limoges, france;french;spanish;31;male;11;academic;usa;8;13;Indo-European;Italic;4;11
+1236;french12;french12;montreal, quebec, canada;french;spanish;19;female;9;academic;australia;0.2;13;Indo-European;Italic;4;11
+1236;french12 white noise;french12 white noise;montreal, quebec, canada;french;spanish;19;female;9;academic;australia;0.2;13;Indo-European;Italic;4;11
+1236;french12 time stretch;french12 time stretch;montreal, quebec, canada;french;spanish;19;female;9;academic;australia;0.2;13;Indo-European;Italic;4;11
+1236;french12 pitch scale;french12 pitch scale;montreal, quebec, canada;french;spanish;19;female;9;academic;australia;0.2;13;Indo-European;Italic;4;11
+1236;french12 random gain;french12 random gain;montreal, quebec, canada;french;spanish;19;female;9;academic;australia;0.2;13;Indo-European;Italic;4;11
+1237;french13;french13;bordeaux, france;french;spanish;19;male;12;academic;;0;13;Indo-European;Italic;4;11
+1237;french13 white noise;french13 white noise;bordeaux, france;french;spanish;19;male;12;academic;;0;13;Indo-European;Italic;4;11
+1237;french13 time stretch;french13 time stretch;bordeaux, france;french;spanish;19;male;12;academic;;0;13;Indo-European;Italic;4;11
+1237;french13 pitch scale;french13 pitch scale;bordeaux, france;french;spanish;19;male;12;academic;;0;13;Indo-European;Italic;4;11
+1237;french13 random gain;french13 random gain;bordeaux, france;french;spanish;19;male;12;academic;;0;13;Indo-European;Italic;4;11
+1238;french14;french14;paris, france;french;german;23;female;14;academic;usa;1;13;Indo-European;Italic;4;11
+1238;french14 white noise;french14 white noise;paris, france;french;german;23;female;14;academic;usa;1;13;Indo-European;Italic;4;11
+1238;french14 time stretch;french14 time stretch;paris, france;french;german;23;female;14;academic;usa;1;13;Indo-European;Italic;4;11
+1238;french14 pitch scale;french14 pitch scale;paris, france;french;german;23;female;14;academic;usa;1;13;Indo-European;Italic;4;11
+1238;french14 random gain;french14 random gain;paris, france;french;german;23;female;14;academic;usa;1;13;Indo-European;Italic;4;11
+1239;french15;french15;sens, france;french;spanish;32;male;12;academic;;0;13;Indo-European;Italic;4;11
+1239;french15 white noise;french15 white noise;sens, france;french;spanish;32;male;12;academic;;0;13;Indo-European;Italic;4;11
+1239;french15 time stretch;french15 time stretch;sens, france;french;spanish;32;male;12;academic;;0;13;Indo-European;Italic;4;11
+1239;french15 pitch scale;french15 pitch scale;sens, france;french;spanish;32;male;12;academic;;0;13;Indo-European;Italic;4;11
+1239;french15 random gain;french15 random gain;sens, france;french;spanish;32;male;12;academic;;0;13;Indo-European;Italic;4;11
+1240;french16;french16;montreal, quebec, canada;french;spanish;19;female;7;academic;canada;19;13;Indo-European;Italic;4;11
+1240;french16 white noise;french16 white noise;montreal, quebec, canada;french;spanish;19;female;7;academic;canada;19;13;Indo-European;Italic;4;11
+1240;french16 time stretch;french16 time stretch;montreal, quebec, canada;french;spanish;19;female;7;academic;canada;19;13;Indo-European;Italic;4;11
+1240;french16 pitch scale;french16 pitch scale;montreal, quebec, canada;french;spanish;19;female;7;academic;canada;19;13;Indo-European;Italic;4;11
+1240;french16 random gain;french16 random gain;montreal, quebec, canada;french;spanish;19;female;7;academic;canada;19;13;Indo-European;Italic;4;11
+1336;german5;german5;halle, germany;german;none;47;male;12;academic;usa;0.2;14;Indo-European;Germanic;4;8
+1336;german5 white noise;german5 white noise;halle, germany;german;none;47;male;12;academic;usa;0.2;14;Indo-European;Germanic;4;8
+1336;german5 time stretch;german5 time stretch;halle, germany;german;none;47;male;12;academic;usa;0.2;14;Indo-European;Germanic;4;8
+1336;german5 pitch scale;german5 pitch scale;halle, germany;german;none;47;male;12;academic;usa;0.2;14;Indo-European;Germanic;4;8
+1336;german5 random gain;german5 random gain;halle, germany;german;none;47;male;12;academic;usa;0.2;14;Indo-European;Germanic;4;8
+1337;german6;german6;vienna, austria;german;russian ukrainian italian hungarian;28;male;8;academic;;0;14;Indo-European;Germanic;4;8
+1337;german6 white noise;german6 white noise;vienna, austria;german;russian ukrainian italian hungarian;28;male;8;academic;;0;14;Indo-European;Germanic;4;8
+1337;german6 time stretch;german6 time stretch;vienna, austria;german;russian ukrainian italian hungarian;28;male;8;academic;;0;14;Indo-European;Germanic;4;8
+1337;german6 pitch scale;german6 pitch scale;vienna, austria;german;russian ukrainian italian hungarian;28;male;8;academic;;0;14;Indo-European;Germanic;4;8
+1337;german6 random gain;german6 random gain;vienna, austria;german;russian ukrainian italian hungarian;28;male;8;academic;;0;14;Indo-European;Germanic;4;8
+1338;german7;german7;berlin, germany;german;french;20;male;11;academic;usa;1;14;Indo-European;Germanic;4;8
+1338;german7 white noise;german7 white noise;berlin, germany;german;french;20;male;11;academic;usa;1;14;Indo-European;Germanic;4;8
+1338;german7 time stretch;german7 time stretch;berlin, germany;german;french;20;male;11;academic;usa;1;14;Indo-European;Germanic;4;8
+1338;german7 pitch scale;german7 pitch scale;berlin, germany;german;french;20;male;11;academic;usa;1;14;Indo-European;Germanic;4;8
+1338;german7 random gain;german7 random gain;berlin, germany;german;french;20;male;11;academic;usa;1;14;Indo-European;Germanic;4;8
+1339;german8;german8;bernburg, germany;german;hungarian french turkish;25;male;10;academic;;0;14;Indo-European;Germanic;4;8
+1339;german8 white noise;german8 white noise;bernburg, germany;german;hungarian french turkish;25;male;10;academic;;0;14;Indo-European;Germanic;4;8
+1339;german8 time stretch;german8 time stretch;bernburg, germany;german;hungarian french turkish;25;male;10;academic;;0;14;Indo-European;Germanic;4;8
+1339;german8 pitch scale;german8 pitch scale;bernburg, germany;german;hungarian french turkish;25;male;10;academic;;0;14;Indo-European;Germanic;4;8
+1339;german8 random gain;german8 random gain;bernburg, germany;german;hungarian french turkish;25;male;10;academic;;0;14;Indo-European;Germanic;4;8
+1378;greek2;greek2;athens, greece;greek;french;26;female;9;academic;usa;1.5;15;Indo-European;Greek;4;9
+1378;greek2 white noise;greek2 white noise;athens, greece;greek;french;26;female;9;academic;usa;1.5;15;Indo-European;Greek;4;9
+1378;greek2 time stretch;greek2 time stretch;athens, greece;greek;french;26;female;9;academic;usa;1.5;15;Indo-European;Greek;4;9
+1378;greek2 pitch scale;greek2 pitch scale;athens, greece;greek;french;26;female;9;academic;usa;1.5;15;Indo-European;Greek;4;9
+1378;greek2 random gain;greek2 random gain;athens, greece;greek;french;26;female;9;academic;usa;1.5;15;Indo-European;Greek;4;9
+1395;gujarati2;gujarati2;bombay, india;gujarati;hindi-urdu sanskrit punjabi;22;male;8;academic;usa;0.3;16;Indo-European;Indo-Iranian;4;10
+1395;gujarati2 white noise;gujarati2 white noise;bombay, india;gujarati;hindi-urdu sanskrit punjabi;22;male;8;academic;usa;0.3;16;Indo-European;Indo-Iranian;4;10
+1395;gujarati2 time stretch;gujarati2 time stretch;bombay, india;gujarati;hindi-urdu sanskrit punjabi;22;male;8;academic;usa;0.3;16;Indo-European;Indo-Iranian;4;10
+1395;gujarati2 pitch scale;gujarati2 pitch scale;bombay, india;gujarati;hindi-urdu sanskrit punjabi;22;male;8;academic;usa;0.3;16;Indo-European;Indo-Iranian;4;10
+1395;gujarati2 random gain;gujarati2 random gain;bombay, india;gujarati;hindi-urdu sanskrit punjabi;22;male;8;academic;usa;0.3;16;Indo-European;Indo-Iranian;4;10
+1427;hausa2;hausa2;bauchi, nigeria;hausa;none;46;male;10;academic;nigeria, usa;46;17;Afro-Asiatic;Chadic;0;0
+1427;hausa2 white noise;hausa2 white noise;bauchi, nigeria;hausa;none;46;male;10;academic;nigeria, usa;46;17;Afro-Asiatic;Chadic;0;0
+1427;hausa2 time stretch;hausa2 time stretch;bauchi, nigeria;hausa;none;46;male;10;academic;nigeria, usa;46;17;Afro-Asiatic;Chadic;0;0
+1427;hausa2 pitch scale;hausa2 pitch scale;bauchi, nigeria;hausa;none;46;male;10;academic;nigeria, usa;46;17;Afro-Asiatic;Chadic;0;0
+1427;hausa2 random gain;hausa2 random gain;bauchi, nigeria;hausa;none;46;male;10;academic;nigeria, usa;46;17;Afro-Asiatic;Chadic;0;0
+1439;hebrew2;hebrew2;jerusalem, israel;hebrew;none;24;male;10;academic;;0;18;Afro-Asiatic;Semitic;0;1
+1439;hebrew2 white noise;hebrew2 white noise;jerusalem, israel;hebrew;none;24;male;10;academic;;0;18;Afro-Asiatic;Semitic;0;1
+1439;hebrew2 time stretch;hebrew2 time stretch;jerusalem, israel;hebrew;none;24;male;10;academic;;0;18;Afro-Asiatic;Semitic;0;1
+1439;hebrew2 pitch scale;hebrew2 pitch scale;jerusalem, israel;hebrew;none;24;male;10;academic;;0;18;Afro-Asiatic;Semitic;0;1
+1439;hebrew2 random gain;hebrew2 random gain;jerusalem, israel;hebrew;none;24;male;10;academic;;0;18;Afro-Asiatic;Semitic;0;1
+1454;hindi4;hindi4;bhilwara, rajisthan, india;hindi;rajasthani gujarati punjabi tamil telugu;28;female;14;academic;usa;2;19;Indo-European;Indo-Iranian;4;10
+1454;hindi4 white noise;hindi4 white noise;bhilwara, rajisthan, india;hindi;rajasthani gujarati punjabi tamil telugu;28;female;14;academic;usa;2;19;Indo-European;Indo-Iranian;4;10
+1454;hindi4 time stretch;hindi4 time stretch;bhilwara, rajisthan, india;hindi;rajasthani gujarati punjabi tamil telugu;28;female;14;academic;usa;2;19;Indo-European;Indo-Iranian;4;10
+1454;hindi4 pitch scale;hindi4 pitch scale;bhilwara, rajisthan, india;hindi;rajasthani gujarati punjabi tamil telugu;28;female;14;academic;usa;2;19;Indo-European;Indo-Iranian;4;10
+1454;hindi4 random gain;hindi4 random gain;bhilwara, rajisthan, india;hindi;rajasthani gujarati punjabi tamil telugu;28;female;14;academic;usa;2;19;Indo-European;Indo-Iranian;4;10
+1455;hindi5;hindi5;hubballi, karnataka, india;hindi;sanskrit pali;64;female;10;academic;usa;40;19;Indo-European;Indo-Iranian;4;10
+1455;hindi5 white noise;hindi5 white noise;hubballi, karnataka, india;hindi;sanskrit pali;64;female;10;academic;usa;40;19;Indo-European;Indo-Iranian;4;10
+1455;hindi5 time stretch;hindi5 time stretch;hubballi, karnataka, india;hindi;sanskrit pali;64;female;10;academic;usa;40;19;Indo-European;Indo-Iranian;4;10
+1455;hindi5 pitch scale;hindi5 pitch scale;hubballi, karnataka, india;hindi;sanskrit pali;64;female;10;academic;usa;40;19;Indo-European;Indo-Iranian;4;10
+1455;hindi5 random gain;hindi5 random gain;hubballi, karnataka, india;hindi;sanskrit pali;64;female;10;academic;usa;40;19;Indo-European;Indo-Iranian;4;10
+1456;hindi6;hindi6;new delhi, india;hindi;punjabi;27;female;4;academic;usa;1;19;Indo-European;Indo-Iranian;4;10
+1456;hindi6 white noise;hindi6 white noise;new delhi, india;hindi;punjabi;27;female;4;academic;usa;1;19;Indo-European;Indo-Iranian;4;10
+1456;hindi6 time stretch;hindi6 time stretch;new delhi, india;hindi;punjabi;27;female;4;academic;usa;1;19;Indo-European;Indo-Iranian;4;10
+1456;hindi6 pitch scale;hindi6 pitch scale;new delhi, india;hindi;punjabi;27;female;4;academic;usa;1;19;Indo-European;Indo-Iranian;4;10
+1456;hindi6 random gain;hindi6 random gain;new delhi, india;hindi;punjabi;27;female;4;academic;usa;1;19;Indo-European;Indo-Iranian;4;10
+1490;hungarian2;hungarian2;clug, romania;hungarian;romanian german;22;female;8;academic;usa;1;20;Uralic;Uralic;13;21
+1490;hungarian2 white noise;hungarian2 white noise;clug, romania;hungarian;romanian german;22;female;8;academic;usa;1;20;Uralic;Uralic;13;21
+1490;hungarian2 time stretch;hungarian2 time stretch;clug, romania;hungarian;romanian german;22;female;8;academic;usa;1;20;Uralic;Uralic;13;21
+1490;hungarian2 pitch scale;hungarian2 pitch scale;clug, romania;hungarian;romanian german;22;female;8;academic;usa;1;20;Uralic;Uralic;13;21
+1490;hungarian2 random gain;hungarian2 random gain;clug, romania;hungarian;romanian german;22;female;8;academic;usa;1;20;Uralic;Uralic;13;21
+1514;indonesian2;indonesian2;jakarta, indonesia;indonesian;dutch german swedish;18;male;13;academic;canada;2.5;21;Austronesian;Malayo-Polynesian;2;3
+1514;indonesian2 white noise;indonesian2 white noise;jakarta, indonesia;indonesian;dutch german swedish;18;male;13;academic;canada;2.5;21;Austronesian;Malayo-Polynesian;2;3
+1514;indonesian2 time stretch;indonesian2 time stretch;jakarta, indonesia;indonesian;dutch german swedish;18;male;13;academic;canada;2.5;21;Austronesian;Malayo-Polynesian;2;3
+1514;indonesian2 pitch scale;indonesian2 pitch scale;jakarta, indonesia;indonesian;dutch german swedish;18;male;13;academic;canada;2.5;21;Austronesian;Malayo-Polynesian;2;3
+1514;indonesian2 random gain;indonesian2 random gain;jakarta, indonesia;indonesian;dutch german swedish;18;male;13;academic;canada;2.5;21;Austronesian;Malayo-Polynesian;2;3
+1531;italian4;italian4;cremona, italy;italian;none;47;female;11;academic;usa;0.2;22;Indo-European;Italic;4;11
+1531;italian4 white noise;italian4 white noise;cremona, italy;italian;none;47;female;11;academic;usa;0.2;22;Indo-European;Italic;4;11
+1531;italian4 time stretch;italian4 time stretch;cremona, italy;italian;none;47;female;11;academic;usa;0.2;22;Indo-European;Italic;4;11
+1531;italian4 pitch scale;italian4 pitch scale;cremona, italy;italian;none;47;female;11;academic;usa;0.2;22;Indo-European;Italic;4;11
+1531;italian4 random gain;italian4 random gain;cremona, italy;italian;none;47;female;11;academic;usa;0.2;22;Indo-European;Italic;4;11
+1532;italian5;italian5;vicenza, veneto, italy;italian;spanish;52;male;25;academic;usa;3.5;22;Indo-European;Italic;4;11
+1532;italian5 white noise;italian5 white noise;vicenza, veneto, italy;italian;spanish;52;male;25;academic;usa;3.5;22;Indo-European;Italic;4;11
+1532;italian5 time stretch;italian5 time stretch;vicenza, veneto, italy;italian;spanish;52;male;25;academic;usa;3.5;22;Indo-European;Italic;4;11
+1532;italian5 pitch scale;italian5 pitch scale;vicenza, veneto, italy;italian;spanish;52;male;25;academic;usa;3.5;22;Indo-European;Italic;4;11
+1532;italian5 random gain;italian5 random gain;vicenza, veneto, italy;italian;spanish;52;male;25;academic;usa;3.5;22;Indo-European;Italic;4;11
+1533;italian6;italian6;naples, italy;italian;german;32;female;15;academic;;0;22;Indo-European;Italic;4;11
+1533;italian6 white noise;italian6 white noise;naples, italy;italian;german;32;female;15;academic;;0;22;Indo-European;Italic;4;11
+1533;italian6 time stretch;italian6 time stretch;naples, italy;italian;german;32;female;15;academic;;0;22;Indo-European;Italic;4;11
+1533;italian6 pitch scale;italian6 pitch scale;naples, italy;italian;german;32;female;15;academic;;0;22;Indo-European;Italic;4;11
+1533;italian6 random gain;italian6 random gain;naples, italy;italian;german;32;female;15;academic;;0;22;Indo-European;Italic;4;11
+1575;japanese5;japanese5;chiba, japan;japanese;mandarin;25;female;12;academic;usa;0.4;23;Japonic;Japonic;5;12
+1575;japanese5 white noise;japanese5 white noise;chiba, japan;japanese;mandarin;25;female;12;academic;usa;0.4;23;Japonic;Japonic;5;12
+1575;japanese5 time stretch;japanese5 time stretch;chiba, japan;japanese;mandarin;25;female;12;academic;usa;0.4;23;Japonic;Japonic;5;12
+1575;japanese5 pitch scale;japanese5 pitch scale;chiba, japan;japanese;mandarin;25;female;12;academic;usa;0.4;23;Japonic;Japonic;5;12
+1575;japanese5 random gain;japanese5 random gain;chiba, japan;japanese;mandarin;25;female;12;academic;usa;0.4;23;Japonic;Japonic;5;12
+1576;japanese6;japanese6;kawasaki, japan;japanese;spanish;30;female;10;academic;usa,canada;12;23;Japonic;Japonic;5;12
+1576;japanese6 white noise;japanese6 white noise;kawasaki, japan;japanese;spanish;30;female;10;academic;usa,canada;12;23;Japonic;Japonic;5;12
+1576;japanese6 time stretch;japanese6 time stretch;kawasaki, japan;japanese;spanish;30;female;10;academic;usa,canada;12;23;Japonic;Japonic;5;12
+1576;japanese6 pitch scale;japanese6 pitch scale;kawasaki, japan;japanese;spanish;30;female;10;academic;usa,canada;12;23;Japonic;Japonic;5;12
+1576;japanese6 random gain;japanese6 random gain;kawasaki, japan;japanese;spanish;30;female;10;academic;usa,canada;12;23;Japonic;Japonic;5;12
+1577;japanese7;japanese7;osaka, japan;japanese;german;18;male;12;academic;;0;23;Japonic;Japonic;5;12
+1577;japanese7 white noise;japanese7 white noise;osaka, japan;japanese;german;18;male;12;academic;;0;23;Japonic;Japonic;5;12
+1577;japanese7 time stretch;japanese7 time stretch;osaka, japan;japanese;german;18;male;12;academic;;0;23;Japonic;Japonic;5;12
+1577;japanese7 pitch scale;japanese7 pitch scale;osaka, japan;japanese;german;18;male;12;academic;;0;23;Japonic;Japonic;5;12
+1577;japanese7 random gain;japanese7 random gain;osaka, japan;japanese;german;18;male;12;academic;;0;23;Japonic;Japonic;5;12
+1578;japanese8;japanese8;tokyo, japan;japanese;german latin;25;male;12;academic;;0;23;Japonic;Japonic;5;12
+1578;japanese8 white noise;japanese8 white noise;tokyo, japan;japanese;german latin;25;male;12;academic;;0;23;Japonic;Japonic;5;12
+1578;japanese8 time stretch;japanese8 time stretch;tokyo, japan;japanese;german latin;25;male;12;academic;;0;23;Japonic;Japonic;5;12
+1578;japanese8 pitch scale;japanese8 pitch scale;tokyo, japan;japanese;german latin;25;male;12;academic;;0;23;Japonic;Japonic;5;12
+1578;japanese8 random gain;japanese8 random gain;tokyo, japan;japanese;german latin;25;male;12;academic;;0;23;Japonic;Japonic;5;12
+1655;kiswahili2;kiswahili2;kigoma, tanzania;kiswahili;kiha;28;male;16;academic;usa;0.3;24;Niger-Congo;Atlantic-Congo;10;17
+1655;kiswahili2 white noise;kiswahili2 white noise;kigoma, tanzania;kiswahili;kiha;28;male;16;academic;usa;0.3;24;Niger-Congo;Atlantic-Congo;10;17
+1655;kiswahili2 time stretch;kiswahili2 time stretch;kigoma, tanzania;kiswahili;kiha;28;male;16;academic;usa;0.3;24;Niger-Congo;Atlantic-Congo;10;17
+1655;kiswahili2 pitch scale;kiswahili2 pitch scale;kigoma, tanzania;kiswahili;kiha;28;male;16;academic;usa;0.3;24;Niger-Congo;Atlantic-Congo;10;17
+1655;kiswahili2 random gain;kiswahili2 random gain;kigoma, tanzania;kiswahili;kiha;28;male;16;academic;usa;0.3;24;Niger-Congo;Atlantic-Congo;10;17
+1677;korean10;korean10;gwangju, south korea;korean;none;34;male;13;academic;3.5;0;25;Koreanic;Koreanic;6;13
+1677;korean10 white noise;korean10 white noise;gwangju, south korea;korean;none;34;male;13;academic;3.5;0;25;Koreanic;Koreanic;6;13
+1677;korean10 time stretch;korean10 time stretch;gwangju, south korea;korean;none;34;male;13;academic;3.5;0;25;Koreanic;Koreanic;6;13
+1677;korean10 pitch scale;korean10 pitch scale;gwangju, south korea;korean;none;34;male;13;academic;3.5;0;25;Koreanic;Koreanic;6;13
+1677;korean10 random gain;korean10 random gain;gwangju, south korea;korean;none;34;male;13;academic;3.5;0;25;Koreanic;Koreanic;6;13
+1678;korean11;korean11;seoul, south korea;korean;none;26;male;14;academic;philippines;0.3;25;Koreanic;Koreanic;6;13
+1678;korean11 white noise;korean11 white noise;seoul, south korea;korean;none;26;male;14;academic;philippines;0.3;25;Koreanic;Koreanic;6;13
+1678;korean11 time stretch;korean11 time stretch;seoul, south korea;korean;none;26;male;14;academic;philippines;0.3;25;Koreanic;Koreanic;6;13
+1678;korean11 pitch scale;korean11 pitch scale;seoul, south korea;korean;none;26;male;14;academic;philippines;0.3;25;Koreanic;Koreanic;6;13
+1678;korean11 random gain;korean11 random gain;seoul, south korea;korean;none;26;male;14;academic;philippines;0.3;25;Koreanic;Koreanic;6;13
+1679;korean12;korean12;sokcho, south korea;korean;none;31;male;31;academic;usa;1;25;Koreanic;Koreanic;6;13
+1679;korean12 white noise;korean12 white noise;sokcho, south korea;korean;none;31;male;31;academic;usa;1;25;Koreanic;Koreanic;6;13
+1679;korean12 time stretch;korean12 time stretch;sokcho, south korea;korean;none;31;male;31;academic;usa;1;25;Koreanic;Koreanic;6;13
+1679;korean12 pitch scale;korean12 pitch scale;sokcho, south korea;korean;none;31;male;31;academic;usa;1;25;Koreanic;Koreanic;6;13
+1679;korean12 random gain;korean12 random gain;sokcho, south korea;korean;none;31;male;31;academic;usa;1;25;Koreanic;Koreanic;6;13
+1680;korean13;korean13;pusan, south korea;korean;none;50;female;12;academic;usa;19;25;Koreanic;Koreanic;6;13
+1680;korean13 white noise;korean13 white noise;pusan, south korea;korean;none;50;female;12;academic;usa;19;25;Koreanic;Koreanic;6;13
+1680;korean13 time stretch;korean13 time stretch;pusan, south korea;korean;none;50;female;12;academic;usa;19;25;Koreanic;Koreanic;6;13
+1680;korean13 pitch scale;korean13 pitch scale;pusan, south korea;korean;none;50;female;12;academic;usa;19;25;Koreanic;Koreanic;6;13
+1680;korean13 random gain;korean13 random gain;pusan, south korea;korean;none;50;female;12;academic;usa;19;25;Koreanic;Koreanic;6;13
+1681;korean14;korean14;kota kinabalu, malaysia;korean;german;22;female;8;academic;usa;4;25;Koreanic;Koreanic;6;13
+1681;korean14 white noise;korean14 white noise;kota kinabalu, malaysia;korean;german;22;female;8;academic;usa;4;25;Koreanic;Koreanic;6;13
+1681;korean14 time stretch;korean14 time stretch;kota kinabalu, malaysia;korean;german;22;female;8;academic;usa;4;25;Koreanic;Koreanic;6;13
+1681;korean14 pitch scale;korean14 pitch scale;kota kinabalu, malaysia;korean;german;22;female;8;academic;usa;4;25;Koreanic;Koreanic;6;13
+1681;korean14 random gain;korean14 random gain;kota kinabalu, malaysia;korean;german;22;female;8;academic;usa;4;25;Koreanic;Koreanic;6;13
+1682;korean15;korean15;pusan, south korea;korean;japanese;42;male;40;academic;usa;1;25;Koreanic;Koreanic;6;13
+1682;korean15 white noise;korean15 white noise;pusan, south korea;korean;japanese;42;male;40;academic;usa;1;25;Koreanic;Koreanic;6;13
+1682;korean15 time stretch;korean15 time stretch;pusan, south korea;korean;japanese;42;male;40;academic;usa;1;25;Koreanic;Koreanic;6;13
+1682;korean15 pitch scale;korean15 pitch scale;pusan, south korea;korean;japanese;42;male;40;academic;usa;1;25;Koreanic;Koreanic;6;13
+1682;korean15 random gain;korean15 random gain;pusan, south korea;korean;japanese;42;male;40;academic;usa;1;25;Koreanic;Koreanic;6;13
+1683;korean16;korean16;nonsan, south korea;korean;none;30;female;13;academic;usa;0.2;25;Koreanic;Koreanic;6;13
+1683;korean16 white noise;korean16 white noise;nonsan, south korea;korean;none;30;female;13;academic;usa;0.2;25;Koreanic;Koreanic;6;13
+1683;korean16 time stretch;korean16 time stretch;nonsan, south korea;korean;none;30;female;13;academic;usa;0.2;25;Koreanic;Koreanic;6;13
+1683;korean16 pitch scale;korean16 pitch scale;nonsan, south korea;korean;none;30;female;13;academic;usa;0.2;25;Koreanic;Koreanic;6;13
+1683;korean16 random gain;korean16 random gain;nonsan, south korea;korean;none;30;female;13;academic;usa;0.2;25;Koreanic;Koreanic;6;13
+1684;korean17;korean17;cheju-do, south korea;korean;none;21;male;8;academic;usa;0.3;25;Koreanic;Koreanic;6;13
+1684;korean17 white noise;korean17 white noise;cheju-do, south korea;korean;none;21;male;8;academic;usa;0.3;25;Koreanic;Koreanic;6;13
+1684;korean17 time stretch;korean17 time stretch;cheju-do, south korea;korean;none;21;male;8;academic;usa;0.3;25;Koreanic;Koreanic;6;13
+1684;korean17 pitch scale;korean17 pitch scale;cheju-do, south korea;korean;none;21;male;8;academic;usa;0.3;25;Koreanic;Koreanic;6;13
+1684;korean17 random gain;korean17 random gain;cheju-do, south korea;korean;none;21;male;8;academic;usa;0.3;25;Koreanic;Koreanic;6;13
+1685;korean18;korean18;seoul, south korea;korean;spanish;25;male;7;academic;usa;12;25;Koreanic;Koreanic;6;13
+1685;korean18 white noise;korean18 white noise;seoul, south korea;korean;spanish;25;male;7;academic;usa;12;25;Koreanic;Koreanic;6;13
+1685;korean18 time stretch;korean18 time stretch;seoul, south korea;korean;spanish;25;male;7;academic;usa;12;25;Koreanic;Koreanic;6;13
+1685;korean18 pitch scale;korean18 pitch scale;seoul, south korea;korean;spanish;25;male;7;academic;usa;12;25;Koreanic;Koreanic;6;13
+1685;korean18 random gain;korean18 random gain;seoul, south korea;korean;spanish;25;male;7;academic;usa;12;25;Koreanic;Koreanic;6;13
+1773;kurdish2;kurdish2;hawler, kurdistan, iraq;kurdish;farsi arabic;50;male;10;academic;usa;20;26;Indo-European;Indo-Iranian;4;10
+1773;kurdish2 white noise;kurdish2 white noise;hawler, kurdistan, iraq;kurdish;farsi arabic;50;male;10;academic;usa;20;26;Indo-European;Indo-Iranian;4;10
+1773;kurdish2 time stretch;kurdish2 time stretch;hawler, kurdistan, iraq;kurdish;farsi arabic;50;male;10;academic;usa;20;26;Indo-European;Indo-Iranian;4;10
+1773;kurdish2 pitch scale;kurdish2 pitch scale;hawler, kurdistan, iraq;kurdish;farsi arabic;50;male;10;academic;usa;20;26;Indo-European;Indo-Iranian;4;10
+1773;kurdish2 random gain;kurdish2 random gain;hawler, kurdistan, iraq;kurdish;farsi arabic;50;male;10;academic;usa;20;26;Indo-European;Indo-Iranian;4;10
+1811;macedonian3;macedonian3;stip, macedonia;macedonian;bulgarian serbian croatian;24;male;11;academic;usa;0.2;27;Indo-European;Balto-Slavic;4;7
+1811;macedonian3 white noise;macedonian3 white noise;stip, macedonia;macedonian;bulgarian serbian croatian;24;male;11;academic;usa;0.2;27;Indo-European;Balto-Slavic;4;7
+1811;macedonian3 time stretch;macedonian3 time stretch;stip, macedonia;macedonian;bulgarian serbian croatian;24;male;11;academic;usa;0.2;27;Indo-European;Balto-Slavic;4;7
+1811;macedonian3 pitch scale;macedonian3 pitch scale;stip, macedonia;macedonian;bulgarian serbian croatian;24;male;11;academic;usa;0.2;27;Indo-European;Balto-Slavic;4;7
+1811;macedonian3 random gain;macedonian3 random gain;stip, macedonia;macedonian;bulgarian serbian croatian;24;male;11;academic;usa;0.2;27;Indo-European;Balto-Slavic;4;7
+1812;macedonian4;macedonian4;stip, macedonia;macedonian;bulgarian serbian croatian;21;male;11;academic;uk, usa;2.75;27;Indo-European;Balto-Slavic;4;7
+1812;macedonian4 white noise;macedonian4 white noise;stip, macedonia;macedonian;bulgarian serbian croatian;21;male;11;academic;uk, usa;2.75;27;Indo-European;Balto-Slavic;4;7
+1812;macedonian4 time stretch;macedonian4 time stretch;stip, macedonia;macedonian;bulgarian serbian croatian;21;male;11;academic;uk, usa;2.75;27;Indo-European;Balto-Slavic;4;7
+1812;macedonian4 pitch scale;macedonian4 pitch scale;stip, macedonia;macedonian;bulgarian serbian croatian;21;male;11;academic;uk, usa;2.75;27;Indo-European;Balto-Slavic;4;7
+1812;macedonian4 random gain;macedonian4 random gain;stip, macedonia;macedonian;bulgarian serbian croatian;21;male;11;academic;uk, usa;2.75;27;Indo-European;Balto-Slavic;4;7
+1869;mandarin16;mandarin16;taipei, taiwan;mandarin;taiwanese japanese;32;male;10;academic;usa;1.35;28;Sino-Tibetan;Chinese;11;18
+1869;mandarin16 white noise;mandarin16 white noise;taipei, taiwan;mandarin;taiwanese japanese;32;male;10;academic;usa;1.35;28;Sino-Tibetan;Chinese;11;18
+1869;mandarin16 time stretch;mandarin16 time stretch;taipei, taiwan;mandarin;taiwanese japanese;32;male;10;academic;usa;1.35;28;Sino-Tibetan;Chinese;11;18
+1869;mandarin16 pitch scale;mandarin16 pitch scale;taipei, taiwan;mandarin;taiwanese japanese;32;male;10;academic;usa;1.35;28;Sino-Tibetan;Chinese;11;18
+1869;mandarin16 random gain;mandarin16 random gain;taipei, taiwan;mandarin;taiwanese japanese;32;male;10;academic;usa;1.35;28;Sino-Tibetan;Chinese;11;18
+1870;mandarin17;mandarin17;wuhan, hubei, china;mandarin;none;26;male;13;academic;canada;2;28;Sino-Tibetan;Chinese;11;18
+1870;mandarin17 white noise;mandarin17 white noise;wuhan, hubei, china;mandarin;none;26;male;13;academic;canada;2;28;Sino-Tibetan;Chinese;11;18
+1870;mandarin17 time stretch;mandarin17 time stretch;wuhan, hubei, china;mandarin;none;26;male;13;academic;canada;2;28;Sino-Tibetan;Chinese;11;18
+1870;mandarin17 pitch scale;mandarin17 pitch scale;wuhan, hubei, china;mandarin;none;26;male;13;academic;canada;2;28;Sino-Tibetan;Chinese;11;18
+1870;mandarin17 random gain;mandarin17 random gain;wuhan, hubei, china;mandarin;none;26;male;13;academic;canada;2;28;Sino-Tibetan;Chinese;11;18
+1871;mandarin18;mandarin18;taoyuan, taiwan;mandarin;hakka;29;female;13;academic;;0;28;Sino-Tibetan;Chinese;11;18
+1871;mandarin18 white noise;mandarin18 white noise;taoyuan, taiwan;mandarin;hakka;29;female;13;academic;;0;28;Sino-Tibetan;Chinese;11;18
+1871;mandarin18 time stretch;mandarin18 time stretch;taoyuan, taiwan;mandarin;hakka;29;female;13;academic;;0;28;Sino-Tibetan;Chinese;11;18
+1871;mandarin18 pitch scale;mandarin18 pitch scale;taoyuan, taiwan;mandarin;hakka;29;female;13;academic;;0;28;Sino-Tibetan;Chinese;11;18
+1871;mandarin18 random gain;mandarin18 random gain;taoyuan, taiwan;mandarin;hakka;29;female;13;academic;;0;28;Sino-Tibetan;Chinese;11;18
+1872;mandarin19;mandarin19;qinzhou, guangxi, china;mandarin;none;27;male;13;academic;australia;0.33;28;Sino-Tibetan;Chinese;11;18
+1872;mandarin19 white noise;mandarin19 white noise;qinzhou, guangxi, china;mandarin;none;27;male;13;academic;australia;0.33;28;Sino-Tibetan;Chinese;11;18
+1872;mandarin19 time stretch;mandarin19 time stretch;qinzhou, guangxi, china;mandarin;none;27;male;13;academic;australia;0.33;28;Sino-Tibetan;Chinese;11;18
+1872;mandarin19 pitch scale;mandarin19 pitch scale;qinzhou, guangxi, china;mandarin;none;27;male;13;academic;australia;0.33;28;Sino-Tibetan;Chinese;11;18
+1872;mandarin19 random gain;mandarin19 random gain;qinzhou, guangxi, china;mandarin;none;27;male;13;academic;australia;0.33;28;Sino-Tibetan;Chinese;11;18
+1873;mandarin20;mandarin20;ping tong, taiwan;mandarin;russian;40;female;12;academic;usa;5;28;Sino-Tibetan;Chinese;11;18
+1873;mandarin20 white noise;mandarin20 white noise;ping tong, taiwan;mandarin;russian;40;female;12;academic;usa;5;28;Sino-Tibetan;Chinese;11;18
+1873;mandarin20 time stretch;mandarin20 time stretch;ping tong, taiwan;mandarin;russian;40;female;12;academic;usa;5;28;Sino-Tibetan;Chinese;11;18
+1873;mandarin20 pitch scale;mandarin20 pitch scale;ping tong, taiwan;mandarin;russian;40;female;12;academic;usa;5;28;Sino-Tibetan;Chinese;11;18
+1873;mandarin20 random gain;mandarin20 random gain;ping tong, taiwan;mandarin;russian;40;female;12;academic;usa;5;28;Sino-Tibetan;Chinese;11;18
+1874;mandarin21;mandarin21;chengdu, sichuan, china;mandarin;none;38;female;9;academic;usa;13;28;Sino-Tibetan;Chinese;11;18
+1874;mandarin21 white noise;mandarin21 white noise;chengdu, sichuan, china;mandarin;none;38;female;9;academic;usa;13;28;Sino-Tibetan;Chinese;11;18
+1874;mandarin21 time stretch;mandarin21 time stretch;chengdu, sichuan, china;mandarin;none;38;female;9;academic;usa;13;28;Sino-Tibetan;Chinese;11;18
+1874;mandarin21 pitch scale;mandarin21 pitch scale;chengdu, sichuan, china;mandarin;none;38;female;9;academic;usa;13;28;Sino-Tibetan;Chinese;11;18
+1874;mandarin21 random gain;mandarin21 random gain;chengdu, sichuan, china;mandarin;none;38;female;9;academic;usa;13;28;Sino-Tibetan;Chinese;11;18
+1875;mandarin22;mandarin22;haikou, hainan, china;mandarin;cantonese taiwanese;39;female;11;academic;usa;3;28;Sino-Tibetan;Chinese;11;18
+1875;mandarin22 white noise;mandarin22 white noise;haikou, hainan, china;mandarin;cantonese taiwanese;39;female;11;academic;usa;3;28;Sino-Tibetan;Chinese;11;18
+1875;mandarin22 time stretch;mandarin22 time stretch;haikou, hainan, china;mandarin;cantonese taiwanese;39;female;11;academic;usa;3;28;Sino-Tibetan;Chinese;11;18
+1875;mandarin22 pitch scale;mandarin22 pitch scale;haikou, hainan, china;mandarin;cantonese taiwanese;39;female;11;academic;usa;3;28;Sino-Tibetan;Chinese;11;18
+1875;mandarin22 random gain;mandarin22 random gain;haikou, hainan, china;mandarin;cantonese taiwanese;39;female;11;academic;usa;3;28;Sino-Tibetan;Chinese;11;18
+1876;mandarin23;mandarin23;kao-hsiung, taiwan;mandarin;cantonese taiwanese;46;female;13;academic;usa;22;28;Sino-Tibetan;Chinese;11;18
+1876;mandarin23 white noise;mandarin23 white noise;kao-hsiung, taiwan;mandarin;cantonese taiwanese;46;female;13;academic;usa;22;28;Sino-Tibetan;Chinese;11;18
+1876;mandarin23 time stretch;mandarin23 time stretch;kao-hsiung, taiwan;mandarin;cantonese taiwanese;46;female;13;academic;usa;22;28;Sino-Tibetan;Chinese;11;18
+1876;mandarin23 pitch scale;mandarin23 pitch scale;kao-hsiung, taiwan;mandarin;cantonese taiwanese;46;female;13;academic;usa;22;28;Sino-Tibetan;Chinese;11;18
+1876;mandarin23 random gain;mandarin23 random gain;kao-hsiung, taiwan;mandarin;cantonese taiwanese;46;female;13;academic;usa;22;28;Sino-Tibetan;Chinese;11;18
+1877;mandarin24;mandarin24;shanghai, china;mandarin;none;21;female;10;academic;;0;28;Sino-Tibetan;Chinese;11;18
+1877;mandarin24 white noise;mandarin24 white noise;shanghai, china;mandarin;none;21;female;10;academic;;0;28;Sino-Tibetan;Chinese;11;18
+1877;mandarin24 time stretch;mandarin24 time stretch;shanghai, china;mandarin;none;21;female;10;academic;;0;28;Sino-Tibetan;Chinese;11;18
+1877;mandarin24 pitch scale;mandarin24 pitch scale;shanghai, china;mandarin;none;21;female;10;academic;;0;28;Sino-Tibetan;Chinese;11;18
+1877;mandarin24 random gain;mandarin24 random gain;shanghai, china;mandarin;none;21;female;10;academic;;0;28;Sino-Tibetan;Chinese;11;18
+1878;mandarin25;mandarin25;wuxi, jiangsu, china;mandarin;german;28;female;13;academic;usa;0.8;28;Sino-Tibetan;Chinese;11;18
+1878;mandarin25 white noise;mandarin25 white noise;wuxi, jiangsu, china;mandarin;german;28;female;13;academic;usa;0.8;28;Sino-Tibetan;Chinese;11;18
+1878;mandarin25 time stretch;mandarin25 time stretch;wuxi, jiangsu, china;mandarin;german;28;female;13;academic;usa;0.8;28;Sino-Tibetan;Chinese;11;18
+1878;mandarin25 pitch scale;mandarin25 pitch scale;wuxi, jiangsu, china;mandarin;german;28;female;13;academic;usa;0.8;28;Sino-Tibetan;Chinese;11;18
+1878;mandarin25 random gain;mandarin25 random gain;wuxi, jiangsu, china;mandarin;german;28;female;13;academic;usa;0.8;28;Sino-Tibetan;Chinese;11;18
+1879;mandarin26;mandarin26;emei, sichuan, china;mandarin;none;31;female;12;academic;usa;3;28;Sino-Tibetan;Chinese;11;18
+1879;mandarin26 white noise;mandarin26 white noise;emei, sichuan, china;mandarin;none;31;female;12;academic;usa;3;28;Sino-Tibetan;Chinese;11;18
+1879;mandarin26 time stretch;mandarin26 time stretch;emei, sichuan, china;mandarin;none;31;female;12;academic;usa;3;28;Sino-Tibetan;Chinese;11;18
+1879;mandarin26 pitch scale;mandarin26 pitch scale;emei, sichuan, china;mandarin;none;31;female;12;academic;usa;3;28;Sino-Tibetan;Chinese;11;18
+1879;mandarin26 random gain;mandarin26 random gain;emei, sichuan, china;mandarin;none;31;female;12;academic;usa;3;28;Sino-Tibetan;Chinese;11;18
+1880;mandarin27;mandarin27;chengdu, sichuan, china;mandarin;none;18;male;15;academic;usa;3;28;Sino-Tibetan;Chinese;11;18
+1880;mandarin27 white noise;mandarin27 white noise;chengdu, sichuan, china;mandarin;none;18;male;15;academic;usa;3;28;Sino-Tibetan;Chinese;11;18
+1880;mandarin27 time stretch;mandarin27 time stretch;chengdu, sichuan, china;mandarin;none;18;male;15;academic;usa;3;28;Sino-Tibetan;Chinese;11;18
+1880;mandarin27 pitch scale;mandarin27 pitch scale;chengdu, sichuan, china;mandarin;none;18;male;15;academic;usa;3;28;Sino-Tibetan;Chinese;11;18
+1880;mandarin27 random gain;mandarin27 random gain;chengdu, sichuan, china;mandarin;none;18;male;15;academic;usa;3;28;Sino-Tibetan;Chinese;11;18
+1881;mandarin28;mandarin28;shanghai, china;mandarin;none;45;male;15;academic;usa;20;28;Sino-Tibetan;Chinese;11;18
+1881;mandarin28 white noise;mandarin28 white noise;shanghai, china;mandarin;none;45;male;15;academic;usa;20;28;Sino-Tibetan;Chinese;11;18
+1881;mandarin28 time stretch;mandarin28 time stretch;shanghai, china;mandarin;none;45;male;15;academic;usa;20;28;Sino-Tibetan;Chinese;11;18
+1881;mandarin28 pitch scale;mandarin28 pitch scale;shanghai, china;mandarin;none;45;male;15;academic;usa;20;28;Sino-Tibetan;Chinese;11;18
+1881;mandarin28 random gain;mandarin28 random gain;shanghai, china;mandarin;none;45;male;15;academic;usa;20;28;Sino-Tibetan;Chinese;11;18
+1882;mandarin29;mandarin29;lanzhou, gansu, china;mandarin;none;24;male;4;academic;;0;28;Sino-Tibetan;Chinese;11;18
+1882;mandarin29 white noise;mandarin29 white noise;lanzhou, gansu, china;mandarin;none;24;male;4;academic;;0;28;Sino-Tibetan;Chinese;11;18
+1882;mandarin29 time stretch;mandarin29 time stretch;lanzhou, gansu, china;mandarin;none;24;male;4;academic;;0;28;Sino-Tibetan;Chinese;11;18
+1882;mandarin29 pitch scale;mandarin29 pitch scale;lanzhou, gansu, china;mandarin;none;24;male;4;academic;;0;28;Sino-Tibetan;Chinese;11;18
+1882;mandarin29 random gain;mandarin29 random gain;lanzhou, gansu, china;mandarin;none;24;male;4;academic;;0;28;Sino-Tibetan;Chinese;11;18
+1883;mandarin30;mandarin30;taipei, taiwan;mandarin;none;27;male;13;academic;usa;1;28;Sino-Tibetan;Chinese;11;18
+1883;mandarin30 white noise;mandarin30 white noise;taipei, taiwan;mandarin;none;27;male;13;academic;usa;1;28;Sino-Tibetan;Chinese;11;18
+1883;mandarin30 time stretch;mandarin30 time stretch;taipei, taiwan;mandarin;none;27;male;13;academic;usa;1;28;Sino-Tibetan;Chinese;11;18
+1883;mandarin30 pitch scale;mandarin30 pitch scale;taipei, taiwan;mandarin;none;27;male;13;academic;usa;1;28;Sino-Tibetan;Chinese;11;18
+1883;mandarin30 random gain;mandarin30 random gain;taipei, taiwan;mandarin;none;27;male;13;academic;usa;1;28;Sino-Tibetan;Chinese;11;18
+2014;marathi2;marathi2;madras, india;marathi;hindi-urdu;28;male;10;academic;usa;0.5;29;Indo-European;Indo-Iranian;4;10
+2014;marathi2 white noise;marathi2 white noise;madras, india;marathi;hindi-urdu;28;male;10;academic;usa;0.5;29;Indo-European;Indo-Iranian;4;10
+2014;marathi2 time stretch;marathi2 time stretch;madras, india;marathi;hindi-urdu;28;male;10;academic;usa;0.5;29;Indo-European;Indo-Iranian;4;10
+2014;marathi2 pitch scale;marathi2 pitch scale;madras, india;marathi;hindi-urdu;28;male;10;academic;usa;0.5;29;Indo-European;Indo-Iranian;4;10
+2014;marathi2 random gain;marathi2 random gain;madras, india;marathi;hindi-urdu;28;male;10;academic;usa;0.5;29;Indo-European;Indo-Iranian;4;10
+2033;miskito2;miskito2;bilwi, puerto cabezas, nicaragua;miskito;spanish;18;female;7;academic;;0;30;Misumalpan;Misumalpan;8;15
+2033;miskito2 white noise;miskito2 white noise;bilwi, puerto cabezas, nicaragua;miskito;spanish;18;female;7;academic;;0;30;Misumalpan;Misumalpan;8;15
+2033;miskito2 time stretch;miskito2 time stretch;bilwi, puerto cabezas, nicaragua;miskito;spanish;18;female;7;academic;;0;30;Misumalpan;Misumalpan;8;15
+2033;miskito2 pitch scale;miskito2 pitch scale;bilwi, puerto cabezas, nicaragua;miskito;spanish;18;female;7;academic;;0;30;Misumalpan;Misumalpan;8;15
+2033;miskito2 random gain;miskito2 random gain;bilwi, puerto cabezas, nicaragua;miskito;spanish;18;female;7;academic;;0;30;Misumalpan;Misumalpan;8;15
+2046;mongolian2;mongolian2;ulaanbaatar, mongolia;mongolian;russian;22;male;17;academic;usa;0.25;31;Mongolic;Eastern Mongolic;9;16
+2046;mongolian2 white noise;mongolian2 white noise;ulaanbaatar, mongolia;mongolian;russian;22;male;17;academic;usa;0.25;31;Mongolic;Eastern Mongolic;9;16
+2046;mongolian2 time stretch;mongolian2 time stretch;ulaanbaatar, mongolia;mongolian;russian;22;male;17;academic;usa;0.25;31;Mongolic;Eastern Mongolic;9;16
+2046;mongolian2 pitch scale;mongolian2 pitch scale;ulaanbaatar, mongolia;mongolian;russian;22;male;17;academic;usa;0.25;31;Mongolic;Eastern Mongolic;9;16
+2046;mongolian2 random gain;mongolian2 random gain;ulaanbaatar, mongolia;mongolian;russian;22;male;17;academic;usa;0.25;31;Mongolic;Eastern Mongolic;9;16
+2063;nepali3;nepali3;dharan, nepal;nepali;hindi;36;male;4;academic;usa;10;32;Indo-European;Indo-Iranian;4;10
+2063;nepali3 white noise;nepali3 white noise;dharan, nepal;nepali;hindi;36;male;4;academic;usa;10;32;Indo-European;Indo-Iranian;4;10
+2063;nepali3 time stretch;nepali3 time stretch;dharan, nepal;nepali;hindi;36;male;4;academic;usa;10;32;Indo-European;Indo-Iranian;4;10
+2063;nepali3 pitch scale;nepali3 pitch scale;dharan, nepal;nepali;hindi;36;male;4;academic;usa;10;32;Indo-European;Indo-Iranian;4;10
+2063;nepali3 random gain;nepali3 random gain;dharan, nepal;nepali;hindi;36;male;4;academic;usa;10;32;Indo-European;Indo-Iranian;4;10
+2064;nepali4;nepali4;pokhara, nepal;nepali;hindi;25;male;5;academic;usa;2;32;Indo-European;Indo-Iranian;4;10
+2064;nepali4 white noise;nepali4 white noise;pokhara, nepal;nepali;hindi;25;male;5;academic;usa;2;32;Indo-European;Indo-Iranian;4;10
+2064;nepali4 time stretch;nepali4 time stretch;pokhara, nepal;nepali;hindi;25;male;5;academic;usa;2;32;Indo-European;Indo-Iranian;4;10
+2064;nepali4 pitch scale;nepali4 pitch scale;pokhara, nepal;nepali;hindi;25;male;5;academic;usa;2;32;Indo-European;Indo-Iranian;4;10
+2064;nepali4 random gain;nepali4 random gain;pokhara, nepal;nepali;hindi;25;male;5;academic;usa;2;32;Indo-European;Indo-Iranian;4;10
+2119;polish4;polish4;krakow, poland;polish;russian german slovak;47;female;15;academic;usa;14;34;Indo-European;Balto-Slavic;4;7
+2119;polish4 white noise;polish4 white noise;krakow, poland;polish;russian german slovak;47;female;15;academic;usa;14;34;Indo-European;Balto-Slavic;4;7
+2119;polish4 time stretch;polish4 time stretch;krakow, poland;polish;russian german slovak;47;female;15;academic;usa;14;34;Indo-European;Balto-Slavic;4;7
+2119;polish4 pitch scale;polish4 pitch scale;krakow, poland;polish;russian german slovak;47;female;15;academic;usa;14;34;Indo-European;Balto-Slavic;4;7
+2119;polish4 random gain;polish4 random gain;krakow, poland;polish;russian german slovak;47;female;15;academic;usa;14;34;Indo-European;Balto-Slavic;4;7
+2120;polish5;polish5;ozarow maz, poland;polish;french german spanish;22;male;9;academic;;0;34;Indo-European;Balto-Slavic;4;7
+2120;polish5 white noise;polish5 white noise;ozarow maz, poland;polish;french german spanish;22;male;9;academic;;0;34;Indo-European;Balto-Slavic;4;7
+2120;polish5 time stretch;polish5 time stretch;ozarow maz, poland;polish;french german spanish;22;male;9;academic;;0;34;Indo-European;Balto-Slavic;4;7
+2120;polish5 pitch scale;polish5 pitch scale;ozarow maz, poland;polish;french german spanish;22;male;9;academic;;0;34;Indo-European;Balto-Slavic;4;7
+2120;polish5 random gain;polish5 random gain;ozarow maz, poland;polish;french german spanish;22;male;9;academic;;0;34;Indo-European;Balto-Slavic;4;7
+2121;polish6;polish6;torun, poland;polish;french german;26;female;8;academic;usa;2;34;Indo-European;Balto-Slavic;4;7
+2121;polish6 white noise;polish6 white noise;torun, poland;polish;french german;26;female;8;academic;usa;2;34;Indo-European;Balto-Slavic;4;7
+2121;polish6 time stretch;polish6 time stretch;torun, poland;polish;french german;26;female;8;academic;usa;2;34;Indo-European;Balto-Slavic;4;7
+2121;polish6 pitch scale;polish6 pitch scale;torun, poland;polish;french german;26;female;8;academic;usa;2;34;Indo-European;Balto-Slavic;4;7
+2121;polish6 random gain;polish6 random gain;torun, poland;polish;french german;26;female;8;academic;usa;2;34;Indo-European;Balto-Slavic;4;7
+2161;portuguese6;portuguese6;sao paulo, brazil;portuguese;none;44;male;15;academic;usa;0.1;35;Indo-European;Italic;4;11
+2161;portuguese6 white noise;portuguese6 white noise;sao paulo, brazil;portuguese;none;44;male;15;academic;usa;0.1;35;Indo-European;Italic;4;11
+2161;portuguese6 time stretch;portuguese6 time stretch;sao paulo, brazil;portuguese;none;44;male;15;academic;usa;0.1;35;Indo-European;Italic;4;11
+2161;portuguese6 pitch scale;portuguese6 pitch scale;sao paulo, brazil;portuguese;none;44;male;15;academic;usa;0.1;35;Indo-European;Italic;4;11
+2161;portuguese6 random gain;portuguese6 random gain;sao paulo, brazil;portuguese;none;44;male;15;academic;usa;0.1;35;Indo-European;Italic;4;11
+2162;portuguese7;portuguese7;vitoria, brazil;portuguese;spanish;40;male;11;naturalistic;;0;35;Indo-European;Italic;4;11
+2162;portuguese7 white noise;portuguese7 white noise;vitoria, brazil;portuguese;spanish;40;male;11;naturalistic;;0;35;Indo-European;Italic;4;11
+2162;portuguese7 time stretch;portuguese7 time stretch;vitoria, brazil;portuguese;spanish;40;male;11;naturalistic;;0;35;Indo-European;Italic;4;11
+2162;portuguese7 pitch scale;portuguese7 pitch scale;vitoria, brazil;portuguese;spanish;40;male;11;naturalistic;;0;35;Indo-European;Italic;4;11
+2162;portuguese7 random gain;portuguese7 random gain;vitoria, brazil;portuguese;spanish;40;male;11;naturalistic;;0;35;Indo-European;Italic;4;11
+2163;portuguese8;portuguese8;fortaleza, brazil;portuguese;french spanish;26;male;7;academic;uk;8.5;35;Indo-European;Italic;4;11
+2163;portuguese8 white noise;portuguese8 white noise;fortaleza, brazil;portuguese;french spanish;26;male;7;academic;uk;8.5;35;Indo-European;Italic;4;11
+2163;portuguese8 time stretch;portuguese8 time stretch;fortaleza, brazil;portuguese;french spanish;26;male;7;academic;uk;8.5;35;Indo-European;Italic;4;11
+2163;portuguese8 pitch scale;portuguese8 pitch scale;fortaleza, brazil;portuguese;french spanish;26;male;7;academic;uk;8.5;35;Indo-European;Italic;4;11
+2163;portuguese8 random gain;portuguese8 random gain;fortaleza, brazil;portuguese;french spanish;26;male;7;academic;uk;8.5;35;Indo-European;Italic;4;11
+2164;portuguese9;portuguese9;sao paulo, brazil;portuguese;french spanish;18;male;14;academic;usa;2;35;Indo-European;Italic;4;11
+2164;portuguese9 white noise;portuguese9 white noise;sao paulo, brazil;portuguese;french spanish;18;male;14;academic;usa;2;35;Indo-European;Italic;4;11
+2164;portuguese9 time stretch;portuguese9 time stretch;sao paulo, brazil;portuguese;french spanish;18;male;14;academic;usa;2;35;Indo-European;Italic;4;11
+2164;portuguese9 pitch scale;portuguese9 pitch scale;sao paulo, brazil;portuguese;french spanish;18;male;14;academic;usa;2;35;Indo-European;Italic;4;11
+2164;portuguese9 random gain;portuguese9 random gain;sao paulo, brazil;portuguese;french spanish;18;male;14;academic;usa;2;35;Indo-European;Italic;4;11
+2165;portuguese11;portuguese11;sao paulo, brazil;portuguese;spanish;40;female;7;academic;;0;35;Indo-European;Italic;4;11
+2165;portuguese11 white noise;portuguese11 white noise;sao paulo, brazil;portuguese;spanish;40;female;7;academic;;0;35;Indo-European;Italic;4;11
+2165;portuguese11 time stretch;portuguese11 time stretch;sao paulo, brazil;portuguese;spanish;40;female;7;academic;;0;35;Indo-European;Italic;4;11
+2165;portuguese11 pitch scale;portuguese11 pitch scale;sao paulo, brazil;portuguese;spanish;40;female;7;academic;;0;35;Indo-European;Italic;4;11
+2165;portuguese11 random gain;portuguese11 random gain;sao paulo, brazil;portuguese;spanish;40;female;7;academic;;0;35;Indo-European;Italic;4;11
+2166;portuguese12;portuguese12;lisbon, portugal;portuguese;none;36;male;12;academic;;0;35;Indo-European;Italic;4;11
+2166;portuguese12 white noise;portuguese12 white noise;lisbon, portugal;portuguese;none;36;male;12;academic;;0;35;Indo-European;Italic;4;11
+2166;portuguese12 time stretch;portuguese12 time stretch;lisbon, portugal;portuguese;none;36;male;12;academic;;0;35;Indo-European;Italic;4;11
+2166;portuguese12 pitch scale;portuguese12 pitch scale;lisbon, portugal;portuguese;none;36;male;12;academic;;0;35;Indo-European;Italic;4;11
+2166;portuguese12 random gain;portuguese12 random gain;lisbon, portugal;portuguese;none;36;male;12;academic;;0;35;Indo-European;Italic;4;11
+2228;punjabi2;punjabi2;hoshiarpur, india;punjabi;hindi-urdu thai;26;male;10;academic;usa;0.6;36;Indo-European;Indo-Iranian;4;10
+2228;punjabi2 white noise;punjabi2 white noise;hoshiarpur, india;punjabi;hindi-urdu thai;26;male;10;academic;usa;0.6;36;Indo-European;Indo-Iranian;4;10
+2228;punjabi2 time stretch;punjabi2 time stretch;hoshiarpur, india;punjabi;hindi-urdu thai;26;male;10;academic;usa;0.6;36;Indo-European;Indo-Iranian;4;10
+2228;punjabi2 pitch scale;punjabi2 pitch scale;hoshiarpur, india;punjabi;hindi-urdu thai;26;male;10;academic;usa;0.6;36;Indo-European;Indo-Iranian;4;10
+2228;punjabi2 random gain;punjabi2 random gain;hoshiarpur, india;punjabi;hindi-urdu thai;26;male;10;academic;usa;0.6;36;Indo-European;Indo-Iranian;4;10
+2243;romanian3;romanian3;birtem, romania;romanian;none;50;male;32;naturalistic;usa;18;37;Indo-European;Italic;4;11
+2243;romanian3 white noise;romanian3 white noise;birtem, romania;romanian;none;50;male;32;naturalistic;usa;18;37;Indo-European;Italic;4;11
+2243;romanian3 time stretch;romanian3 time stretch;birtem, romania;romanian;none;50;male;32;naturalistic;usa;18;37;Indo-European;Italic;4;11
+2243;romanian3 pitch scale;romanian3 pitch scale;birtem, romania;romanian;none;50;male;32;naturalistic;usa;18;37;Indo-European;Italic;4;11
+2243;romanian3 random gain;romanian3 random gain;birtem, romania;romanian;none;50;male;32;naturalistic;usa;18;37;Indo-European;Italic;4;11
+2244;romanian4;romanian4;bucharest, romania;romanian;german french;35;female;32;naturalistic;;0;37;Indo-European;Italic;4;11
+2244;romanian4 white noise;romanian4 white noise;bucharest, romania;romanian;german french;35;female;32;naturalistic;;0;37;Indo-European;Italic;4;11
+2244;romanian4 time stretch;romanian4 time stretch;bucharest, romania;romanian;german french;35;female;32;naturalistic;;0;37;Indo-European;Italic;4;11
+2244;romanian4 pitch scale;romanian4 pitch scale;bucharest, romania;romanian;german french;35;female;32;naturalistic;;0;37;Indo-European;Italic;4;11
+2244;romanian4 random gain;romanian4 random gain;bucharest, romania;romanian;german french;35;female;32;naturalistic;;0;37;Indo-European;Italic;4;11
+2278;russian9;russian9;moscow, russia;russian;hebrew italian;23;male;7;academic;;0;38;Indo-European;Balto-Slavic;4;7
+2278;russian9 white noise;russian9 white noise;moscow, russia;russian;hebrew italian;23;male;7;academic;;0;38;Indo-European;Balto-Slavic;4;7
+2278;russian9 time stretch;russian9 time stretch;moscow, russia;russian;hebrew italian;23;male;7;academic;;0;38;Indo-European;Balto-Slavic;4;7
+2278;russian9 pitch scale;russian9 pitch scale;moscow, russia;russian;hebrew italian;23;male;7;academic;;0;38;Indo-European;Balto-Slavic;4;7
+2278;russian9 random gain;russian9 random gain;moscow, russia;russian;hebrew italian;23;male;7;academic;;0;38;Indo-European;Balto-Slavic;4;7
+2279;russian12;russian12;st. petersburg, russia;russian;none;62;male;53;naturalistic;usa;9;38;Indo-European;Balto-Slavic;4;7
+2279;russian12 white noise;russian12 white noise;st. petersburg, russia;russian;none;62;male;53;naturalistic;usa;9;38;Indo-European;Balto-Slavic;4;7
+2279;russian12 time stretch;russian12 time stretch;st. petersburg, russia;russian;none;62;male;53;naturalistic;usa;9;38;Indo-European;Balto-Slavic;4;7
+2279;russian12 pitch scale;russian12 pitch scale;st. petersburg, russia;russian;none;62;male;53;naturalistic;usa;9;38;Indo-European;Balto-Slavic;4;7
+2279;russian12 random gain;russian12 random gain;st. petersburg, russia;russian;none;62;male;53;naturalistic;usa;9;38;Indo-European;Balto-Slavic;4;7
+2280;russian13;russian13;moscow, russia;russian;french spanish;26;male;10;academic;;0;38;Indo-European;Balto-Slavic;4;7
+2280;russian13 white noise;russian13 white noise;moscow, russia;russian;french spanish;26;male;10;academic;;0;38;Indo-European;Balto-Slavic;4;7
+2280;russian13 time stretch;russian13 time stretch;moscow, russia;russian;french spanish;26;male;10;academic;;0;38;Indo-European;Balto-Slavic;4;7
+2280;russian13 pitch scale;russian13 pitch scale;moscow, russia;russian;french spanish;26;male;10;academic;;0;38;Indo-European;Balto-Slavic;4;7
+2280;russian13 random gain;russian13 random gain;moscow, russia;russian;french spanish;26;male;10;academic;;0;38;Indo-European;Balto-Slavic;4;7
+2281;russian14;russian14;pskov, russia;russian;none;33;male;18;academic;usa;6;38;Indo-European;Balto-Slavic;4;7
+2281;russian14 white noise;russian14 white noise;pskov, russia;russian;none;33;male;18;academic;usa;6;38;Indo-European;Balto-Slavic;4;7
+2281;russian14 time stretch;russian14 time stretch;pskov, russia;russian;none;33;male;18;academic;usa;6;38;Indo-European;Balto-Slavic;4;7
+2281;russian14 pitch scale;russian14 pitch scale;pskov, russia;russian;none;33;male;18;academic;usa;6;38;Indo-European;Balto-Slavic;4;7
+2281;russian14 random gain;russian14 random gain;pskov, russia;russian;none;33;male;18;academic;usa;6;38;Indo-European;Balto-Slavic;4;7
+2282;russian15;russian15;ayaguz, kazakhstan;russian;belarusan;34;female;12;academic;canada, usa;6;38;Indo-European;Balto-Slavic;4;7
+2282;russian15 white noise;russian15 white noise;ayaguz, kazakhstan;russian;belarusan;34;female;12;academic;canada, usa;6;38;Indo-European;Balto-Slavic;4;7
+2282;russian15 time stretch;russian15 time stretch;ayaguz, kazakhstan;russian;belarusan;34;female;12;academic;canada, usa;6;38;Indo-European;Balto-Slavic;4;7
+2282;russian15 pitch scale;russian15 pitch scale;ayaguz, kazakhstan;russian;belarusan;34;female;12;academic;canada, usa;6;38;Indo-European;Balto-Slavic;4;7
+2282;russian15 random gain;russian15 random gain;ayaguz, kazakhstan;russian;belarusan;34;female;12;academic;canada, usa;6;38;Indo-European;Balto-Slavic;4;7
+2283;russian16;russian16;minsk, belarus;russian;belarusan polish french german;35;male;11;academic;uk, usa;6;38;Indo-European;Balto-Slavic;4;7
+2283;russian16 white noise;russian16 white noise;minsk, belarus;russian;belarusan polish french german;35;male;11;academic;uk, usa;6;38;Indo-European;Balto-Slavic;4;7
+2283;russian16 time stretch;russian16 time stretch;minsk, belarus;russian;belarusan polish french german;35;male;11;academic;uk, usa;6;38;Indo-European;Balto-Slavic;4;7
+2283;russian16 pitch scale;russian16 pitch scale;minsk, belarus;russian;belarusan polish french german;35;male;11;academic;uk, usa;6;38;Indo-European;Balto-Slavic;4;7
+2283;russian16 random gain;russian16 random gain;minsk, belarus;russian;belarusan polish french german;35;male;11;academic;uk, usa;6;38;Indo-European;Balto-Slavic;4;7
+2284;russian17;russian17;pskov, russia;russian;spanish portuguese;37;male;18;academic;usa;2;38;Indo-European;Balto-Slavic;4;7
+2284;russian17 white noise;russian17 white noise;pskov, russia;russian;spanish portuguese;37;male;18;academic;usa;2;38;Indo-European;Balto-Slavic;4;7
+2284;russian17 time stretch;russian17 time stretch;pskov, russia;russian;spanish portuguese;37;male;18;academic;usa;2;38;Indo-European;Balto-Slavic;4;7
+2284;russian17 pitch scale;russian17 pitch scale;pskov, russia;russian;spanish portuguese;37;male;18;academic;usa;2;38;Indo-European;Balto-Slavic;4;7
+2284;russian17 random gain;russian17 random gain;pskov, russia;russian;spanish portuguese;37;male;18;academic;usa;2;38;Indo-European;Balto-Slavic;4;7
+2285;russian18;russian18;komsomolsk-on-amur, russia;russian;german;23;male;13;academic;usa;1;38;Indo-European;Balto-Slavic;4;7
+2285;russian18 white noise;russian18 white noise;komsomolsk-on-amur, russia;russian;german;23;male;13;academic;usa;1;38;Indo-European;Balto-Slavic;4;7
+2285;russian18 time stretch;russian18 time stretch;komsomolsk-on-amur, russia;russian;german;23;male;13;academic;usa;1;38;Indo-European;Balto-Slavic;4;7
+2285;russian18 pitch scale;russian18 pitch scale;komsomolsk-on-amur, russia;russian;german;23;male;13;academic;usa;1;38;Indo-European;Balto-Slavic;4;7
+2285;russian18 random gain;russian18 random gain;komsomolsk-on-amur, russia;russian;german;23;male;13;academic;usa;1;38;Indo-European;Balto-Slavic;4;7
+2286;russian19;russian19;zhezkazgan, kazakhstan;russian;german;40;male;17;academic;usa;7;38;Indo-European;Balto-Slavic;4;7
+2286;russian19 white noise;russian19 white noise;zhezkazgan, kazakhstan;russian;german;40;male;17;academic;usa;7;38;Indo-European;Balto-Slavic;4;7
+2286;russian19 time stretch;russian19 time stretch;zhezkazgan, kazakhstan;russian;german;40;male;17;academic;usa;7;38;Indo-European;Balto-Slavic;4;7
+2286;russian19 pitch scale;russian19 pitch scale;zhezkazgan, kazakhstan;russian;german;40;male;17;academic;usa;7;38;Indo-European;Balto-Slavic;4;7
+2286;russian19 random gain;russian19 random gain;zhezkazgan, kazakhstan;russian;german;40;male;17;academic;usa;7;38;Indo-European;Balto-Slavic;4;7
+2287;russian20;russian20;kostanai, kazakhstan;russian;none;28;female;17;academic;;0;38;Indo-European;Balto-Slavic;4;7
+2287;russian20 white noise;russian20 white noise;kostanai, kazakhstan;russian;none;28;female;17;academic;;0;38;Indo-European;Balto-Slavic;4;7
+2287;russian20 time stretch;russian20 time stretch;kostanai, kazakhstan;russian;none;28;female;17;academic;;0;38;Indo-European;Balto-Slavic;4;7
+2287;russian20 pitch scale;russian20 pitch scale;kostanai, kazakhstan;russian;none;28;female;17;academic;;0;38;Indo-European;Balto-Slavic;4;7
+2287;russian20 random gain;russian20 random gain;kostanai, kazakhstan;russian;none;28;female;17;academic;;0;38;Indo-European;Balto-Slavic;4;7
+2384;sinhala2;sinhala2;colombo, sri lanka;sinhala;malay;28;female;11;academic;usa;15;40;Indo-European;Indo-Iranian;4;10
+2384;sinhala2 white noise;sinhala2 white noise;colombo, sri lanka;sinhala;malay;28;female;11;academic;usa;15;40;Indo-European;Indo-Iranian;4;10
+2384;sinhala2 time stretch;sinhala2 time stretch;colombo, sri lanka;sinhala;malay;28;female;11;academic;usa;15;40;Indo-European;Indo-Iranian;4;10
+2384;sinhala2 pitch scale;sinhala2 pitch scale;colombo, sri lanka;sinhala;malay;28;female;11;academic;usa;15;40;Indo-European;Indo-Iranian;4;10
+2384;sinhala2 random gain;sinhala2 random gain;colombo, sri lanka;sinhala;malay;28;female;11;academic;usa;15;40;Indo-European;Indo-Iranian;4;10
+2432;spanish5;spanish5;bogota, colombia;spanish;french german;52;female;13;naturalistic;usa;17;41;Indo-European;Italic;4;11
+2432;spanish5 white noise;spanish5 white noise;bogota, colombia;spanish;french german;52;female;13;naturalistic;usa;17;41;Indo-European;Italic;4;11
+2432;spanish5 time stretch;spanish5 time stretch;bogota, colombia;spanish;french german;52;female;13;naturalistic;usa;17;41;Indo-European;Italic;4;11
+2432;spanish5 pitch scale;spanish5 pitch scale;bogota, colombia;spanish;french german;52;female;13;naturalistic;usa;17;41;Indo-European;Italic;4;11
+2432;spanish5 random gain;spanish5 random gain;bogota, colombia;spanish;french german;52;female;13;naturalistic;usa;17;41;Indo-European;Italic;4;11
+2433;spanish6;spanish6;lima, peru;spanish;none;20;male;19;academic;usa;1;41;Indo-European;Italic;4;11
+2433;spanish6 white noise;spanish6 white noise;lima, peru;spanish;none;20;male;19;academic;usa;1;41;Indo-European;Italic;4;11
+2433;spanish6 time stretch;spanish6 time stretch;lima, peru;spanish;none;20;male;19;academic;usa;1;41;Indo-European;Italic;4;11
+2433;spanish6 pitch scale;spanish6 pitch scale;lima, peru;spanish;none;20;male;19;academic;usa;1;41;Indo-European;Italic;4;11
+2433;spanish6 random gain;spanish6 random gain;lima, peru;spanish;none;20;male;19;academic;usa;1;41;Indo-European;Italic;4;11
+2434;spanish7;spanish7;bogota, colombia;spanish;arabic french german swedish esperanto;21;female;20;academic;usa;0.4;41;Indo-European;Italic;4;11
+2434;spanish7 white noise;spanish7 white noise;bogota, colombia;spanish;arabic french german swedish esperanto;21;female;20;academic;usa;0.4;41;Indo-European;Italic;4;11
+2434;spanish7 time stretch;spanish7 time stretch;bogota, colombia;spanish;arabic french german swedish esperanto;21;female;20;academic;usa;0.4;41;Indo-European;Italic;4;11
+2434;spanish7 pitch scale;spanish7 pitch scale;bogota, colombia;spanish;arabic french german swedish esperanto;21;female;20;academic;usa;0.4;41;Indo-European;Italic;4;11
+2434;spanish7 random gain;spanish7 random gain;bogota, colombia;spanish;arabic french german swedish esperanto;21;female;20;academic;usa;0.4;41;Indo-European;Italic;4;11
+2435;spanish8;spanish8;san salvador, el salvador;spanish;none;21;male;12;academic;usa;0.5;41;Indo-European;Italic;4;11
+2435;spanish8 white noise;spanish8 white noise;san salvador, el salvador;spanish;none;21;male;12;academic;usa;0.5;41;Indo-European;Italic;4;11
+2435;spanish8 time stretch;spanish8 time stretch;san salvador, el salvador;spanish;none;21;male;12;academic;usa;0.5;41;Indo-European;Italic;4;11
+2435;spanish8 pitch scale;spanish8 pitch scale;san salvador, el salvador;spanish;none;21;male;12;academic;usa;0.5;41;Indo-European;Italic;4;11
+2435;spanish8 random gain;spanish8 random gain;san salvador, el salvador;spanish;none;21;male;12;academic;usa;0.5;41;Indo-European;Italic;4;11
+2436;spanish9;spanish9;araure, venezuela;spanish;none;20;male;17;academic;usa,trinidad;0.4;41;Indo-European;Italic;4;11
+2436;spanish9 white noise;spanish9 white noise;araure, venezuela;spanish;none;20;male;17;academic;usa,trinidad;0.4;41;Indo-European;Italic;4;11
+2436;spanish9 time stretch;spanish9 time stretch;araure, venezuela;spanish;none;20;male;17;academic;usa,trinidad;0.4;41;Indo-European;Italic;4;11
+2436;spanish9 pitch scale;spanish9 pitch scale;araure, venezuela;spanish;none;20;male;17;academic;usa,trinidad;0.4;41;Indo-European;Italic;4;11
+2436;spanish9 random gain;spanish9 random gain;araure, venezuela;spanish;none;20;male;17;academic;usa,trinidad;0.4;41;Indo-European;Italic;4;11
+2437;spanish29;spanish29;maracaibo, zulia, venezuela;spanish;french;18;male;10;academic;canada;0.5;41;Indo-European;Italic;4;11
+2437;spanish29 white noise;spanish29 white noise;maracaibo, zulia, venezuela;spanish;french;18;male;10;academic;canada;0.5;41;Indo-European;Italic;4;11
+2437;spanish29 time stretch;spanish29 time stretch;maracaibo, zulia, venezuela;spanish;french;18;male;10;academic;canada;0.5;41;Indo-European;Italic;4;11
+2437;spanish29 pitch scale;spanish29 pitch scale;maracaibo, zulia, venezuela;spanish;french;18;male;10;academic;canada;0.5;41;Indo-European;Italic;4;11
+2437;spanish29 random gain;spanish29 random gain;maracaibo, zulia, venezuela;spanish;french;18;male;10;academic;canada;0.5;41;Indo-European;Italic;4;11
+2438;spanish30;spanish30;buenos aires, argentina;spanish;french portuguese italian;18;male;5;academic;;0;41;Indo-European;Italic;4;11
+2438;spanish30 white noise;spanish30 white noise;buenos aires, argentina;spanish;french portuguese italian;18;male;5;academic;;0;41;Indo-European;Italic;4;11
+2438;spanish30 time stretch;spanish30 time stretch;buenos aires, argentina;spanish;french portuguese italian;18;male;5;academic;;0;41;Indo-European;Italic;4;11
+2438;spanish30 pitch scale;spanish30 pitch scale;buenos aires, argentina;spanish;french portuguese italian;18;male;5;academic;;0;41;Indo-European;Italic;4;11
+2438;spanish30 random gain;spanish30 random gain;buenos aires, argentina;spanish;french portuguese italian;18;male;5;academic;;0;41;Indo-European;Italic;4;11
+2439;spanish31;spanish31;guayaquil, ecuador;spanish;none;31;female;7;academic;usa;7;41;Indo-European;Italic;4;11
+2439;spanish31 white noise;spanish31 white noise;guayaquil, ecuador;spanish;none;31;female;7;academic;usa;7;41;Indo-European;Italic;4;11
+2439;spanish31 time stretch;spanish31 time stretch;guayaquil, ecuador;spanish;none;31;female;7;academic;usa;7;41;Indo-European;Italic;4;11
+2439;spanish31 pitch scale;spanish31 pitch scale;guayaquil, ecuador;spanish;none;31;female;7;academic;usa;7;41;Indo-European;Italic;4;11
+2439;spanish31 random gain;spanish31 random gain;guayaquil, ecuador;spanish;none;31;female;7;academic;usa;7;41;Indo-European;Italic;4;11
+2440;spanish32;spanish32;santa cruz, bolivia;spanish;portuguese;26;male;22;academic;usa;4;41;Indo-European;Italic;4;11
+2440;spanish32 white noise;spanish32 white noise;santa cruz, bolivia;spanish;portuguese;26;male;22;academic;usa;4;41;Indo-European;Italic;4;11
+2440;spanish32 time stretch;spanish32 time stretch;santa cruz, bolivia;spanish;portuguese;26;male;22;academic;usa;4;41;Indo-European;Italic;4;11
+2440;spanish32 pitch scale;spanish32 pitch scale;santa cruz, bolivia;spanish;portuguese;26;male;22;academic;usa;4;41;Indo-European;Italic;4;11
+2440;spanish32 random gain;spanish32 random gain;santa cruz, bolivia;spanish;portuguese;26;male;22;academic;usa;4;41;Indo-European;Italic;4;11
+2441;spanish33;spanish33;caracas, venezuela;spanish;none;18;male;15;academic;usa;3;41;Indo-European;Italic;4;11
+2441;spanish33 white noise;spanish33 white noise;caracas, venezuela;spanish;none;18;male;15;academic;usa;3;41;Indo-European;Italic;4;11
+2441;spanish33 time stretch;spanish33 time stretch;caracas, venezuela;spanish;none;18;male;15;academic;usa;3;41;Indo-European;Italic;4;11
+2441;spanish33 pitch scale;spanish33 pitch scale;caracas, venezuela;spanish;none;18;male;15;academic;usa;3;41;Indo-European;Italic;4;11
+2441;spanish33 random gain;spanish33 random gain;caracas, venezuela;spanish;none;18;male;15;academic;usa;3;41;Indo-European;Italic;4;11
+2442;spanish34;spanish34;cartagena, spain;spanish;german;28;male;11;academic;uk;0.75;41;Indo-European;Italic;4;11
+2442;spanish34 white noise;spanish34 white noise;cartagena, spain;spanish;german;28;male;11;academic;uk;0.75;41;Indo-European;Italic;4;11
+2442;spanish34 time stretch;spanish34 time stretch;cartagena, spain;spanish;german;28;male;11;academic;uk;0.75;41;Indo-European;Italic;4;11
+2442;spanish34 pitch scale;spanish34 pitch scale;cartagena, spain;spanish;german;28;male;11;academic;uk;0.75;41;Indo-European;Italic;4;11
+2442;spanish34 random gain;spanish34 random gain;cartagena, spain;spanish;german;28;male;11;academic;uk;0.75;41;Indo-European;Italic;4;11
+2443;spanish35;spanish35;mexico city, mexico;spanish;italian;28;male;17;academic;usa;4.25;41;Indo-European;Italic;4;11
+2443;spanish35 white noise;spanish35 white noise;mexico city, mexico;spanish;italian;28;male;17;academic;usa;4.25;41;Indo-European;Italic;4;11
+2443;spanish35 time stretch;spanish35 time stretch;mexico city, mexico;spanish;italian;28;male;17;academic;usa;4.25;41;Indo-European;Italic;4;11
+2443;spanish35 pitch scale;spanish35 pitch scale;mexico city, mexico;spanish;italian;28;male;17;academic;usa;4.25;41;Indo-European;Italic;4;11
+2443;spanish35 random gain;spanish35 random gain;mexico city, mexico;spanish;italian;28;male;17;academic;usa;4.25;41;Indo-European;Italic;4;11
+2444;spanish36;spanish36;montevideo, uruguay;spanish;none;27;male;25;academic;;0;41;Indo-European;Italic;4;11
+2444;spanish36 white noise;spanish36 white noise;montevideo, uruguay;spanish;none;27;male;25;academic;;0;41;Indo-European;Italic;4;11
+2444;spanish36 time stretch;spanish36 time stretch;montevideo, uruguay;spanish;none;27;male;25;academic;;0;41;Indo-European;Italic;4;11
+2444;spanish36 pitch scale;spanish36 pitch scale;montevideo, uruguay;spanish;none;27;male;25;academic;;0;41;Indo-European;Italic;4;11
+2444;spanish36 random gain;spanish36 random gain;montevideo, uruguay;spanish;none;27;male;25;academic;;0;41;Indo-European;Italic;4;11
+2445;spanish37;spanish37;tegucigalpa, honduras;spanish;russian;50;female;17;academic;usa;13;41;Indo-European;Italic;4;11
+2445;spanish37 white noise;spanish37 white noise;tegucigalpa, honduras;spanish;russian;50;female;17;academic;usa;13;41;Indo-European;Italic;4;11
+2445;spanish37 time stretch;spanish37 time stretch;tegucigalpa, honduras;spanish;russian;50;female;17;academic;usa;13;41;Indo-European;Italic;4;11
+2445;spanish37 pitch scale;spanish37 pitch scale;tegucigalpa, honduras;spanish;russian;50;female;17;academic;usa;13;41;Indo-European;Italic;4;11
+2445;spanish37 random gain;spanish37 random gain;tegucigalpa, honduras;spanish;russian;50;female;17;academic;usa;13;41;Indo-European;Italic;4;11
+2446;spanish38;spanish38;tegucigalpa, honduras;spanish;portuguese;53;male;13;academic;usa;15;41;Indo-European;Italic;4;11
+2446;spanish38 white noise;spanish38 white noise;tegucigalpa, honduras;spanish;portuguese;53;male;13;academic;usa;15;41;Indo-European;Italic;4;11
+2446;spanish38 time stretch;spanish38 time stretch;tegucigalpa, honduras;spanish;portuguese;53;male;13;academic;usa;15;41;Indo-European;Italic;4;11
+2446;spanish38 pitch scale;spanish38 pitch scale;tegucigalpa, honduras;spanish;portuguese;53;male;13;academic;usa;15;41;Indo-European;Italic;4;11
+2446;spanish38 random gain;spanish38 random gain;tegucigalpa, honduras;spanish;portuguese;53;male;13;academic;usa;15;41;Indo-European;Italic;4;11
+2447;spanish39;spanish39;pamplona, spain;spanish;none;20;male;3;academic;;0;41;Indo-European;Italic;4;11
+2447;spanish39 white noise;spanish39 white noise;pamplona, spain;spanish;none;20;male;3;academic;;0;41;Indo-European;Italic;4;11
+2447;spanish39 time stretch;spanish39 time stretch;pamplona, spain;spanish;none;20;male;3;academic;;0;41;Indo-European;Italic;4;11
+2447;spanish39 pitch scale;spanish39 pitch scale;pamplona, spain;spanish;none;20;male;3;academic;;0;41;Indo-European;Italic;4;11
+2447;spanish39 random gain;spanish39 random gain;pamplona, spain;spanish;none;20;male;3;academic;;0;41;Indo-European;Italic;4;11
+2448;spanish40;spanish40;cartago, costa rica;spanish;italian;20;male;6;academic;;0;41;Indo-European;Italic;4;11
+2448;spanish40 white noise;spanish40 white noise;cartago, costa rica;spanish;italian;20;male;6;academic;;0;41;Indo-European;Italic;4;11
+2448;spanish40 time stretch;spanish40 time stretch;cartago, costa rica;spanish;italian;20;male;6;academic;;0;41;Indo-European;Italic;4;11
+2448;spanish40 pitch scale;spanish40 pitch scale;cartago, costa rica;spanish;italian;20;male;6;academic;;0;41;Indo-European;Italic;4;11
+2448;spanish40 random gain;spanish40 random gain;cartago, costa rica;spanish;italian;20;male;6;academic;;0;41;Indo-European;Italic;4;11
+2449;spanish41;spanish41;bonao, dominican republic;spanish;none;25;male;6;naturalistic;usa;23;41;Indo-European;Italic;4;11
+2449;spanish41 white noise;spanish41 white noise;bonao, dominican republic;spanish;none;25;male;6;naturalistic;usa;23;41;Indo-European;Italic;4;11
+2449;spanish41 time stretch;spanish41 time stretch;bonao, dominican republic;spanish;none;25;male;6;naturalistic;usa;23;41;Indo-European;Italic;4;11
+2449;spanish41 pitch scale;spanish41 pitch scale;bonao, dominican republic;spanish;none;25;male;6;naturalistic;usa;23;41;Indo-European;Italic;4;11
+2449;spanish41 random gain;spanish41 random gain;bonao, dominican republic;spanish;none;25;male;6;naturalistic;usa;23;41;Indo-European;Italic;4;11
+2450;spanish42;spanish42;bogota, colombia;spanish;none;80;female;18;academic;usa;20;41;Indo-European;Italic;4;11
+2450;spanish42 white noise;spanish42 white noise;bogota, colombia;spanish;none;80;female;18;academic;usa;20;41;Indo-European;Italic;4;11
+2450;spanish42 time stretch;spanish42 time stretch;bogota, colombia;spanish;none;80;female;18;academic;usa;20;41;Indo-European;Italic;4;11
+2450;spanish42 pitch scale;spanish42 pitch scale;bogota, colombia;spanish;none;80;female;18;academic;usa;20;41;Indo-European;Italic;4;11
+2450;spanish42 random gain;spanish42 random gain;bogota, colombia;spanish;none;80;female;18;academic;usa;20;41;Indo-European;Italic;4;11
+2451;spanish43;spanish43;santiago-dr, dominican republic;spanish;none;43;male;16;academic;usa;22;41;Indo-European;Italic;4;11
+2451;spanish43 white noise;spanish43 white noise;santiago-dr, dominican republic;spanish;none;43;male;16;academic;usa;22;41;Indo-European;Italic;4;11
+2451;spanish43 time stretch;spanish43 time stretch;santiago-dr, dominican republic;spanish;none;43;male;16;academic;usa;22;41;Indo-European;Italic;4;11
+2451;spanish43 pitch scale;spanish43 pitch scale;santiago-dr, dominican republic;spanish;none;43;male;16;academic;usa;22;41;Indo-European;Italic;4;11
+2451;spanish43 random gain;spanish43 random gain;santiago-dr, dominican republic;spanish;none;43;male;16;academic;usa;22;41;Indo-European;Italic;4;11
+2452;spanish45;spanish45;santiago-dr, dominican republic;spanish;none;47;female;12;academic;usa;2;41;Indo-European;Italic;4;11
+2452;spanish45 white noise;spanish45 white noise;santiago-dr, dominican republic;spanish;none;47;female;12;academic;usa;2;41;Indo-European;Italic;4;11
+2452;spanish45 time stretch;spanish45 time stretch;santiago-dr, dominican republic;spanish;none;47;female;12;academic;usa;2;41;Indo-European;Italic;4;11
+2452;spanish45 pitch scale;spanish45 pitch scale;santiago-dr, dominican republic;spanish;none;47;female;12;academic;usa;2;41;Indo-European;Italic;4;11
+2452;spanish45 random gain;spanish45 random gain;santiago-dr, dominican republic;spanish;none;47;female;12;academic;usa;2;41;Indo-European;Italic;4;11
+2453;spanish44;spanish44;la romana, dominican republic;spanish;none;37;female;4;academic;usa;11.5;41;Indo-European;Italic;4;11
+2453;spanish44 white noise;spanish44 white noise;la romana, dominican republic;spanish;none;37;female;4;academic;usa;11.5;41;Indo-European;Italic;4;11
+2453;spanish44 time stretch;spanish44 time stretch;la romana, dominican republic;spanish;none;37;female;4;academic;usa;11.5;41;Indo-European;Italic;4;11
+2453;spanish44 pitch scale;spanish44 pitch scale;la romana, dominican republic;spanish;none;37;female;4;academic;usa;11.5;41;Indo-European;Italic;4;11
+2453;spanish44 random gain;spanish44 random gain;la romana, dominican republic;spanish;none;37;female;4;academic;usa;11.5;41;Indo-European;Italic;4;11
+2454;spanish46;spanish46;santo domingo, dominican republic;spanish;french;33;male;14;academic;usa;10;41;Indo-European;Italic;4;11
+2454;spanish46 white noise;spanish46 white noise;santo domingo, dominican republic;spanish;french;33;male;14;academic;usa;10;41;Indo-European;Italic;4;11
+2454;spanish46 time stretch;spanish46 time stretch;santo domingo, dominican republic;spanish;french;33;male;14;academic;usa;10;41;Indo-European;Italic;4;11
+2454;spanish46 pitch scale;spanish46 pitch scale;santo domingo, dominican republic;spanish;french;33;male;14;academic;usa;10;41;Indo-European;Italic;4;11
+2454;spanish46 random gain;spanish46 random gain;santo domingo, dominican republic;spanish;french;33;male;14;academic;usa;10;41;Indo-European;Italic;4;11
+2649;swedish3;swedish3;stockholm, sweden;swedish;german;24;male;10;academic;;0;42;Indo-European;Germanic;4;8
+2649;swedish3 white noise;swedish3 white noise;stockholm, sweden;swedish;german;24;male;10;academic;;0;42;Indo-European;Germanic;4;8
+2649;swedish3 time stretch;swedish3 time stretch;stockholm, sweden;swedish;german;24;male;10;academic;;0;42;Indo-European;Germanic;4;8
+2649;swedish3 pitch scale;swedish3 pitch scale;stockholm, sweden;swedish;german;24;male;10;academic;;0;42;Indo-European;Germanic;4;8
+2649;swedish3 random gain;swedish3 random gain;stockholm, sweden;swedish;german;24;male;10;academic;;0;42;Indo-European;Germanic;4;8
+2650;swedish4;swedish4;lulea, sweden;swedish;german;22;male;10;academic;;0;42;Indo-European;Germanic;4;8
+2650;swedish4 white noise;swedish4 white noise;lulea, sweden;swedish;german;22;male;10;academic;;0;42;Indo-European;Germanic;4;8
+2650;swedish4 time stretch;swedish4 time stretch;lulea, sweden;swedish;german;22;male;10;academic;;0;42;Indo-European;Germanic;4;8
+2650;swedish4 pitch scale;swedish4 pitch scale;lulea, sweden;swedish;german;22;male;10;academic;;0;42;Indo-European;Germanic;4;8
+2650;swedish4 random gain;swedish4 random gain;lulea, sweden;swedish;german;22;male;10;academic;;0;42;Indo-European;Germanic;4;8
+2686;tagalog3;tagalog3;honiara, guadalcanal, solomon islands;tagalog;bislama solomon islands pidgin;19;female;1;naturalistic;usa;3;43;Austronesian;Malayo-Polynesian;2;3
+2686;tagalog3 white noise;tagalog3 white noise;honiara, guadalcanal, solomon islands;tagalog;bislama solomon islands pidgin;19;female;1;naturalistic;usa;3;43;Austronesian;Malayo-Polynesian;2;3
+2686;tagalog3 time stretch;tagalog3 time stretch;honiara, guadalcanal, solomon islands;tagalog;bislama solomon islands pidgin;19;female;1;naturalistic;usa;3;43;Austronesian;Malayo-Polynesian;2;3
+2686;tagalog3 pitch scale;tagalog3 pitch scale;honiara, guadalcanal, solomon islands;tagalog;bislama solomon islands pidgin;19;female;1;naturalistic;usa;3;43;Austronesian;Malayo-Polynesian;2;3
+2686;tagalog3 random gain;tagalog3 random gain;honiara, guadalcanal, solomon islands;tagalog;bislama solomon islands pidgin;19;female;1;naturalistic;usa;3;43;Austronesian;Malayo-Polynesian;2;3
+2687;tagalog4;tagalog4;san fernando, la union, philippines;tagalog;ilocano;48;female;7;academic;usa;20;43;Austronesian;Malayo-Polynesian;2;3
+2687;tagalog4 white noise;tagalog4 white noise;san fernando, la union, philippines;tagalog;ilocano;48;female;7;academic;usa;20;43;Austronesian;Malayo-Polynesian;2;3
+2687;tagalog4 time stretch;tagalog4 time stretch;san fernando, la union, philippines;tagalog;ilocano;48;female;7;academic;usa;20;43;Austronesian;Malayo-Polynesian;2;3
+2687;tagalog4 pitch scale;tagalog4 pitch scale;san fernando, la union, philippines;tagalog;ilocano;48;female;7;academic;usa;20;43;Austronesian;Malayo-Polynesian;2;3
+2687;tagalog4 random gain;tagalog4 random gain;san fernando, la union, philippines;tagalog;ilocano;48;female;7;academic;usa;20;43;Austronesian;Malayo-Polynesian;2;3
+2713;taiwanese2;taiwanese2;taipei, taiwan;taiwanese;mandarin;24;female;17;academic;usa;0.25;44;Sino-Tibetan;Chinese;11;18
+2713;taiwanese2 white noise;taiwanese2 white noise;taipei, taiwan;taiwanese;mandarin;24;female;17;academic;usa;0.25;44;Sino-Tibetan;Chinese;11;18
+2713;taiwanese2 time stretch;taiwanese2 time stretch;taipei, taiwan;taiwanese;mandarin;24;female;17;academic;usa;0.25;44;Sino-Tibetan;Chinese;11;18
+2713;taiwanese2 pitch scale;taiwanese2 pitch scale;taipei, taiwan;taiwanese;mandarin;24;female;17;academic;usa;0.25;44;Sino-Tibetan;Chinese;11;18
+2713;taiwanese2 random gain;taiwanese2 random gain;taipei, taiwan;taiwanese;mandarin;24;female;17;academic;usa;0.25;44;Sino-Tibetan;Chinese;11;18
+2724;tajiki2;tajiki2;khujand, tajikistan;tajiki;russian chinese;19;female;12;academic;;0;45;Indo-European;Indo-Iranian;4;10
+2724;tajiki2 white noise;tajiki2 white noise;khujand, tajikistan;tajiki;russian chinese;19;female;12;academic;;0;45;Indo-European;Indo-Iranian;4;10
+2724;tajiki2 time stretch;tajiki2 time stretch;khujand, tajikistan;tajiki;russian chinese;19;female;12;academic;;0;45;Indo-European;Indo-Iranian;4;10
+2724;tajiki2 pitch scale;tajiki2 pitch scale;khujand, tajikistan;tajiki;russian chinese;19;female;12;academic;;0;45;Indo-European;Indo-Iranian;4;10
+2724;tajiki2 random gain;tajiki2 random gain;khujand, tajikistan;tajiki;russian chinese;19;female;12;academic;;0;45;Indo-European;Indo-Iranian;4;10
+2738;tamil2;tamil2;madras, tamil nadu, india;tamil;hindi-urdu kannada malayalam;35;female;4;naturalistic;usa;5;46;Dravidian;Southern Dravidian;3;5
+2738;tamil2 white noise;tamil2 white noise;madras, tamil nadu, india;tamil;hindi-urdu kannada malayalam;35;female;4;naturalistic;usa;5;46;Dravidian;Southern Dravidian;3;5
+2738;tamil2 time stretch;tamil2 time stretch;madras, tamil nadu, india;tamil;hindi-urdu kannada malayalam;35;female;4;naturalistic;usa;5;46;Dravidian;Southern Dravidian;3;5
+2738;tamil2 pitch scale;tamil2 pitch scale;madras, tamil nadu, india;tamil;hindi-urdu kannada malayalam;35;female;4;naturalistic;usa;5;46;Dravidian;Southern Dravidian;3;5
+2738;tamil2 random gain;tamil2 random gain;madras, tamil nadu, india;tamil;hindi-urdu kannada malayalam;35;female;4;naturalistic;usa;5;46;Dravidian;Southern Dravidian;3;5
+2752;telugu2;telugu2;guntur, andhra pradesh, india;telugu;hindi-urdu;18;male;6;academic;usa;3;47;Dravidian;South-Central Dravidian;3;4
+2752;telugu2 white noise;telugu2 white noise;guntur, andhra pradesh, india;telugu;hindi-urdu;18;male;6;academic;usa;3;47;Dravidian;South-Central Dravidian;3;4
+2752;telugu2 time stretch;telugu2 time stretch;guntur, andhra pradesh, india;telugu;hindi-urdu;18;male;6;academic;usa;3;47;Dravidian;South-Central Dravidian;3;4
+2752;telugu2 pitch scale;telugu2 pitch scale;guntur, andhra pradesh, india;telugu;hindi-urdu;18;male;6;academic;usa;3;47;Dravidian;South-Central Dravidian;3;4
+2752;telugu2 random gain;telugu2 random gain;guntur, andhra pradesh, india;telugu;hindi-urdu;18;male;6;academic;usa;3;47;Dravidian;South-Central Dravidian;3;4
+2771;thai3;thai3;bangkok, thailand;thai;none;22;male;4;academic;usa;0.25;48;Kra-Dai;Kam-Tai;7;14
+2771;thai3 white noise;thai3 white noise;bangkok, thailand;thai;none;22;male;4;academic;usa;0.25;48;Kra-Dai;Kam-Tai;7;14
+2771;thai3 time stretch;thai3 time stretch;bangkok, thailand;thai;none;22;male;4;academic;usa;0.25;48;Kra-Dai;Kam-Tai;7;14
+2771;thai3 pitch scale;thai3 pitch scale;bangkok, thailand;thai;none;22;male;4;academic;usa;0.25;48;Kra-Dai;Kam-Tai;7;14
+2771;thai3 random gain;thai3 random gain;bangkok, thailand;thai;none;22;male;4;academic;usa;0.25;48;Kra-Dai;Kam-Tai;7;14
+2772;thai4;thai4;songkhla, thailand;thai;none;23;female;7;academic;usa;0.2;48;Kra-Dai;Kam-Tai;7;14
+2772;thai4 white noise;thai4 white noise;songkhla, thailand;thai;none;23;female;7;academic;usa;0.2;48;Kra-Dai;Kam-Tai;7;14
+2772;thai4 time stretch;thai4 time stretch;songkhla, thailand;thai;none;23;female;7;academic;usa;0.2;48;Kra-Dai;Kam-Tai;7;14
+2772;thai4 pitch scale;thai4 pitch scale;songkhla, thailand;thai;none;23;female;7;academic;usa;0.2;48;Kra-Dai;Kam-Tai;7;14
+2772;thai4 random gain;thai4 random gain;songkhla, thailand;thai;none;23;female;7;academic;usa;0.2;48;Kra-Dai;Kam-Tai;7;14
+2815;turkish5;turkish5;istanbul, turkey;turkish;none;30;female;11;academic;usa;5;49;Turkic;Southern Turkic;12;19
+2815;turkish5 white noise;turkish5 white noise;istanbul, turkey;turkish;none;30;female;11;academic;usa;5;49;Turkic;Southern Turkic;12;19
+2815;turkish5 time stretch;turkish5 time stretch;istanbul, turkey;turkish;none;30;female;11;academic;usa;5;49;Turkic;Southern Turkic;12;19
+2815;turkish5 pitch scale;turkish5 pitch scale;istanbul, turkey;turkish;none;30;female;11;academic;usa;5;49;Turkic;Southern Turkic;12;19
+2815;turkish5 random gain;turkish5 random gain;istanbul, turkey;turkish;none;30;female;11;academic;usa;5;49;Turkic;Southern Turkic;12;19
+2816;turkish6;turkish6;istanbul, turkey;turkish;german japanese;19;male;14;academic;;0;49;Turkic;Southern Turkic;12;19
+2816;turkish6 white noise;turkish6 white noise;istanbul, turkey;turkish;german japanese;19;male;14;academic;;0;49;Turkic;Southern Turkic;12;19
+2816;turkish6 time stretch;turkish6 time stretch;istanbul, turkey;turkish;german japanese;19;male;14;academic;;0;49;Turkic;Southern Turkic;12;19
+2816;turkish6 pitch scale;turkish6 pitch scale;istanbul, turkey;turkish;german japanese;19;male;14;academic;;0;49;Turkic;Southern Turkic;12;19
+2816;turkish6 random gain;turkish6 random gain;istanbul, turkey;turkish;german japanese;19;male;14;academic;;0;49;Turkic;Southern Turkic;12;19
+2817;turkish7;turkish7;izmir, turkey;turkish;german;19;male;13;academic;;0;49;Turkic;Southern Turkic;12;19
+2817;turkish7 white noise;turkish7 white noise;izmir, turkey;turkish;german;19;male;13;academic;;0;49;Turkic;Southern Turkic;12;19
+2817;turkish7 time stretch;turkish7 time stretch;izmir, turkey;turkish;german;19;male;13;academic;;0;49;Turkic;Southern Turkic;12;19
+2817;turkish7 pitch scale;turkish7 pitch scale;izmir, turkey;turkish;german;19;male;13;academic;;0;49;Turkic;Southern Turkic;12;19
+2817;turkish7 random gain;turkish7 random gain;izmir, turkey;turkish;german;19;male;13;academic;;0;49;Turkic;Southern Turkic;12;19
+2818;turkish8;turkish8;sivas, turkey;turkish;none;37;male;17;academic;usa;11;49;Turkic;Southern Turkic;12;19
+2818;turkish8 white noise;turkish8 white noise;sivas, turkey;turkish;none;37;male;17;academic;usa;11;49;Turkic;Southern Turkic;12;19
+2818;turkish8 time stretch;turkish8 time stretch;sivas, turkey;turkish;none;37;male;17;academic;usa;11;49;Turkic;Southern Turkic;12;19
+2818;turkish8 pitch scale;turkish8 pitch scale;sivas, turkey;turkish;none;37;male;17;academic;usa;11;49;Turkic;Southern Turkic;12;19
+2818;turkish8 random gain;turkish8 random gain;sivas, turkey;turkish;none;37;male;17;academic;usa;11;49;Turkic;Southern Turkic;12;19
+2864;ukrainian2;ukrainian2;akhtyrka, ukraine;ukrainian;serbian;53;female;44;academic;usa;10;50;Indo-European;Balto-Slavic;4;7
+2864;ukrainian2 white noise;ukrainian2 white noise;akhtyrka, ukraine;ukrainian;serbian;53;female;44;academic;usa;10;50;Indo-European;Balto-Slavic;4;7
+2864;ukrainian2 time stretch;ukrainian2 time stretch;akhtyrka, ukraine;ukrainian;serbian;53;female;44;academic;usa;10;50;Indo-European;Balto-Slavic;4;7
+2864;ukrainian2 pitch scale;ukrainian2 pitch scale;akhtyrka, ukraine;ukrainian;serbian;53;female;44;academic;usa;10;50;Indo-European;Balto-Slavic;4;7
+2864;ukrainian2 random gain;ukrainian2 random gain;akhtyrka, ukraine;ukrainian;serbian;53;female;44;academic;usa;10;50;Indo-European;Balto-Slavic;4;7
+2878;urdu3;urdu3;karachi, sind, pakistan;urdu;gujarati sindhi;25;male;3;academic;canada;2;51;Indo-European;Indo-Iranian;4;10
+2878;urdu3 white noise;urdu3 white noise;karachi, sind, pakistan;urdu;gujarati sindhi;25;male;3;academic;canada;2;51;Indo-European;Indo-Iranian;4;10
+2878;urdu3 time stretch;urdu3 time stretch;karachi, sind, pakistan;urdu;gujarati sindhi;25;male;3;academic;canada;2;51;Indo-European;Indo-Iranian;4;10
+2878;urdu3 pitch scale;urdu3 pitch scale;karachi, sind, pakistan;urdu;gujarati sindhi;25;male;3;academic;canada;2;51;Indo-European;Indo-Iranian;4;10
+2878;urdu3 random gain;urdu3 random gain;karachi, sind, pakistan;urdu;gujarati sindhi;25;male;3;academic;canada;2;51;Indo-European;Indo-Iranian;4;10
+2879;urdu4;urdu4;kuwait city, kuwait;urdu;punjabi;29;male;4;academic;usa;0.5;51;Indo-European;Indo-Iranian;4;10
+2879;urdu4 white noise;urdu4 white noise;kuwait city, kuwait;urdu;punjabi;29;male;4;academic;usa;0.5;51;Indo-European;Indo-Iranian;4;10
+2879;urdu4 time stretch;urdu4 time stretch;kuwait city, kuwait;urdu;punjabi;29;male;4;academic;usa;0.5;51;Indo-European;Indo-Iranian;4;10
+2879;urdu4 pitch scale;urdu4 pitch scale;kuwait city, kuwait;urdu;punjabi;29;male;4;academic;usa;0.5;51;Indo-European;Indo-Iranian;4;10
+2879;urdu4 random gain;urdu4 random gain;kuwait city, kuwait;urdu;punjabi;29;male;4;academic;usa;0.5;51;Indo-European;Indo-Iranian;4;10
+2920;vietnamese5;vietnamese5;cam ranh, vietnam;vietnamese;cantonese;34;male;31;academic;usa;2;52;Austro-Asiatic;Mon-Khmer;1;2
+2920;vietnamese5 white noise;vietnamese5 white noise;cam ranh, vietnam;vietnamese;cantonese;34;male;31;academic;usa;2;52;Austro-Asiatic;Mon-Khmer;1;2
+2920;vietnamese5 time stretch;vietnamese5 time stretch;cam ranh, vietnam;vietnamese;cantonese;34;male;31;academic;usa;2;52;Austro-Asiatic;Mon-Khmer;1;2
+2920;vietnamese5 pitch scale;vietnamese5 pitch scale;cam ranh, vietnam;vietnamese;cantonese;34;male;31;academic;usa;2;52;Austro-Asiatic;Mon-Khmer;1;2
+2920;vietnamese5 random gain;vietnamese5 random gain;cam ranh, vietnam;vietnamese;cantonese;34;male;31;academic;usa;2;52;Austro-Asiatic;Mon-Khmer;1;2
+2921;vietnamese6;vietnamese6;ho chi minh city, vietnam;vietnamese;french;41;male;12;academic;usa;2;52;Austro-Asiatic;Mon-Khmer;1;2
+2921;vietnamese6 white noise;vietnamese6 white noise;ho chi minh city, vietnam;vietnamese;french;41;male;12;academic;usa;2;52;Austro-Asiatic;Mon-Khmer;1;2
+2921;vietnamese6 time stretch;vietnamese6 time stretch;ho chi minh city, vietnam;vietnamese;french;41;male;12;academic;usa;2;52;Austro-Asiatic;Mon-Khmer;1;2
+2921;vietnamese6 pitch scale;vietnamese6 pitch scale;ho chi minh city, vietnam;vietnamese;french;41;male;12;academic;usa;2;52;Austro-Asiatic;Mon-Khmer;1;2
+2921;vietnamese6 random gain;vietnamese6 random gain;ho chi minh city, vietnam;vietnamese;french;41;male;12;academic;usa;2;52;Austro-Asiatic;Mon-Khmer;1;2
+2922;vietnamese7;vietnamese7;hue, vietnam;vietnamese;none;29;female;18;academic;usa;10;52;Austro-Asiatic;Mon-Khmer;1;2
+2922;vietnamese7 white noise;vietnamese7 white noise;hue, vietnam;vietnamese;none;29;female;18;academic;usa;10;52;Austro-Asiatic;Mon-Khmer;1;2
+2922;vietnamese7 time stretch;vietnamese7 time stretch;hue, vietnam;vietnamese;none;29;female;18;academic;usa;10;52;Austro-Asiatic;Mon-Khmer;1;2
+2922;vietnamese7 pitch scale;vietnamese7 pitch scale;hue, vietnam;vietnamese;none;29;female;18;academic;usa;10;52;Austro-Asiatic;Mon-Khmer;1;2
+2922;vietnamese7 random gain;vietnamese7 random gain;hue, vietnam;vietnamese;none;29;female;18;academic;usa;10;52;Austro-Asiatic;Mon-Khmer;1;2
+2923;vietnamese8;vietnamese8;ninh binh, vietnam;vietnamese;french;69;male;12;academic;usa;30;52;Austro-Asiatic;Mon-Khmer;1;2
+2923;vietnamese8 white noise;vietnamese8 white noise;ninh binh, vietnam;vietnamese;french;69;male;12;academic;usa;30;52;Austro-Asiatic;Mon-Khmer;1;2
+2923;vietnamese8 time stretch;vietnamese8 time stretch;ninh binh, vietnam;vietnamese;french;69;male;12;academic;usa;30;52;Austro-Asiatic;Mon-Khmer;1;2
+2923;vietnamese8 pitch scale;vietnamese8 pitch scale;ninh binh, vietnam;vietnamese;french;69;male;12;academic;usa;30;52;Austro-Asiatic;Mon-Khmer;1;2
+2923;vietnamese8 random gain;vietnamese8 random gain;ninh binh, vietnam;vietnamese;french;69;male;12;academic;usa;30;52;Austro-Asiatic;Mon-Khmer;1;2
